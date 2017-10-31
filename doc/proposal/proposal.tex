@@ -40,13 +40,13 @@
   Department of Data Science\\
   New York University\\
   New York, NY 10012 \\
-  \texttt{} \\
+  \texttt{zz1409@nyu.edu} \\
   \And
   Lizi Chen\\
   Department of Computer Science\\
   New York University\\
   New York, NY 10012 \\
-  \texttt{zz1409@nyu.edu} \\
+  \texttt{lc3397@nyu.edu} \\
   \And
   Guangyu Zhang\\
   Department of Computer Science\\
@@ -112,7 +112,9 @@
 \section{Algorithms}
 
 \subsection{Distant supervision}
-	Relation extraction plays a key role in knowledge graph. Traditionally, supervised techniques are adopted for non deep learning methods. \citet{Mintz:2009:DSR:1690219.1690287}
+	Relation extraction plays a key role in knowledge graph. Traditionally, supervised techniques are adopted for non deep learning methods, but requires intensive human labors of annotation. \citet{Mintz:2009:DSR:1690219.1690287} proposed a distant supervision method of automatically generating training data, via aligning documents with known knowledge base (Freebase). They have extracted lexical (e.g. sequence of words, POS tags) and syntactic (dependency parser) features, and performed named entity tagging by Stanford four-class named entity tagger \citet{Finkel:2005:INI:1219840.1219885}. Their model is reported to extract 10,000 instances of 102 relations at a precision of $67.6\%$.
+	
+	\citet{Mintz:2009:DSR:1690219.1690287} has an assumption such that if two entities participate in a relation, any sentence that contain those two entities might express that relation, while in reality may result to non-trivial noises. \citet{Riedel2010} alleviates noises via deciding whether two entities are related and also mentioned in a given sentence, and then applying "constraint-driven semi-supervision" to train
 
 \subsection{Deep learning tsunami in KG}
 
@@ -136,7 +138,7 @@
 \medskip
 
 \bibliography{proposal}
-\bibliographystyle{plain}
+\bibliographystyle{achemso}
 
 \small
 
