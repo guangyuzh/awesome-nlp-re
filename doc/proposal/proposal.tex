@@ -22,8 +22,7 @@
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
 
-
-\title{need a better title...}
+\title{Relation Extraction (need a better title...)}
 
 % The \author macro works with any number of authors. There are two
 % commands used to separate the names and addresses of multiple
@@ -121,11 +120,42 @@
 \subsubsection{PCNN with attention mechanism}
 	We will compare work developed in several different deep learning publications. We will focus on the basic CNN model (Zeng et al 2014), Piecewise CNN (Zeng et al 2015), CNN with multiple kernels (Thien and Grishman et al 2015), as well as the use of attention (Lin et al 2016). Compare the tradeoffs between these model architectures and compare with non-deep learning baselines. \citet{DBLP:conf/acl/LinSLLS16}
 	
+	Yankai Lin et al 2016 improved the Distant supervised relation extraction method with additional attention mechanism over its previous work. The improved version has CNN for semantic feature extraction and a sentence-level attention for the purpose of reducing wrong labeling weights. 
+	
+	[Add Attention Diagram from Neural Machine Translation by Jointly Learning to Align and Translate]
+	[Add the Figure 1 of the architecture from this paper]
+	
+	\paragraph{Vector Representation}
+	
+
+	\paragraph{Convolution, Max-pooling and Non-Linear Layers}
+		
+	
+	\paragraph{Selective Attention over Instances}
+	One of the core innovative part from this paper, which makes the result stood out from past works, is the attention mechanism for all entities and providing various weights to reduce wrong entities label. For each previous layer, attention attribute is added as:
+	\[a_i = \frac{\exp(e_i)}{\displaystyle\sum_{k} \exp(e_k)}\]
+	where \(e_i = x_i A r\) \\
+	\(A\) is a matrix, \(r\) represents the relation in matrix, which is mentioned in the previous paper as well. Therefore, \(e_i\) means the matching between the sentence and entities.
+	
+	The final result conditional probability can be represented as the following through a softmax layer:
+	\[p(r|S, \theta) = \frac{\exp(o_r)}{\displaystyle\sum_{k=1}^{n_r} \exp(o_k)}\]
+
+	\(n_r\) = total number of relations \\
+	\(o\) = the final output of the neural network, which corresponds to the scores associated to all relation types. \\
+	\(\theta\) = the parameter of this model \\
+	\[o = Ms + d\]	
+
+	Therefore, the objective function using cross-entropy for the training is:
+	\[J(\theta) = \displaystyle\sum_{i=1}^{s} \log(p(r_i|S_i, \theta)) \]
+	The paper uses mini-batch chosen randomly from the training set as the result converge.
+	
+	
 \subsection{Reinforcement learning}
 
 
 \subsection{General optimization methods}
-  
+	The papers that we have investigated adopts general stochastic gradient descent (SGD) to minimize objective function.
+	Dropout layer (Srivastava et al., 2014) is implemented on the output layer to prevent overfitting.
 
 \section{Evaluation Metric}
 	We will evaluate each model on precision, recall, and F score to be consistent with the literature.
