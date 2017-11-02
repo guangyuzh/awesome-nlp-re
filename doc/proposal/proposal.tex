@@ -27,7 +27,7 @@
 \usepackage{subcaption}
 
 
-\title{Relation Extraction (need a better title...)}
+\title{Relation Extraction for Knowledge Graph and QA System Construction}
 
 % The \author macro works with any number of authors. There are two
 % commands used to separate the names and addresses of multiple
@@ -100,7 +100,8 @@
 
 	Natural language text is typically very unstructured which makes many different machine learning applications difficult. A knowledge graph can be used to model the relationships of different entities in a body of text. These graphs create a lot of value for other machine learning applications such as question answering and reading comprehension. 
 	
-	In recent years, deep learning has seen boom in popularity for nlp problems with its ability to model complicated and ambiguous text. Traditionally, people have adapted statistical methods, e.g. POS-tags, named entity tags, to extract entities relations, and reached an precision of 67.6%. In the work we will do a review of the literature around deep learning methods for knowledge graph extraction. 
+	In recent years, deep learning has seen boom in popularity for nlp problems with its ability to model complicated and ambiguous text. Traditionally, people have adapted statistical methods, e.g. POS-tags, named entity tags, to extract entities relations, and reached an precision of 67.6%.\\
+	In the work we will do a review of the literature around deep learning methods for knowledge graph extraction. 
 	
 	Based on revising recent papers, we will create program which consumes data into knowledge graph based on some available dataset as listed in the next sections. We will tweak the parameters, analyze the existing models, and further improve on selective ones. We may tentatively provide a Question-Answering testing application for graph demonstration and evaluation; however, given the amount of work and limited time in the remaining semester, we will only work on this part when time permits.
   
@@ -108,11 +109,10 @@
 	
 	\paragraph{Freebase} This data set has been massively used in many knowledge graph publications.
 	
-	\paragraph{Nell-995}
+	\paragraph{Nell-995} So is this one, which has been used in the Reinforcement Learning paper by Wenhan et al., 2017.
 	
 	\paragraph{Dataset used in \citet{Riedel2010}} This dataset was formed by aligning Freebase relations with the New York Times corpus (NYT). Entity mentions were found in the documents using the Stanford named entity tagger, and are further matched to the names of Freebase entities.
 
-  
 \section{Algorithms}
 
 \subsection{Distant supervision}
@@ -129,11 +129,11 @@
 	
 	\begin{figure}[h!]
 		\centering
-		\begin{subfigure}[b]{0.4\linewidth}
+		\begin{subfigure}[b]{0.2\linewidth}
 			\includegraphics[width=\linewidth]{figure1.png}
 			\caption{The architecture of sentence-level attention-based CNN. Used in Yankai Lin et al 2016}
 		\end{subfigure}
-		\begin{subfigure}[b]{0.4\linewidth}
+		\begin{subfigure}[b]{0.2\linewidth}
 			\includegraphics[width=\linewidth]{attention-method-1.png}
 			\caption{Classical attention mechanism used in Dzmitry arXiv:1409.0473}
 		\end{subfigure}
@@ -150,7 +150,7 @@
 	
 	\begin{figure}[h!]
 		\centering	
-		\includegraphics[scale=0.3]{figure2.png}
+		\includegraphics[scale=0.2]{figure2.png}
 		\caption{The architecture of CNN/PCNN used for sentence encoder}
 	\end{figure}	
 
@@ -175,8 +175,11 @@
 	\[J(\theta) = \displaystyle\sum_{i=1}^{s} \log(p(r_i|S_i, \theta)) \]
 	The paper uses mini-batch chosen randomly from the training set as the result converge.
 	
-\subsection{Reinforcement learning}
-
+\subsection{Reinforcement learning}	
+	\textit{This part of investigation has yet to be completed.} \\
+	Wenhan et al., 2017 have studied the problem of learning to reason in knowledge graphs (KGs) specifically in large scale. A novel reinforcement learning framework for learning multi-hop relational paths is introduced: A policy-based agent with continuous states based on knowledge graph embeddings, which reasons in a KG vector-space by sampling the most promising relation to extend its path. In contrast to prior work, such approach includes a reward function that takes the accuracy, diversity, and efficiency into consideration. Experimentally, results from this paper show that the proposed method outperforms a path-ranking based algorithm and knowledge graph embedding methods on Freebase and Never-Ending Language Learning datasets.
+	
+	\textit{Further investigation details will be added here.} \\
 
 \subsection{General optimization methods}
 	The papers that we have investigated adopts general stochastic gradient descent (SGD) to minimize objective function.
@@ -184,10 +187,8 @@
 
 \section{Evaluation Metric}
 	We will evaluate each model on precision, recall, and F score to be consistent with the literature.
- 
- 
+  
 \section{Questions}
-
 
 
 \medskip
