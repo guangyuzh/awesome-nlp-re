@@ -1,5 +1,8 @@
 \documentclass{article}
 
+\usepackage{graphicx}
+\graphicspath{ {../pics/} }
+
 % if you need to pass options to natbib, use, e.g.:
 % \PassOptionsToPackage{numbers, compress}{natbib}
 % before loading nips_2017
@@ -21,6 +24,8 @@
 \usepackage{amsfonts}       % blackboard math symbols
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
+\usepackage{subcaption}
+
 
 \title{Relation Extraction (need a better title...)}
 
@@ -122,14 +127,35 @@
 	
 	Yankai Lin et al 2016 improved the Distant supervised relation extraction method with additional attention mechanism over its previous work. The improved version has CNN for semantic feature extraction and a sentence-level attention for the purpose of reducing wrong labeling weights. 
 	
-	[Add Attention Diagram from Neural Machine Translation by Jointly Learning to Align and Translate]
-	[Add the Figure 1 of the architecture from this paper]
+	\begin{figure}[h!]
+		\centering
+		\begin{subfigure}[b]{0.4\linewidth}
+			\includegraphics[width=\linewidth]{figure1.png}
+			\caption{The architecture of sentence-level attention-based CNN. Used in Yankai Lin et al 2016}
+		\end{subfigure}
+		\begin{subfigure}[b]{0.4\linewidth}
+			\includegraphics[width=\linewidth]{attention-method-1.png}
+			\caption{Classical attention mechanism used in Dzmitry arXiv:1409.0473}
+		\end{subfigure}
+		\caption{Comparison between two attentions.}
+		\label{fig:compare}
+	\end{figure}
 	
-	\paragraph{Vector Representation}
+	\paragraph{Input Vector Representation}
+	There are many paradigms of word embedding; converting human-readable vocabularies into numbers that can be processed by machine. Two major approaches from the past several years are the Frequency based Embedding and Prediction based Embedding. 
 	
+	There are two embedding steps done for the input vector representation in this paper. One is word embedding, which aims to capture syntactic and semantic meanings of the words. The other one is based on the assumption that words that close to the target entities are usually informative to determine the relation between entities. Thus, the result vector is a concatenation of the word embedding matrix and the position embedding one. The result vector:
+	\[w_i \in \mathbb{R}^d(d = d^a + d^b \times 2) \]
+	where \(d^a\) is the dimension of the word embedding and \(d^b\) is the dimension of position embedding.
+	
+	\begin{figure}[h!]
+		\centering	
+		\includegraphics[scale=0.3]{figure2.png}
+		\caption{The architecture of CNN/PCNN used for sentence encoder}
+	\end{figure}	
 
-	\paragraph{Convolution, Max-pooling and Non-Linear Layers}
-		
+	\paragraph{Convolution, Max-pooling, Zero-paddings, and Non-Linear Layers}
+	Due to the fact that vector representation from previous step has all different size, max-pooling is required to obtain a fixed-sized vector for the input sentence.
 	
 	\paragraph{Selective Attention over Instances}
 	One of the core innovative part from this paper, which makes the result stood out from past works, is the attention mechanism for all entities and providing various weights to reduce wrong entities label. For each previous layer, attention attribute is added as:
@@ -148,7 +174,6 @@
 	Therefore, the objective function using cross-entropy for the training is:
 	\[J(\theta) = \displaystyle\sum_{i=1}^{s} \log(p(r_i|S_i, \theta)) \]
 	The paper uses mini-batch chosen randomly from the training set as the result converge.
-	
 	
 \subsection{Reinforcement learning}
 
