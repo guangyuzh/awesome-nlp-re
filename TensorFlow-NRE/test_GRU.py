@@ -226,7 +226,7 @@ def main(_):
 
                 if itchat_run:
                     tempstr = 'P@100\n'+str(correct_num_100/100)+'\n'+'P@200\n'+str(correct_num_200/200)+'\n'+'P@300\n'+str(correct_num_300/300)
-                     itchat.send(tempstr,FLAGS.wechat_name)
+                    itchat.send(tempstr,FLAGS.wechat_name)
 
 if __name__ == "__main__":
     if itchat_run:
