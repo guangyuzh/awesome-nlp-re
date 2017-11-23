@@ -1,0 +1,406 @@
+/usr/local/stow/python-3.5.2/lib/python3.5/site-packages/matplotlib/__init__.py:1041: UserWarning: Duplicate key in file "/home/gz612/.config/matplotlib/matplotlibrc", line #2
+  (fname, cnt))
+reading wordembedding
+reading training data
+2017-11-22T16:32:18.457329: step 50, softmax_loss 13.937, acc 0.94
+2017-11-22T16:32:28.843660: step 100, softmax_loss 9.56557, acc 0.98
+out of range
+2017-11-22T16:32:40.763067: step 150, softmax_loss 26.4277, acc 0.92
+2017-11-22T16:32:51.148342: step 200, softmax_loss 14.2715, acc 0.96
+2017-11-22T16:33:02.327855: step 250, softmax_loss 25.5669, acc 0.9
+2017-11-22T16:33:13.172136: step 300, softmax_loss 18.7744, acc 0.92
+2017-11-22T16:33:23.827284: step 350, softmax_loss 11.3318, acc 0.96
+2017-11-22T16:33:33.919440: step 400, softmax_loss 6.96645, acc 0.98
+2017-11-22T16:33:44.277569: step 450, softmax_loss 16.787, acc 0.94
+2017-11-22T16:33:55.211401: step 500, softmax_loss 3.96378, acc 1
+2017-11-22T16:34:05.490164: step 550, softmax_loss 21.1845, acc 0.92
+2017-11-22T16:34:16.516488: step 600, softmax_loss 33.0365, acc 0.88
+2017-11-22T16:34:26.932380: step 650, softmax_loss 27.3202, acc 0.9
+out of range
+2017-11-22T16:34:37.192543: step 700, softmax_loss 13.4328, acc 0.94
+2017-11-22T16:34:48.487446: step 750, softmax_loss 10.5257, acc 0.96
+2017-11-22T16:34:58.366633: step 800, softmax_loss 17.7132, acc 0.94
+2017-11-22T16:35:09.906273: step 850, softmax_loss 2.61585, acc 1
+2017-11-22T16:35:21.721367: step 900, softmax_loss 22.1796, acc 0.92
+2017-11-22T16:35:33.038333: step 950, softmax_loss 32.9219, acc 0.88
+2017-11-22T16:35:43.622539: step 1000, softmax_loss 30.1994, acc 0.9
+2017-11-22T16:35:54.003257: step 1050, softmax_loss 6.71489, acc 0.98
+2017-11-22T16:36:04.291180: step 1100, softmax_loss 37.0724, acc 0.86
+2017-11-22T16:36:14.574713: step 1150, softmax_loss 13.5764, acc 0.96
+2017-11-22T16:36:24.867435: step 1200, softmax_loss 17.3383, acc 0.94
+2017-11-22T16:36:35.636842: step 1250, softmax_loss 11.1278, acc 0.96
+2017-11-22T16:36:46.380474: step 1300, softmax_loss 27.6854, acc 0.88
+2017-11-22T16:37:00.107454: step 1350, softmax_loss 11.6578, acc 0.94
+out of range
+2017-11-22T16:38:20.066854: step 1400, softmax_loss 16.6434, acc 0.86
+2017-11-22T16:39:12.567848: step 1450, softmax_loss 36.1294, acc 0.86
+2017-11-22T16:40:09.886024: step 1500, softmax_loss 12.2191, acc 0.9
+2017-11-22T16:43:54.899470: step 1550, softmax_loss 10.7121, acc 0.98
+2017-11-22T16:44:04.725732: step 1600, softmax_loss 8.45393, acc 0.96
+2017-11-22T16:44:14.497479: step 1650, softmax_loss 23.5203, acc 0.9
+2017-11-22T16:44:24.651429: step 1700, softmax_loss 13.6074, acc 0.94
+2017-11-22T16:44:34.531704: step 1750, softmax_loss 25.3713, acc 0.9
+2017-11-22T16:44:43.764650: step 1800, softmax_loss 14.1615, acc 0.94
+2017-11-22T16:44:53.266475: step 1850, softmax_loss 18.147, acc 0.94
+2017-11-22T16:45:02.515741: step 1900, softmax_loss 16.5443, acc 0.92
+2017-11-22T16:45:11.603243: step 1950, softmax_loss 11.6955, acc 0.94
+2017-11-22T16:45:22.978391: step 2000, softmax_loss 14.4769, acc 0.94
+2017-11-22T16:45:32.437545: step 2050, softmax_loss 21.084, acc 0.9
+2017-11-22T16:45:41.477252: step 2100, softmax_loss 11.7223, acc 0.92
+2017-11-22T16:45:51.977274: step 2150, softmax_loss 4.49881, acc 0.98
+2017-11-22T16:46:01.524870: step 2200, softmax_loss 18.7732, acc 0.9
+2017-11-22T16:46:11.062376: step 2250, softmax_loss 8.96934, acc 0.96
+2017-11-22T16:46:21.247979: step 2300, softmax_loss 16.2642, acc 0.9
+2017-11-22T16:46:31.097658: step 2350, softmax_loss 13.9053, acc 0.92
+2017-11-22T16:46:41.631319: step 2400, softmax_loss 9.2384, acc 0.94
+2017-11-22T16:46:53.413352: step 2450, softmax_loss 8.57373, acc 0.96
+2017-11-22T16:47:03.131847: step 2500, softmax_loss 4.458, acc 1
+2017-11-22T16:47:13.344370: step 2550, softmax_loss 4.35096, acc 0.96
+2017-11-22T16:47:22.751782: step 2600, softmax_loss 3.45098, acc 1
+2017-11-22T16:47:32.246843: step 2650, softmax_loss 18.1858, acc 0.92
+2017-11-22T16:47:43.911865: step 2700, softmax_loss 12.6599, acc 0.94
+2017-11-22T16:47:53.445476: step 2750, softmax_loss 10.0566, acc 0.9
+2017-11-22T16:48:02.845085: step 2800, softmax_loss 6.37178, acc 0.98
+2017-11-22T16:48:13.828063: step 2850, softmax_loss 10.7033, acc 0.94
+2017-11-22T16:48:24.438579: step 2900, softmax_loss 10.9049, acc 0.96
+2017-11-22T16:48:33.848075: step 2950, softmax_loss 16.4828, acc 0.92
+2017-11-22T16:48:43.861162: step 3000, softmax_loss 16.3913, acc 0.88
+2017-11-22T16:48:53.179965: step 3050, softmax_loss 18.2678, acc 0.92
+2017-11-22T16:49:04.907192: step 3100, softmax_loss 4.0869, acc 0.98
+2017-11-22T16:49:14.711776: step 3150, softmax_loss 7.18171, acc 0.96
+2017-11-22T16:49:25.443435: step 3200, softmax_loss 22.9493, acc 0.92
+2017-11-22T16:49:34.660631: step 3250, softmax_loss 4.766, acc 0.98
+out of range
+2017-11-22T16:49:45.088377: step 3300, softmax_loss 1.71989, acc 1
+2017-11-22T16:49:54.035275: step 3350, softmax_loss 25.1374, acc 0.88
+out of range
+2017-11-22T16:50:03.935933: step 3400, softmax_loss 18.6414, acc 0.9
+2017-11-22T16:50:14.029683: step 3450, softmax_loss 8.49943, acc 0.98
+2017-11-22T16:50:23.811834: step 3500, softmax_loss 5.73445, acc 0.98
+2017-11-22T16:50:33.786203: step 3550, softmax_loss 12.0611, acc 0.96
+2017-11-22T16:50:42.670700: step 3600, softmax_loss 6.04159, acc 0.98
+2017-11-22T16:50:51.959218: step 3650, softmax_loss 5.41703, acc 0.98
+2017-11-22T16:51:02.706156: step 3700, softmax_loss 9.50885, acc 0.96
+2017-11-22T16:51:12.299734: step 3750, softmax_loss 19.0644, acc 0.88
+2017-11-22T16:51:21.829786: step 3800, softmax_loss 12.7821, acc 0.9
+2017-11-22T16:51:31.312796: step 3850, softmax_loss 3.29496, acc 0.98
+2017-11-22T16:51:40.582888: step 3900, softmax_loss 13.4736, acc 0.94
+2017-11-22T16:51:50.209596: step 3950, softmax_loss 12.5491, acc 0.94
+2017-11-22T16:51:59.085071: step 4000, softmax_loss 15.0943, acc 0.9
+2017-11-22T16:52:08.173681: step 4050, softmax_loss 7.75627, acc 0.94
+2017-11-22T16:52:17.259579: step 4100, softmax_loss 13.1478, acc 0.94
+2017-11-22T16:52:27.145620: step 4150, softmax_loss 9.0633, acc 0.94
+2017-11-22T16:52:36.709350: step 4200, softmax_loss 7.76669, acc 0.96
+2017-11-22T16:52:47.129839: step 4250, softmax_loss 4.88406, acc 0.94
+2017-11-22T16:52:57.877503: step 4300, softmax_loss 13.2815, acc 0.94
+2017-11-22T16:53:09.429066: step 4350, softmax_loss 6.24782, acc 0.96
+2017-11-22T16:53:18.496145: step 4400, softmax_loss 6.59445, acc 0.98
+2017-11-22T16:53:27.738048: step 4450, softmax_loss 3.72375, acc 0.98
+2017-11-22T16:53:36.758613: step 4500, softmax_loss 8.69038, acc 0.96
+2017-11-22T16:53:48.266110: step 4550, softmax_loss 5.83465, acc 0.98
+2017-11-22T16:53:57.927359: step 4600, softmax_loss 4.48449, acc 0.98
+2017-11-22T16:54:06.818607: step 4650, softmax_loss 9.88622, acc 0.94
+2017-11-22T16:54:16.864608: step 4700, softmax_loss 4.19623, acc 0.98
+2017-11-22T16:54:26.260571: step 4750, softmax_loss 9.61862, acc 0.96
+2017-11-22T16:54:36.322624: step 4800, softmax_loss 2.13152, acc 0.98
+2017-11-22T16:54:45.933379: step 4850, softmax_loss 3.59936, acc 0.96
+2017-11-22T16:54:55.462086: step 4900, softmax_loss 14.1586, acc 0.9
+2017-11-22T16:55:05.480304: step 4950, softmax_loss 5.78613, acc 0.94
+out of range
+2017-11-22T16:55:14.748220: step 5000, softmax_loss 9.22692, acc 0.98
+2017-11-22T16:55:23.998388: step 5050, softmax_loss 6.2974, acc 0.92
+2017-11-22T16:55:33.754323: step 5100, softmax_loss 9.42818, acc 0.96
+2017-11-22T16:55:43.662260: step 5150, softmax_loss 9.39383, acc 0.9
+2017-11-22T16:55:53.463822: step 5200, softmax_loss 6.32837, acc 0.94
+2017-11-22T16:56:02.315383: step 5250, softmax_loss 14.8142, acc 0.92
+2017-11-22T16:56:11.885835: step 5300, softmax_loss 2.81222, acc 0.98
+2017-11-22T16:56:21.040659: step 5350, softmax_loss 2.15622, acc 1
+2017-11-22T16:56:30.431130: step 5400, softmax_loss 3.88941, acc 0.96
+2017-11-22T16:56:41.292176: step 5450, softmax_loss 9.3217, acc 0.96
+2017-11-22T16:56:51.857370: step 5500, softmax_loss 8.00622, acc 0.96
+2017-11-22T16:57:02.116814: step 5550, softmax_loss 3.66955, acc 0.98
+2017-11-22T16:57:12.479607: step 5600, softmax_loss 9.68347, acc 0.94
+2017-11-22T16:57:22.964849: step 5650, softmax_loss 11.9432, acc 0.94
+2017-11-22T16:57:32.679815: step 5700, softmax_loss 4.06479, acc 0.98
+2017-11-22T16:57:42.270593: step 5750, softmax_loss 0.790993, acc 1
+2017-11-22T16:57:52.124526: step 5800, softmax_loss 7.97112, acc 0.96
+2017-11-22T16:58:03.545132: step 5850, softmax_loss 7.30992, acc 0.96
+2017-11-22T16:58:15.250937: step 5900, softmax_loss 4.11596, acc 0.98
+2017-11-22T16:58:25.212231: step 5950, softmax_loss 8.24471, acc 0.96
+out of range
+2017-11-22T16:58:36.711567: step 6000, softmax_loss 13.4764, acc 0.96
+2017-11-22T16:58:46.729074: step 6050, softmax_loss 7.35287, acc 0.96
+2017-11-22T16:58:57.389231: step 6100, softmax_loss 9.76594, acc 0.96
+2017-11-22T16:59:07.970412: step 6150, softmax_loss 2.56978, acc 1
+2017-11-22T16:59:17.969944: step 6200, softmax_loss 14.3342, acc 0.92
+2017-11-22T16:59:28.248885: step 6250, softmax_loss 11.8258, acc 0.98
+2017-11-22T16:59:38.168346: step 6300, softmax_loss 15.987, acc 0.88
+2017-11-22T16:59:48.900796: step 6350, softmax_loss 17.8895, acc 0.9
+2017-11-22T16:59:58.777158: step 6400, softmax_loss 7.86559, acc 0.94
+2017-11-22T17:00:09.460433: step 6450, softmax_loss 12.5469, acc 0.88
+out of range
+2017-11-22T17:00:19.784574: step 6500, softmax_loss 21.4853, acc 0.92
+2017-11-22T17:00:30.376704: step 6550, softmax_loss 6.85582, acc 0.98
+2017-11-22T17:00:40.915797: step 6600, softmax_loss 4.21256, acc 0.96
+2017-11-22T17:00:50.543514: step 6650, softmax_loss 34.3863, acc 0.84
+2017-11-22T17:01:01.916797: step 6700, softmax_loss 2.78967, acc 0.98
+2017-11-22T17:01:13.463762: step 6750, softmax_loss 7.81588, acc 0.96
+2017-11-22T17:01:24.708508: step 6800, softmax_loss 7.90849, acc 0.94
+2017-11-22T17:01:34.912304: step 6850, softmax_loss 5.11942, acc 0.98
+2017-11-22T17:01:45.444542: step 6900, softmax_loss 6.10872, acc 0.96
+2017-11-22T17:01:55.837989: step 6950, softmax_loss 7.86009, acc 0.92
+2017-11-22T17:02:51.205859: step 7000, softmax_loss 19.068, acc 0.94
+2017-11-22T17:03:02.272520: step 7050, softmax_loss 10.8978, acc 0.92
+2017-11-22T17:03:13.623568: step 7100, softmax_loss 2.55936, acc 0.98
+2017-11-22T17:03:26.092507: step 7150, softmax_loss 1.53103, acc 1
+2017-11-22T17:04:02.791068: step 7200, softmax_loss 4.70112, acc 0.96
+out of range
+2017-11-22T17:04:13.894513: step 7250, softmax_loss 0.933164, acc 1
+2017-11-22T17:04:25.892071: step 7300, softmax_loss 10.9485, acc 0.94
+2017-11-22T17:04:36.603648: step 7350, softmax_loss 18.1721, acc 0.9
+2017-11-22T17:04:49.255654: step 7400, softmax_loss 9.26042, acc 0.94
+2017-11-22T17:04:59.801347: step 7450, softmax_loss 11.3554, acc 0.94
+2017-11-22T17:05:10.707093: step 7500, softmax_loss 2.94109, acc 1
+2017-11-22T17:05:22.046699: step 7550, softmax_loss 15.5785, acc 0.9
+2017-11-22T17:05:32.067718: step 7600, softmax_loss 6.12716, acc 0.94
+2017-11-22T17:05:42.737225: step 7650, softmax_loss 14.1418, acc 0.92
+2017-11-22T17:05:53.518851: step 7700, softmax_loss 1.50244, acc 1
+2017-11-22T17:06:04.023195: step 7750, softmax_loss 2.74356, acc 1
+2017-11-22T17:06:14.136610: step 7800, softmax_loss 0.96721, acc 1
+2017-11-22T17:06:27.120542: step 7850, softmax_loss 14.2827, acc 0.92
+2017-11-22T17:06:38.030762: step 7900, softmax_loss 7.7734, acc 0.94
+2017-11-22T17:06:48.151256: step 7950, softmax_loss 8.5615, acc 0.98
+2017-11-22T17:07:00.224544: step 8000, softmax_loss 5.53986, acc 0.94
+2017-11-22T17:07:35.840472: step 8050, softmax_loss 3.10383, acc 0.98
+2017-11-22T17:09:04.253601: step 8100, softmax_loss 4.77938, acc 0.98
+2017-11-22T17:09:18.902501: step 8150, softmax_loss 9.35287, acc 0.96
+2017-11-22T17:09:33.366726: step 8200, softmax_loss 0.353414, acc 1
+2017-11-22T17:09:47.440463: step 8250, softmax_loss 10.8555, acc 0.92
+2017-11-22T17:09:59.829807: step 8300, softmax_loss 5.50238, acc 0.96
+2017-11-22T17:10:11.166044: step 8350, softmax_loss 3.71498, acc 0.98
+2017-11-22T17:10:22.928680: step 8400, softmax_loss 4.74958, acc 0.96
+2017-11-22T17:10:33.422942: step 8450, softmax_loss 6.3848, acc 0.98
+2017-11-22T17:10:44.828341: step 8500, softmax_loss 3.36983, acc 0.98
+2017-11-22T17:10:58.007525: step 8550, softmax_loss 16.5357, acc 0.9
+2017-11-22T17:11:09.548664: step 8600, softmax_loss 8.28633, acc 0.94
+2017-11-22T17:11:20.228402: step 8650, softmax_loss 1.15861, acc 1
+2017-11-22T17:11:34.519552: step 8700, softmax_loss 10.1431, acc 0.94
+2017-11-22T17:11:46.854172: step 8750, softmax_loss 2.12035, acc 1
+2017-11-22T17:11:58.114066: step 8800, softmax_loss 1.62312, acc 1
+2017-11-22T17:12:09.581425: step 8850, softmax_loss 4.33271, acc 0.98
+2017-11-22T17:12:19.810900: step 8900, softmax_loss 4.36361, acc 0.98
+2017-11-22T17:12:33.164542: step 8950, softmax_loss 4.29148, acc 0.98
+2017-11-22T17:12:44.715396: step 9000, softmax_loss 21.2875, acc 0.88
+2017-11-22T17:12:56.820441: step 9050, softmax_loss 2.57995, acc 0.98
+2017-11-22T17:13:07.290942: step 9100, softmax_loss 12.0334, acc 0.94
+out of range
+2017-11-22T17:13:19.411723: step 9150, softmax_loss 5.83652, acc 0.94
+2017-11-22T17:13:29.332735: step 9200, softmax_loss 6.77479, acc 0.98
+out of range
+2017-11-22T17:13:40.927221: step 9250, softmax_loss 8.24596, acc 0.96
+2017-11-22T17:13:52.456170: step 9300, softmax_loss 5.14314, acc 0.96
+2017-11-22T17:14:04.157092: step 9350, softmax_loss 5.09351, acc 0.96
+2017-11-22T17:14:14.826254: step 9400, softmax_loss 1.39217, acc 1
+2017-11-22T17:14:24.586049: step 9450, softmax_loss 3.39198, acc 0.94
+2017-11-22T17:14:36.221886: step 9500, softmax_loss 5.37588, acc 0.96
+saving model
+have saved model to ./model/ATT_GRU_model-9500
+2017-11-22T17:15:36.095939: step 9550, softmax_loss 4.54454, acc 0.96
+2017-11-22T17:15:46.782843: step 9600, softmax_loss 4.16443, acc 0.96
+2017-11-22T17:15:57.376794: step 9650, softmax_loss 7.90289, acc 0.94
+2017-11-22T17:16:07.464346: step 9700, softmax_loss 3.69379, acc 0.98
+2017-11-22T17:16:17.731800: step 9750, softmax_loss 3.4986, acc 0.96
+2017-11-22T17:16:27.757277: step 9800, softmax_loss 6.66751, acc 0.98
+2017-11-22T17:16:37.469133: step 9850, softmax_loss 8.51724, acc 0.94
+2017-11-22T17:16:47.320077: step 9900, softmax_loss 1.48998, acc 1
+2017-11-22T17:16:57.245170: step 9950, softmax_loss 7.48722, acc 0.94
+2017-11-22T17:17:07.998354: step 10000, softmax_loss 6.56214, acc 0.96
+saving model
+have saved model to ./model/ATT_GRU_model-10000
+2017-11-22T17:17:49.021572: step 10050, softmax_loss 7.58649, acc 0.94
+2017-11-22T17:17:59.404063: step 10100, softmax_loss 5.81835, acc 0.94
+2017-11-22T17:18:11.862725: step 10150, softmax_loss 8.74803, acc 0.96
+2017-11-22T17:18:23.043040: step 10200, softmax_loss 4.25489, acc 0.96
+2017-11-22T17:18:32.630509: step 10250, softmax_loss 5.87042, acc 0.96
+2017-11-22T17:18:42.315811: step 10300, softmax_loss 6.59059, acc 0.98
+2017-11-22T17:18:52.106715: step 10350, softmax_loss 3.77101, acc 0.96
+2017-11-22T17:19:04.050296: step 10400, softmax_loss 7.60852, acc 0.94
+2017-11-22T17:19:13.997532: step 10450, softmax_loss 4.31925, acc 0.98
+2017-11-22T17:19:23.815499: step 10500, softmax_loss 1.87841, acc 1
+saving model
+have saved model to ./model/ATT_GRU_model-10500
+2017-11-22T17:19:38.344619: step 10550, softmax_loss 3.28365, acc 0.98
+2017-11-22T17:19:48.139767: step 10600, softmax_loss 2.29106, acc 0.98
+2017-11-22T17:19:58.749992: step 10650, softmax_loss 7.07833, acc 0.96
+2017-11-22T17:20:08.721130: step 10700, softmax_loss 5.66876, acc 0.94
+2017-11-22T17:20:19.441028: step 10750, softmax_loss 2.08822, acc 0.98
+2017-11-22T17:20:29.197077: step 10800, softmax_loss 3.16068, acc 0.98
+out of range
+2017-11-22T17:20:38.986354: step 10850, softmax_loss 1.0418, acc 1
+2017-11-22T17:20:48.651984: step 10900, softmax_loss 5.34992, acc 0.92
+2017-11-22T17:20:58.897089: step 10950, softmax_loss 3.05032, acc 0.98
+2017-11-22T17:21:08.979418: step 11000, softmax_loss 7.00873, acc 0.96
+saving model
+have saved model to ./model/ATT_GRU_model-11000
+2017-11-22T17:21:22.873375: step 11050, softmax_loss 8.00948, acc 0.92
+2017-11-22T17:21:32.227155: step 11100, softmax_loss 14.4475, acc 0.96
+2017-11-22T17:21:42.543301: step 11150, softmax_loss 3.51182, acc 0.98
+2017-11-22T17:21:52.396500: step 11200, softmax_loss 1.4203, acc 0.98
+2017-11-22T17:22:01.812477: step 11250, softmax_loss 17.0903, acc 0.86
+2017-11-22T17:22:12.924917: step 11300, softmax_loss 6.19442, acc 0.94
+2017-11-22T17:22:24.399759: step 11350, softmax_loss 5.74193, acc 0.96
+2017-11-22T17:22:33.648517: step 11400, softmax_loss 15.7094, acc 0.94
+2017-11-22T17:22:44.314526: step 11450, softmax_loss 20.8326, acc 0.88
+2017-11-22T17:22:54.470304: step 11500, softmax_loss 1.58357, acc 1
+saving model
+have saved model to ./model/ATT_GRU_model-11500
+2017-11-22T17:23:10.859244: step 11550, softmax_loss 2.03885, acc 0.98
+2017-11-22T17:23:20.571210: step 11600, softmax_loss 5.10486, acc 0.94
+2017-11-22T17:23:31.968890: step 11650, softmax_loss 0.93786, acc 1
+2017-11-22T17:23:42.207988: step 11700, softmax_loss 1.53103, acc 0.98
+2017-11-22T17:23:53.794558: step 11750, softmax_loss 5.94041, acc 0.96
+2017-11-22T17:24:03.618007: step 11800, softmax_loss 1.31882, acc 1
+out of range
+2017-11-22T17:24:14.261104: step 11850, softmax_loss 10.1656, acc 0.94
+2017-11-22T17:24:24.140774: step 11900, softmax_loss 11.6793, acc 0.94
+2017-11-22T17:24:34.746226: step 11950, softmax_loss 8.71028, acc 0.92
+2017-11-22T17:24:45.203496: step 12000, softmax_loss 8.3764, acc 0.92
+saving model
+have saved model to ./model/ATT_GRU_model-12000
+2017-11-22T17:24:58.967541: step 12050, softmax_loss 3.24028, acc 0.98
+2017-11-22T17:25:09.045912: step 12100, softmax_loss 2.61273, acc 1
+2017-11-22T17:25:19.283401: step 12150, softmax_loss 5.8307, acc 0.94
+2017-11-22T17:25:29.114916: step 12200, softmax_loss 4.5063, acc 0.96
+2017-11-22T17:25:38.847265: step 12250, softmax_loss 2.23501, acc 0.98
+2017-11-22T17:25:49.167880: step 12300, softmax_loss 3.90876, acc 0.98
+out of range
+2017-11-22T17:25:59.207037: step 12350, softmax_loss 5.45397, acc 0.96
+2017-11-22T17:26:09.466003: step 12400, softmax_loss 6.66796, acc 0.94
+2017-11-22T17:26:19.863464: step 12450, softmax_loss 5.59599, acc 0.98
+2017-11-22T17:26:29.451370: step 12500, softmax_loss 6.5554, acc 0.98
+saving model
+have saved model to ./model/ATT_GRU_model-12500
+2017-11-22T17:26:44.199982: step 12550, softmax_loss 0.719456, acc 1
+2017-11-22T17:26:55.686028: step 12600, softmax_loss 0.801964, acc 1
+2017-11-22T17:27:07.087544: step 12650, softmax_loss 2.83822, acc 1
+2017-11-22T17:27:16.762371: step 12700, softmax_loss 5.66309, acc 0.96
+2017-11-22T17:27:27.017019: step 12750, softmax_loss 5.47379, acc 0.98
+2017-11-22T17:27:37.020372: step 12800, softmax_loss 11.7967, acc 0.92
+2017-11-22T17:27:46.952212: step 12850, softmax_loss 4.96373, acc 0.94
+2017-11-22T17:27:56.541216: step 12900, softmax_loss 3.27594, acc 0.98
+2017-11-22T17:28:07.214725: step 12950, softmax_loss 6.54599, acc 0.94
+2017-11-22T17:28:17.299155: step 13000, softmax_loss 5.44821, acc 0.96
+saving model
+have saved model to ./model/ATT_GRU_model-13000
+2017-11-22T17:28:32.394300: step 13050, softmax_loss 5.84535, acc 0.98
+out of range
+2017-11-22T17:28:42.830579: step 13100, softmax_loss 4.47537, acc 0.98
+2017-11-22T17:28:52.644270: step 13150, softmax_loss 11.8745, acc 0.94
+2017-11-22T17:29:03.448639: step 13200, softmax_loss 2.40202, acc 1
+2017-11-22T17:29:13.203754: step 13250, softmax_loss 9.49443, acc 0.94
+2017-11-22T17:29:22.936396: step 13300, softmax_loss 2.57335, acc 1
+2017-11-22T17:29:32.725033: step 13350, softmax_loss 6.07505, acc 0.98
+2017-11-22T17:29:42.767388: step 13400, softmax_loss 9.90577, acc 0.9
+2017-11-22T17:29:52.494481: step 13450, softmax_loss 13.8699, acc 0.92
+2017-11-22T17:30:02.255913: step 13500, softmax_loss 1.15219, acc 1
+saving model
+have saved model to ./model/ATT_GRU_model-13500
+2017-11-22T17:30:17.054534: step 13550, softmax_loss 4.40844, acc 0.96
+2017-11-22T17:30:26.790309: step 13600, softmax_loss 4.30526, acc 0.94
+2017-11-22T17:30:37.491990: step 13650, softmax_loss 2.52484, acc 1
+2017-11-22T17:30:48.367926: step 13700, softmax_loss 10.0711, acc 0.96
+2017-11-22T17:30:58.202483: step 13750, softmax_loss 13.0749, acc 0.92
+2017-11-22T17:31:07.476808: step 13800, softmax_loss 3.32612, acc 0.98
+2017-11-22T17:31:18.236360: step 13850, softmax_loss 6.86103, acc 0.98
+2017-11-22T17:31:28.176157: step 13900, softmax_loss 8.78088, acc 0.92
+2017-11-22T17:31:38.296794: step 13950, softmax_loss 1.31083, acc 0.98
+2017-11-22T17:31:48.532998: step 14000, softmax_loss 7.04367, acc 0.94
+saving model
+have saved model to ./model/ATT_GRU_model-14000
+2017-11-22T17:32:02.596373: step 14050, softmax_loss 5.16751, acc 0.94
+2017-11-22T17:32:13.210728: step 14100, softmax_loss 5.98687, acc 0.98
+2017-11-22T17:32:23.299539: step 14150, softmax_loss 6.07299, acc 0.94
+2017-11-22T17:32:33.005143: step 14200, softmax_loss 2.29793, acc 0.98
+2017-11-22T17:32:43.729132: step 14250, softmax_loss 2.55083, acc 0.98
+2017-11-22T17:32:53.804574: step 14300, softmax_loss 9.55076, acc 0.96
+2017-11-22T17:33:04.435098: step 14350, softmax_loss 4.0821, acc 0.96
+2017-11-22T17:33:14.914762: step 14400, softmax_loss 1.11716, acc 1
+2017-11-22T17:33:25.054004: step 14450, softmax_loss 11.5958, acc 0.92
+2017-11-22T17:33:34.333753: step 14500, softmax_loss 7.12807, acc 0.92
+saving model
+have saved model to ./model/ATT_GRU_model-14500
+2017-11-22T17:33:50.156196: step 14550, softmax_loss 5.5062, acc 0.96
+2017-11-22T17:34:00.195225: step 14600, softmax_loss 4.40402, acc 0.96
+2017-11-22T17:34:10.016267: step 14650, softmax_loss 9.3959, acc 0.94
+2017-11-22T17:34:20.159898: step 14700, softmax_loss 9.60269, acc 0.96
+2017-11-22T17:34:29.934770: step 14750, softmax_loss 1.38023, acc 1
+2017-11-22T17:34:41.652117: step 14800, softmax_loss 0.295808, acc 1
+2017-11-22T17:34:52.052555: step 14850, softmax_loss 1.13393, acc 1
+2017-11-22T17:35:02.763526: step 14900, softmax_loss 8.82728, acc 0.92
+2017-11-22T17:35:12.220157: step 14950, softmax_loss 5.19956, acc 0.96
+out of range
+2017-11-22T17:35:23.162552: step 15000, softmax_loss 11.3229, acc 0.92
+saving model
+have saved model to ./model/ATT_GRU_model-15000
+2017-11-22T17:35:35.939874: step 15050, softmax_loss 5.7561, acc 0.96
+out of range
+2017-11-22T17:35:46.320428: step 15100, softmax_loss 2.14728, acc 0.98
+2017-11-22T17:35:56.741885: step 15150, softmax_loss 1.60091, acc 0.98
+2017-11-22T17:36:07.206982: step 15200, softmax_loss 0.537974, acc 1
+2017-11-22T17:36:16.928343: step 15250, softmax_loss 5.11966, acc 0.96
+2017-11-22T17:36:26.355089: step 15300, softmax_loss 0.745776, acc 1
+2017-11-22T17:36:37.019322: step 15350, softmax_loss 1.07384, acc 0.98
+2017-11-22T17:36:47.255375: step 15400, softmax_loss 5.31219, acc 0.92
+2017-11-22T17:36:57.220767: step 15450, softmax_loss 4.52484, acc 0.98
+2017-11-22T17:37:07.267927: step 15500, softmax_loss 4.92091, acc 0.96
+saving model
+have saved model to ./model/ATT_GRU_model-15500
+2017-11-22T17:37:22.149443: step 15550, softmax_loss 10.9982, acc 0.96
+2017-11-22T17:37:31.856734: step 15600, softmax_loss 2.26175, acc 0.98
+2017-11-22T17:37:41.171478: step 15650, softmax_loss 3.81962, acc 0.98
+2017-11-22T17:37:50.500330: step 15700, softmax_loss 4.80461, acc 0.96
+2017-11-22T17:37:59.961867: step 15750, softmax_loss 3.73155, acc 0.98
+2017-11-22T17:38:09.427488: step 15800, softmax_loss 6.41965, acc 0.96
+2017-11-22T17:38:20.012892: step 15850, softmax_loss 2.46706, acc 0.98
+2017-11-22T17:38:30.422964: step 15900, softmax_loss 8.20245, acc 0.92
+2017-11-22T17:38:40.343259: step 15950, softmax_loss 4.56737, acc 0.96
+2017-11-22T17:38:52.678852: step 16000, softmax_loss 9.72198, acc 0.96
+saving model
+have saved model to ./model/ATT_GRU_model-16000
+2017-11-22T17:39:07.279706: step 16050, softmax_loss 3.75728, acc 0.96
+2017-11-22T17:39:16.701742: step 16100, softmax_loss 7.03619, acc 0.94
+2017-11-22T17:39:26.235670: step 16150, softmax_loss 3.73204, acc 0.98
+2017-11-22T17:39:35.873155: step 16200, softmax_loss 3.1098, acc 0.96
+2017-11-22T17:39:47.545757: step 16250, softmax_loss 3.91428, acc 0.98
+2017-11-22T17:39:57.265512: step 16300, softmax_loss 1.36247, acc 0.98
+2017-11-22T17:40:07.096729: step 16350, softmax_loss 5.09377, acc 0.96
+2017-11-22T17:40:17.569866: step 16400, softmax_loss 3.27082, acc 0.98
+2017-11-22T17:40:26.921602: step 16450, softmax_loss 1.97196, acc 1
+2017-11-22T17:40:37.489421: step 16500, softmax_loss 8.57402, acc 0.96
+saving model
+have saved model to ./model/ATT_GRU_model-16500
+2017-11-22T17:40:50.829665: step 16550, softmax_loss 3.62048, acc 0.98
+2017-11-22T17:41:01.532754: step 16600, softmax_loss 5.5569, acc 0.98
+2017-11-22T17:41:11.364650: step 16650, softmax_loss 4.36852, acc 0.96
+out of range
+2017-11-22T17:41:21.022494: step 16700, softmax_loss 0.997197, acc 1
+2017-11-22T17:41:30.648068: step 16750, softmax_loss 11.3307, acc 0.96
+2017-11-22T17:41:40.866118: step 16800, softmax_loss 3.98214, acc 0.96
+2017-11-22T17:41:50.807344: step 16850, softmax_loss 2.77513, acc 0.98
+2017-11-22T17:42:00.995614: step 16900, softmax_loss 5.1279, acc 0.96
+2017-11-22T17:42:10.303865: step 16950, softmax_loss 0.697082, acc 1
+2017-11-22T17:42:20.383718: step 17000, softmax_loss 3.12004, acc 0.98
+saving model
+have saved model to ./model/ATT_GRU_model-17000
+2017-11-22T17:42:35.403079: step 17050, softmax_loss 13.9722, acc 0.92
+2017-11-22T17:42:44.847847: step 17100, softmax_loss 11.1555, acc 0.92
+2017-11-22T17:42:55.902362: step 17150, softmax_loss 4.99737, acc 0.96
+2017-11-22T17:43:07.196516: step 17200, softmax_loss 4.74353, acc 0.96
+2017-11-22T17:43:16.602500: step 17250, softmax_loss 0.822605, acc 1
+2017-11-22T17:43:26.831046: step 17300, softmax_loss 8.96863, acc 0.94
+2017-11-22T17:43:37.250690: step 17350, softmax_loss 3.41143, acc 0.98
+2017-11-22T17:43:46.655823: step 17400, softmax_loss 4.14231, acc 0.94
+2017-11-22T17:43:56.318189: step 17450, softmax_loss 2.26208, acc 0.98
+2017-11-22T17:44:07.535026: step 17500, softmax_loss 6.43533, acc 0.94
+saving model
+have saved model to ./model/ATT_GRU_model-17500

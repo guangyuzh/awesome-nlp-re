@@ -118,7 +118,7 @@ def main(_):
                     itchat.send('epoch '+str(one_epoch)+' starts!',FLAGS.wechat_name)
 
                 temp_order = range(len(train_word))
-                np.random.shuffle(temp_order)
+                np.random.shuffle(list(temp_order))
                 for i in range(int(len(temp_order)/float(settings.big_num))):
 
                     temp_word = []
