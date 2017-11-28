@@ -14,4 +14,5 @@ train.txt
 *.out
 *.synctex.gz
 
+wikipedia-biography-dataset/*
 Papers/*
