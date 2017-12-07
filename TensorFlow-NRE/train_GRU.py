@@ -100,7 +100,9 @@ def main(_):
                 feed_dict[m.input_pos2] = total_pos2
                 feed_dict[m.input_y] = y_batch
 
-                temp, step, loss, accuracy,summary,l2_loss,final_loss= sess.run([train_op, global_step, m.total_loss, m.accuracy,merged_summary,m.l2_loss,m.final_loss], feed_dict)
+                temp, step, loss, accuracy,summary,l2_loss,final_loss = \
+                    sess.run([train_op, global_step, m.total_loss, m.accuracy,
+                              merged_summary,m.l2_loss,m.final_loss], feed_dict)
                 time_str = datetime.datetime.now().isoformat()
                 accuracy = np.reshape(np.array(accuracy),(big_num))
                 acc = np.mean(accuracy)
