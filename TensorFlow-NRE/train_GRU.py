@@ -106,7 +106,7 @@ def main(_):
                 acc = np.mean(accuracy)
                 summary_writer.add_summary(summary,step)
 
-                if step % 50 == 0:
+                if step % 200 == 0:
                     tempstr = "{}: step {}, softmax_loss {:g}, acc {:g}".format(time_str, step, loss, acc)
                     print(tempstr)
                     if itchat_run:
@@ -136,7 +136,7 @@ def main(_):
                     for single_word in temp_word:
                         num += len(single_word)
 
-                    if num > 1500:
+                    if num > 3000:
                         print('out of range')
                         continue
 
@@ -148,7 +148,7 @@ def main(_):
                     train_step(temp_word,temp_pos1,temp_pos2,temp_y,settings.big_num)
 
                     current_step = tf.train.global_step(sess, global_step)
-                    if current_step > 9000 and current_step%500==0:
+                    if current_step > 15000 and current_step%2000==0:
                     #if current_step == 50:
                         print('saving model')
                         path = saver.save(sess,save_path +'ATT_GRU_model',global_step=current_step)
