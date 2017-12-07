@@ -5,6 +5,8 @@ import datetime
 import os
 import network
 from sklearn.metrics import average_precision_score
+import logging
+
 
 FLAGS = tf.app.flags.FLAGS
 #change the name to who you want to send
@@ -87,29 +89,29 @@ def main(_):
                 allans = np.reshape(eval_y,(-1))
                 order = np.argsort(-allprob)
 
-                print('P@100:')
+                logging.info('P@100:')
                 top100 = order[:100]
                 correct_num_100 = 0.0
                 for i in top100:
                     if allans[i] == 1:
                         correct_num_100 += 1.0
-                print(correct_num_100/100)
+                logging.info(correct_num_100/100)
 
-                print('P@200:')
+                logging.info('P@200:')
                 top200 = order[:200]
                 correct_num_200 = 0.0
                 for i in top200:
                     if allans[i] == 1:
                         correct_num_200 += 1.0
-                print(correct_num_200/200)
+                logging.info(correct_num_200/200)
 
-                print('P@300:')
+                logging.info('P@300:')
                 top300 = order[:300]
                 correct_num_300 = 0.0
                 for i in top300:
                     if allans[i] == 1:
                         correct_num_300 += 1.0
-                print(correct_num_300/300)
+                logging.info(correct_num_300/300)
 
                 if itchat_run:
                     tempstr = 'P@100\n'+str(correct_num_100/100)+'\n'+'P@200\n'+str(correct_num_200/200)+'\n'+'P@300\n'+str(correct_num_300/300)
@@ -129,12 +131,12 @@ def main(_):
             for model_iter in testlist:
 
                 saver.restore(sess,pathname+str(model_iter))
-                print("Evaluating P@N for iter "+str(model_iter))
+                logging.info("Evaluating P@N for iter "+str(model_iter))
 
                 if itchat_run:
                     itchat.send("Evaluating P@N for iter "+str(model_iter),FLAGS.wechat_name)
 
-                print('Evaluating P@N for one')
+                logging.info('Evaluating P@N for one')
                 if itchat_run:
                     itchat.send('Evaluating P@N for one',FLAGS.wechat_name)
 
@@ -144,7 +146,7 @@ def main(_):
                 test_pos2 = np.load('./data/pone_test_pos2.npy')
                 eval_pn(test_y,test_word,test_pos1,test_pos2,test_settings)
 
-                print('Evaluating P@N for two')
+                logging.info('Evaluating P@N for two')
                 if itchat_run:
                     itchat.send('Evaluating P@N for two',FLAGS.wechat_name)
                 test_y = np.load('./data/ptwo_test_y.npy')
@@ -153,7 +155,7 @@ def main(_):
                 test_pos2 = np.load('./data/ptwo_test_pos2.npy')
                 eval_pn(test_y,test_word,test_pos1,test_pos2,test_settings)
 
-                print('Evaluating P@N for all')
+                logging.info('Evaluating P@N for all')
                 if itchat_run:
                     itchat.send('Evaluating P@N for all',FLAGS.wechat_name)
                 test_y = np.load('./data/pall_test_y.npy')
@@ -163,8 +165,8 @@ def main(_):
                 eval_pn(test_y,test_word,test_pos1,test_pos2,test_settings)
 
                 time_str = datetime.datetime.now().isoformat()
-                print(time_str)
-                print('Evaluating all test data and save data for PR curve')
+                logging.info(time_str)
+                logging.info('Evaluating all test data and save data for PR curve')
                 if itchat_run:
                     itchat.send('Evaluating all test data and save data for PR curve',FLAGS.wechat_name)
 
@@ -183,7 +185,7 @@ def main(_):
                 allprob = np.reshape(np.array(allprob),(-1))
                 order = np.argsort(-allprob)
 
-                print('saving all test result...')
+                logging.info('saving all test result...')
                 current_step = model_iter
 
                 # ATTENTION: change the save path before you save your result !!
@@ -192,37 +194,37 @@ def main(_):
 
                 #caculate the pr curve area
                 average_precision = average_precision_score(allans,allprob)
-                print('PR curve area:'+str(average_precision))
+                logging.info('PR curve area:'+str(average_precision))
 
                 if itchat_run:
                     itchat.send('PR curve area:'+str(average_precision),FLAGS.wechat_name)
 
                 time_str = datetime.datetime.now().isoformat()
-                print(time_str)
-                print('P@N for all test data:')
-                print('P@100:')
+                logging.info(time_str)
+                logging.info('P@N for all test data:')
+                logging.info('P@100:')
                 top100 = order[:100]
                 correct_num_100 = 0.0
                 for i in top100:
                     if allans[i] == 1:
                         correct_num_100 += 1.0
-                print(correct_num_100/100)
+                logging.info(correct_num_100/100)
 
-                print('P@200:')
+                logging.info('P@200:')
                 top200 = order[:200]
                 correct_num_200 = 0.0
                 for i in top200:
                     if allans[i] == 1:
                         correct_num_200 += 1.0
-                print(correct_num_200/200)
+                logging.info(correct_num_200/200)
 
-                print('P@300:')
+                logging.info('P@300:')
                 top300 = order[:300]
                 correct_num_300 = 0.0
                 for i in top300:
                     if allans[i] == 1:
                         correct_num_300 += 1.0
-                print(correct_num_300/300)
+                logging.info(correct_num_300/300)
 
                 if itchat_run:
                     tempstr = 'P@100\n'+str(correct_num_100/100)+'\n'+'P@200\n'+str(correct_num_200/200)+'\n'+'P@300\n'+str(correct_num_300/300)

@@ -72,7 +72,6 @@ class GRU:
             tf.nn.embedding_lookup(word_embedding,self.input_word),
             tf.nn.embedding_lookup(pos1_embedding,self.input_pos1),
             tf.nn.embedding_lookup(pos2_embedding,self.input_pos2)])
-        print("begin inputs_backward reverse")
         inputs_backward = tf.concat(axis=2,values=[
             tf.nn.embedding_lookup(word_embedding,tf.reverse(self.input_word,
                                                              [1])),
@@ -83,7 +82,6 @@ class GRU:
             tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos2,
                                                              [1]))])
                                                              # [False,True]))])
-        print("finish inputs_backward reverse")
 
         outputs_forward = []
 
@@ -109,13 +107,11 @@ class GRU:
 
         output_forward = tf.reshape(tf.concat(axis=1,  values=outputs_forward),
                                     [total_num, num_steps, gru_size])
-        print("begin output_backward reverse")
         output_backward  = tf.reverse(tf.reshape(
             tf.concat(axis=1,  values=outputs_backward),
             [total_num, num_steps, gru_size]),
             [1])
             # [False, True, False])
-        print("finish output_backward reverse")
 
         # word-level attention layer
         output_h = tf.add(output_forward,output_backward)
