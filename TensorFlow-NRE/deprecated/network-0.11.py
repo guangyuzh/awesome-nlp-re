@@ -68,8 +68,8 @@ class GRU:
         self._initial_state_backward = cell_backward.zero_state(total_num,tf.float32)
 
         # embedding layer
-        inputs_forward = tf.concat(axis=2,values=[tf.nn.embedding_lookup(word_embedding,self.input_word),tf.nn.embedding_lookup(pos1_embedding,self.input_pos1),tf.nn.embedding_lookup(pos2_embedding,self.input_pos2)])
-        inputs_backward = tf.concat(axis=2,values=[tf.nn.embedding_lookup(word_embedding,tf.reverse(self.input_word,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos1,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos2,[False,True]))])
+        inputs_forward = tf.concat(2,[tf.nn.embedding_lookup(word_embedding,self.input_word),tf.nn.embedding_lookup(pos1_embedding,self.input_pos1),tf.nn.embedding_lookup(pos2_embedding,self.input_pos2)])
+        inputs_backward = tf.concat(2,[tf.nn.embedding_lookup(word_embedding,tf.reverse(self.input_word,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos1,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos2,[False,True]))])
 
         outputs_forward = []
 
@@ -93,12 +93,12 @@ class GRU:
                 (cell_output_backward,state_backward) = cell_backward(inputs_backward[:,step,:],state_backward)
                 outputs_backward.append(cell_output_backward)
 
-        output_forward = tf.reshape(tf.concat(axis=1,  values=outputs_forward), [total_num, num_steps, gru_size])
-        output_backward  = tf.reverse(tf.reshape(tf.concat(axis=1,  values=outputs_backward), [total_num, num_steps, gru_size]), [False, True, False])
+        output_forward = tf.reshape(tf.concat(1,  outputs_forward), [total_num, num_steps, gru_size])
+        output_backward  = tf.reverse(tf.reshape(tf.concat(1,  outputs_backward), [total_num, num_steps, gru_size]), [False, True, False])
 
         # word-level attention layer
         output_h = tf.add(output_forward,output_backward)
-        attention_r = tf.reshape(tf.matmul(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.reshape(tf.tanh(output_h),[total_num*num_steps,gru_size]),attention_w),[total_num,num_steps])),[total_num,1,num_steps]),output_h),[total_num,gru_size])
+        attention_r = tf.reshape(tf.batch_matmul(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.reshape(tf.tanh(output_h),[total_num*num_steps,gru_size]),attention_w),[total_num,num_steps])),[total_num,1,num_steps]),output_h),[total_num,gru_size])
 
 
         # sentence-level attention layer
@@ -107,7 +107,7 @@ class GRU:
             sen_repre.append(tf.tanh(attention_r[self.total_shape[i]:self.total_shape[i+1]]))
             batch_size = self.total_shape[i+1]-self.total_shape[i]
 
-            sen_alpha.append(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.multiply(sen_repre[i],sen_a),sen_r),[batch_size])),[1,batch_size]))
+            sen_alpha.append(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.mul(sen_repre[i],sen_a),sen_r),[batch_size])),[1,batch_size]))
 
             sen_s.append(tf.reshape(tf.matmul(sen_alpha[i],sen_repre[i]),[gru_size,1]))
             sen_out.append(tf.add(tf.reshape(tf.matmul(relation_embedding,sen_s[i]),[self.num_classes]),sen_d))
@@ -118,7 +118,7 @@ class GRU:
                 self.predictions.append(tf.argmax(self.prob[i], 0, name="predictions"))
 
             with tf.name_scope("loss"):
-                self.loss.append(tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=sen_out[i], labels=self.input_y[i])))
+                self.loss.append(tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(sen_out[i], self.input_y[i])))
                 if i == 0:
                     self.total_loss = self.loss[i]
                 else:
@@ -130,10 +130,10 @@ class GRU:
                 self.accuracy.append(tf.reduce_mean(tf.cast(tf.equal(self.predictions[i], tf.argmax(self.input_y[i], 0)), "float"), name="accuracy"))
 
         #tf.summary.scalar('loss',self.total_loss)
-        tf.summary.scalar('loss',self.total_loss)
+        tf.scalar_summary('loss',self.total_loss)
         #regularization
         self.l2_loss = tf.contrib.layers.apply_regularization(regularizer=tf.contrib.layers.l2_regularizer(0.0001),weights_list=tf.trainable_variables())
         self.final_loss = self.total_loss+self.l2_loss
-        tf.summary.scalar('l2_loss',self.l2_loss)
-        tf.summary.scalar('final_loss',self.final_loss)
+        tf.scalar_summary('l2_loss',self.l2_loss)
+        tf.scalar_summary('final_loss',self.final_loss)
 

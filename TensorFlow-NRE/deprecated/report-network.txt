@@ -1,0 +1,123 @@
+--------------------------------------------------------------------------------
+Processing file 'network-0.11.py'
+ outputting to 'network.py'
+--------------------------------------------------------------------------------
+
+'network-0.11.py' Line 96
+--------------------------------------------------------------------------------
+
+Added keyword 'concat_dim' to reordered function 'tf.concat'
+Added keyword 'values' to reordered function 'tf.concat'
+
+    Old:         output_forward = tf.reshape(tf.concat(1,  outputs_forward), [total_num, num_steps, gru_size])
+                                                                                                               
+    New:         output_forward = tf.reshape(tf.concat(axis=1,  values=outputs_forward), [total_num, num_steps, gru_size])
+                                                       ~~~~~    ~~~~~~~                                                    
+
+'network-0.11.py' Line 97
+--------------------------------------------------------------------------------
+
+ERROR: tf.reverse has had its argument semantics changed
+significantly the converter cannot detect this reliably, so youneed to inspect this usage manually.
+
+Added keyword 'concat_dim' to reordered function 'tf.concat'
+Added keyword 'values' to reordered function 'tf.concat'
+
+    Old:         output_backward  = tf.reverse(tf.reshape(tf.concat(1,  outputs_backward), [total_num, num_steps, gru_size]), [False, True, False])
+                                    ~~~~~~~~~~                                                                                                      
+    New:         output_backward  = tf.reverse(tf.reshape(tf.concat(axis=1,  values=outputs_backward), [total_num, num_steps, gru_size]), [False, True, False])
+                                    ~~~~~~~~~~                      ~~~~~    ~~~~~~~                                                                            
+
+'network-0.11.py' Line 137
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.scalar_summary' to 'tf.summary.scalar'
+
+    Old:         tf.scalar_summary('l2_loss',self.l2_loss)
+                 ~~~~~~~~~~~~~~~~~                         
+    New:         tf.summary.scalar('l2_loss',self.l2_loss)
+                 ~~~~~~~~~~~~~~~~~                         
+
+'network-0.11.py' Line 101
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.batch_matmul' to 'tf.matmul'
+
+    Old:         attention_r = tf.reshape(tf.batch_matmul(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.reshape(tf.tanh(output_h),[total_num*num_steps,gru_size]),attention_w),[total_num,num_steps])),[total_num,1,num_steps]),output_h),[total_num,gru_size])
+                                          ~~~~~~~~~~~~~~~                                                                                                                                                                                                          
+    New:         attention_r = tf.reshape(tf.matmul(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.reshape(tf.tanh(output_h),[total_num*num_steps,gru_size]),attention_w),[total_num,num_steps])),[total_num,1,num_steps]),output_h),[total_num,gru_size])
+                                          ~~~~~~~~~                                                                                                                                                                                                          
+
+'network-0.11.py' Line 71
+--------------------------------------------------------------------------------
+
+Added keyword 'concat_dim' to reordered function 'tf.concat'
+Added keyword 'values' to reordered function 'tf.concat'
+
+    Old:         inputs_forward = tf.concat(2,[tf.nn.embedding_lookup(word_embedding,self.input_word),tf.nn.embedding_lookup(pos1_embedding,self.input_pos1),tf.nn.embedding_lookup(pos2_embedding,self.input_pos2)])
+                                                                                                                                                                                                                      
+    New:         inputs_forward = tf.concat(axis=2,values=[tf.nn.embedding_lookup(word_embedding,self.input_word),tf.nn.embedding_lookup(pos1_embedding,self.input_pos1),tf.nn.embedding_lookup(pos2_embedding,self.input_pos2)])
+                                            ~~~~~  ~~~~~~~                                                                                                                                                                        
+
+'network-0.11.py' Line 72
+--------------------------------------------------------------------------------
+
+Added keyword 'concat_dim' to reordered function 'tf.concat'
+Added keyword 'values' to reordered function 'tf.concat'
+ERROR: tf.reverse has had its argument semantics changed
+significantly the converter cannot detect this reliably, so youneed to inspect this usage manually.
+
+ERROR: tf.reverse has had its argument semantics changed
+significantly the converter cannot detect this reliably, so youneed to inspect this usage manually.
+
+ERROR: tf.reverse has had its argument semantics changed
+significantly the converter cannot detect this reliably, so youneed to inspect this usage manually.
+
+
+    Old:         inputs_backward = tf.concat(2,[tf.nn.embedding_lookup(word_embedding,tf.reverse(self.input_word,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos1,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos2,[False,True]))])
+                                                                                      ~~~~~~~~~~                                                                      ~~~~~~~~~~                                                                      ~~~~~~~~~~                                  
+    New:         inputs_backward = tf.concat(axis=2,values=[tf.nn.embedding_lookup(word_embedding,tf.reverse(self.input_word,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos1,[False,True])),tf.nn.embedding_lookup(pos1_embedding,tf.reverse(self.input_pos2,[False,True]))])
+                                             ~~~~~  ~~~~~~~                                       ~~~~~~~~~~                                                                      ~~~~~~~~~~                                                                      ~~~~~~~~~~                                  
+
+'network-0.11.py' Line 121
+--------------------------------------------------------------------------------
+
+Added keyword 'logits' to reordered function 'tf.nn.softmax_cross_entropy_with_logits'
+Added keyword 'labels' to reordered function 'tf.nn.softmax_cross_entropy_with_logits'
+
+    Old:                 self.loss.append(tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(sen_out[i], self.input_y[i])))
+                                                                                                                                
+    New:                 self.loss.append(tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=sen_out[i], labels=self.input_y[i])))
+                                                                                                 ~~~~~~~            ~~~~~~~                   
+
+'network-0.11.py' Line 138
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.scalar_summary' to 'tf.summary.scalar'
+
+    Old:         tf.scalar_summary('final_loss',self.final_loss)
+                 ~~~~~~~~~~~~~~~~~                               
+    New:         tf.summary.scalar('final_loss',self.final_loss)
+                 ~~~~~~~~~~~~~~~~~                               
+
+'network-0.11.py' Line 110
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.mul' to 'tf.multiply'
+
+    Old:             sen_alpha.append(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.mul(sen_repre[i],sen_a),sen_r),[batch_size])),[1,batch_size]))
+                                                                                    ~~~~~~                                                            
+    New:             sen_alpha.append(tf.reshape(tf.nn.softmax(tf.reshape(tf.matmul(tf.multiply(sen_repre[i],sen_a),sen_r),[batch_size])),[1,batch_size]))
+                                                                                    ~~~~~~~~~~~                                                            
+
+'network-0.11.py' Line 133
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.scalar_summary' to 'tf.summary.scalar'
+
+    Old:         tf.scalar_summary('loss',self.total_loss)
+                 ~~~~~~~~~~~~~~~~~                         
+    New:         tf.summary.scalar('loss',self.total_loss)
+                 ~~~~~~~~~~~~~~~~~                         
+
+

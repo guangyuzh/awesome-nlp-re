@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------
+Processing file 'test_GRU-0.11.py'
+ outputting to 'test_GRU.py'
+--------------------------------------------------------------------------------
+
+Failed to parse 'test_GRU-0.11.py'
+
+Traceback (most recent call last):
+  File "/scratch/gz612/nlp/inference-nlp/TensorFlow-NRE/ast_edits.py", line 413, in process_opened_file
+    parsed_ast = ast.parse("".join(lines))
+  File "/share/apps/python/2.7.12/intel/lib/python2.7/ast.py", line 37, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 116
+    itchat.send(tempstr,FLAGS.wechat_name)
+    ^
+IndentationError: unexpected indent
+
