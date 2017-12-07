@@ -6,6 +6,8 @@ metadata.*
 *.cims.nyu.edu
 *.pyc
 train.txt
+test.txt
+origin_data/
 # tex
 *.aux
 *.bbl
