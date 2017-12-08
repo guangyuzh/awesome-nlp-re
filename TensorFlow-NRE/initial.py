@@ -1,6 +1,21 @@
 import numpy as np
-import os
-import logging
+import sys
+
+
+class Unbuffered(object):
+   def __init__(self, stream):
+       self.stream = stream
+   def write(self, data):
+       self.stream.write(data)
+       self.stream.flush()
+   def writelines(self, datas):
+       self.stream.writelines(datas)
+       self.stream.flush()
+   def __getattr__(self, attr):
+       return getattr(self.stream, attr)
+
+sys.stdout = Unbuffered(sys.stdout)
+
 
 #embedding the position 
 def pos_embed(x):
@@ -23,7 +38,7 @@ def find_index(x,y):
 #reading data
 def init():
 
-    logging.info('reading word embedding data...')
+    print('reading word embedding data...')
     vec = []
     word2id = {}
     f = open('./origin_data/vec.txt')
@@ -47,7 +62,7 @@ def init():
     vec = np.array(vec,dtype=np.float32)
 
 
-    logging.info('reading relation to id')
+    print('reading relation to id')
     relation2id = {}
     f = open('./origin_data/relation2id.txt','r')
     while True:
@@ -67,7 +82,7 @@ def init():
     train_ans = {} #{entity pair:[label1,label2,...]} the label is one-hot vector
 
 
-    logging.info('reading train data...')
+    print('reading train data...')
     f = open('./origin_data/train.txt','r')
 
     while True:
@@ -139,7 +154,7 @@ def init():
 
         train_sen[tup][label_tag].append(output)
 
-    logging.info('reading test data ...')
+    print('reading test data ...')
 
     test_sen = {} #{entity pair:[[sentence 1],[sentence 2]...]}
     test_ans = {} #{entity pair:[labels,...]} the labels is N-hot vector (N is the number of multi-label)
@@ -205,12 +220,12 @@ def init():
     test_x = []
     test_y = []
 
-    logging.info('organizing train data')
+    print('organizing train data')
     f = open('./data/train_q&a.txt','w')
     temp = 0
     for i in train_sen:
         if len(train_ans[i]) != len(train_sen[i]):
-            logging.info('ERROR')
+            print('ERROR')
         lenth = len(train_ans[i])
         for j in range(lenth):
             train_x.append(train_sen[i][j])
@@ -219,7 +234,7 @@ def init():
             temp+=1
     f.close()
 
-    logging.info('organizing test data')
+    print('organizing test data')
     f = open('./data/test_q&a.txt','w')
     temp=0
     for i in test_sen:
@@ -246,7 +261,7 @@ def init():
     np.save('./data/testall_y.npy',test_y)
 
     #get test data for P@N evaluation, in which only entity pairs with more than 1 sentence exist
-    logging.info('get test data for p@n test')
+    print('get test data for p@n test')
 
     pone_test_x = []
     pone_test_y = []
@@ -295,14 +310,14 @@ def init():
 
 def seperate():
 
-    logging.info('reading training data')
+    print('reading training data')
     x_train = np.load('./data/train_x.npy')
 
     train_word = []
     train_pos1 = []
     train_pos2 = []
 
-    logging.info('seprating train data')
+    print('seprating train data')
     for i in range(len(x_train)):
         word = []
         pos1 = []
@@ -329,9 +344,9 @@ def seperate():
     np.save('./data/train_pos1.npy',train_pos1)
     np.save('./data/train_pos2.npy',train_pos2)
 
-    logging.info('reading p-one test data')
+    print('reading p-one test data')
     x_test = np.load('./data/pone_test_x.npy')
-    logging.info('seperating p-one test data')
+    print('seperating p-one test data')
     test_word = []
     test_pos1 = []
     test_pos2 = []
@@ -362,9 +377,9 @@ def seperate():
     np.save('./data/pone_test_pos1.npy',test_pos1)
     np.save('./data/pone_test_pos2.npy',test_pos2)
 
-    logging.info('reading p-two test data')
+    print('reading p-two test data')
     x_test = np.load('./data/ptwo_test_x.npy')
-    logging.info('seperating p-two test data')
+    print('seperating p-two test data')
     test_word = []
     test_pos1 = []
     test_pos2 = []
@@ -395,9 +410,9 @@ def seperate():
     np.save('./data/ptwo_test_pos1.npy',test_pos1)
     np.save('./data/ptwo_test_pos2.npy',test_pos2)
 
-    logging.info('reading p-all test data')
+    print('reading p-all test data')
     x_test = np.load('./data/pall_test_x.npy')
-    logging.info('seperating p-all test data')
+    print('seperating p-all test data')
     test_word = []
     test_pos1 = []
     test_pos2 = []
@@ -429,7 +444,7 @@ def seperate():
     np.save('./data/pall_test_pos2.npy',test_pos2)
 
 
-    logging.info('seperating test all data')
+    print('seperating test all data')
     x_test = np.load('./data/testall_x.npy')
 
     test_word = []
@@ -468,7 +483,7 @@ def seperate():
 
 def getsmall():
 
-    logging.info('reading training data')
+    print('reading training data')
     word = np.load('./data/train_word.npy')
     pos1 = np.load('./data/train_pos1.npy')
     pos2 = np.load('./data/train_pos2.npy')
@@ -480,7 +495,7 @@ def getsmall():
     new_y = []
 
     #we slice some big batch in train data into small batches in case of running out of memory
-    logging.info('get small training data')
+    print('get small training data')
     for i in range(len(word)):
         lenth = len(word[i])
         if lenth <= 1000:

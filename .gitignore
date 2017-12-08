@@ -1,13 +1,15 @@
-.idea/*
+.idea/
 *.xml
 *.npy
 metadata.*
 *q&a.txt
 *.cims.nyu.edu
 *.pyc
+__pycache__/
 train.txt
 test.txt
 origin_data/
+
 # tex
 *.aux
 *.bbl
@@ -16,5 +18,5 @@ origin_data/
 *.out
 *.synctex.gz
 
-wikipedia-biography-dataset/*
-Papers/*
+wikipedia-biography-dataset/
+Papers/

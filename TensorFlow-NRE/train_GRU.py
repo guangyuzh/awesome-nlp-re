@@ -5,7 +5,7 @@ import datetime
 import os
 import network
 from tensorflow.contrib.tensorboard.plugins import projector
-import logging
+import sys
 
 
 FLAGS = tf.app.flags.FLAGS
@@ -21,14 +21,30 @@ itchat_run = False
 if itchat_run:
     import itchat
 
+
+class Unbuffered(object):
+   def __init__(self, stream):
+       self.stream = stream
+   def write(self, data):
+       self.stream.write(data)
+       self.stream.flush()
+   def writelines(self, datas):
+       self.stream.writelines(datas)
+       self.stream.flush()
+   def __getattr__(self, attr):
+       return getattr(self.stream, attr)
+
+sys.stdout = Unbuffered(sys.stdout)
+
+
 def main(_):
     # the path to save models
     save_path = './model/'
 
-    logging.info('reading wordembedding')
+    print('reading wordembedding')
     wordembedding = np.load('./data/vec.npy')
 
-    logging.info('reading training data')
+    print('reading training data')
     train_y = np.load('./data/small_y.npy')
     train_word = np.load('./data/small_word.npy')
     train_pos1 = np.load('./data/small_pos1.npy')
@@ -111,7 +127,7 @@ def main(_):
 
                 if step % 200 == 0:
                     tempstr = "{}: step {}, softmax_loss {:g}, acc {:g}".format(time_str, step, loss, acc)
-                    logging.info(tempstr)
+                    print(tempstr)
                     if itchat_run:
                         itchat.send(tempstr,FLAGS.wechat_name)
 
@@ -140,7 +156,7 @@ def main(_):
                         num += len(single_word)
 
                     if num > 3000:
-                        logging.info('out of range')
+                        print('out of range')
                         continue
 
                     temp_word = np.array(temp_word)
@@ -153,10 +169,10 @@ def main(_):
                     current_step = tf.train.global_step(sess, global_step)
                     if current_step > 15000 and current_step%2000==0:
                     #if current_step == 50:
-                        logging.info('saving model')
+                        print('saving model')
                         path = saver.save(sess,save_path +'ATT_GRU_model',global_step=current_step)
                         tempstr = 'have saved model to '+path
-                        logging.info(tempstr)
+                        print(tempstr)
 
             if itchat_run:
                 itchat.send('training has been finished!',FLAGS.wechat_name)
