@@ -10,6 +10,5 @@
 
 module purge
 module load python3/intel/3.5.3
-module load numpy/intel/1.13.1
 
 python3 -u initial.py > logs/Init_data.log

@@ -2,7 +2,7 @@
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=20
 #SBATCH --time=48:00:00
-#SBATCH --mem=32GB
+#SBATCH --mem=512GB
 #SBATCH --job-name=NRE_train
 #SBATCH --mail-type=END
 #SBATCH --mail-user=gz612@nyu.edu
