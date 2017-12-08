@@ -5,6 +5,7 @@ import datetime
 import os
 import network
 from tensorflow.contrib.tensorboard.plugins import projector
+import sys
 
 
 FLAGS = tf.app.flags.FLAGS
@@ -19,6 +20,22 @@ tf.app.flags.DEFINE_string('wechat_name', 'filehelper','the user you want to sen
 itchat_run = False
 if itchat_run:
     import itchat
+
+
+class Unbuffered(object):
+   def __init__(self, stream):
+       self.stream = stream
+   def write(self, data):
+       self.stream.write(data)
+       self.stream.flush()
+   def writelines(self, datas):
+       self.stream.writelines(datas)
+       self.stream.flush()
+   def __getattr__(self, attr):
+       return getattr(self.stream, attr)
+
+sys.stdout = Unbuffered(sys.stdout)
+
 
 def main(_):
     # the path to save models
@@ -53,12 +70,12 @@ def main(_):
 
             #train_op=optimizer.minimize(m.total_loss,global_step=global_step)
             train_op=optimizer.minimize(m.final_loss,global_step=global_step)
-            sess.run(tf.initialize_all_variables())
+            sess.run(tf.global_variables_initializer())
             saver = tf.train.Saver(max_to_keep=None)
 
             #merged_summary = tf.summary.merge_all()
-            merged_summary = tf.merge_all_summaries()
-            summary_writer = tf.train.SummaryWriter(FLAGS.summary_dir+'/train_loss',sess.graph)
+            merged_summary = tf.summary.merge_all()
+            summary_writer = tf.summary.FileWriter(FLAGS.summary_dir+'/train_loss',sess.graph)
 
             #summary for embedding
             #it's not available in tf 0.11,(because there is no embedding panel in 0.11's tensorboard) so I delete it =.=
@@ -100,7 +117,9 @@ def main(_):
                 feed_dict[m.input_pos2] = total_pos2
                 feed_dict[m.input_y] = y_batch
 
-                temp, step, loss, accuracy,summary,l2_loss,final_loss= sess.run([train_op, global_step, m.total_loss, m.accuracy,merged_summary,m.l2_loss,m.final_loss], feed_dict)
+                temp, step, loss, accuracy,summary,l2_loss,final_loss = \
+                    sess.run([train_op, global_step, m.total_loss, m.accuracy,
+                              merged_summary,m.l2_loss,m.final_loss], feed_dict)
                 time_str = datetime.datetime.now().isoformat()
                 accuracy = np.reshape(np.array(accuracy),(big_num))
                 acc = np.mean(accuracy)

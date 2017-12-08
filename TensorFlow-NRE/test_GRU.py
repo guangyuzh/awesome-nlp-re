@@ -5,6 +5,8 @@ import datetime
 import os
 import network
 from sklearn.metrics import average_precision_score
+import sys
+
 
 FLAGS = tf.app.flags.FLAGS
 #change the name to who you want to send
@@ -15,6 +17,22 @@ tf.app.flags.DEFINE_string('wechat_name', 'filehelper','the user you want to sen
 itchat_run = False
 if itchat_run:
     import itchat
+
+
+class Unbuffered(object):
+   def __init__(self, stream):
+       self.stream = stream
+   def write(self, data):
+       self.stream.write(data)
+       self.stream.flush()
+   def writelines(self, datas):
+       self.stream.writelines(datas)
+       self.stream.flush()
+   def __getattr__(self, attr):
+       return getattr(self.stream, attr)
+
+sys.stdout = Unbuffered(sys.stdout)
+
 
 def main(_):
 
@@ -113,7 +131,7 @@ def main(_):
 
                 if itchat_run:
                     tempstr = 'P@100\n'+str(correct_num_100/100)+'\n'+'P@200\n'+str(correct_num_200/200)+'\n'+'P@300\n'+str(correct_num_300/300)
-                     itchat.send(tempstr,FLAGS.wechat_name)
+                    itchat.send(tempstr,FLAGS.wechat_name)
 
 
 
@@ -125,7 +143,7 @@ def main(_):
 
             # ATTENTION: change the list to the iters you want to test !!
             #testlist = range(9025,14000,25)
-            testlist = [10900]
+            testlist = [16000]
             for model_iter in testlist:
 
                 saver.restore(sess,pathname+str(model_iter))
