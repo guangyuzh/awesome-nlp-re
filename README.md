@@ -1,12 +1,11 @@
-# IR & Stat-NLP Final Project on Topics of Knowledge Graph
+# Relation Extraction for Knowledge Graph - IR & Stat-NLP Final Project
 
 ### - Distant Supervision
 **Paper Name:**    
 **Link:**   
 **Source Code:**  
 
-**Paper Name:** Distant Supervision for Relation Extraction beyond the Sentence Boundary  
-**Link:**https://arxiv.org/pdf/1609.04873.pdf  
+**Paper Name:** [Distant Supervision for Relation Extraction beyond the Sentence Boundary](https://arxiv.org/pdf/1609.04873.pdf)  
 
 ### - PCNN with Selective Attention
 **Paper Name:** Neural Reltaion Extraction with Selective Attention over Instances    
@@ -19,9 +18,9 @@ http://www.tk4479.net/qq_21460525/article/details/74989648
 http://www.tk4479.net/u014268445/article/details/52748032  
 
 ### - Reinforcement Learning
-**Paper Name:**DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning       
+**Paper Name:** DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning       
 **Link:**   
-**Source Code:**https://github.com/xwhan/DeepPath   
+**Source Code:** https://github.com/xwhan/DeepPath   
 
 ### - RNN
 **Paper Name:**    
@@ -29,7 +28,7 @@ http://www.tk4479.net/u014268445/article/details/52748032
 **Source Code:**  
 
 ### Graphical Model Approach:
-**Paper Name:**Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach   
+**Paper Name:** Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach   
 **Link:**   
 **Source Code:**    
 We extract relationships between principal entity and secondary entities in the format of <Article, Principal_E, Secondary_E, UnaryPotential>.   
@@ -40,7 +39,11 @@ The relationships which has the same Principal_E groups as a cluster of relation
 https://zhuanlan.zhihu.com/p/22683996  
 
 ### - Word Embedding
-https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/  
+- [GloVe](https://nlp.stanford.edu/projects/glove/)
+    
+    Pretrained: Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 50d)
+    
+- https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/  
 
 ### Other Resources
 
