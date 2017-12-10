@@ -43,8 +43,8 @@ def main(_):
 
     test_settings = network.Settings()
     test_settings.vocab_size = 114044
-    test_settings.num_classes = 53
-    test_settings.big_num = 262*9
+    test_settings.num_classes = 91
+    test_settings.big_num = 35
 
     big_num_test = test_settings.big_num
 
