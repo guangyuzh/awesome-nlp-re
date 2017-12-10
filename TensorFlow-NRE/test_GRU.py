@@ -42,7 +42,7 @@ def main(_):
     wordembedding = np.load('./data/vec.npy')
 
     test_settings = network.Settings()
-    test_settings.vocab_size = 114044
+    test_settings.vocab_size = len(wordembedding)
     test_settings.num_classes = 91
     test_settings.big_num = 35
 
@@ -143,7 +143,7 @@ def main(_):
 
             # ATTENTION: change the list to the iters you want to test !!
             #testlist = range(9025,14000,25)
-            testlist = [16000]
+            testlist = [16000, 18000, 20000]
             for model_iter in testlist:
 
                 saver.restore(sess,pathname+str(model_iter))

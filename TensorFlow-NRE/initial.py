@@ -16,6 +16,7 @@ class Unbuffered(object):
 
 sys.stdout = Unbuffered(sys.stdout)
 
+embeddings_file = "origin_data/GloVe/wiki-giga_6B/glove.6B.50d.txt"
 
 #embedding the position 
 def pos_embed(x):
@@ -41,8 +42,8 @@ def init():
     print('reading word embedding data...')
     vec = []
     word2id = {}
-    f = open('./origin_data/vec.txt')
-    f.readline()
+    f = open(embeddings_file)
+    # f.readline()
     while True:
         content = f.readline()
         if content == '':
@@ -605,8 +606,8 @@ def getans():
 
 def get_metadata():
     fwrite = open('./data/metadata.tsv','w')
-    f = open('./origin_data/vec.txt')
-    f.readline()
+    f = open(embeddings_file)
+    # f.readline()
     while True:
         content = f.readline().strip()
         if content == '':

@@ -1,1 +1,2 @@
 ../wikipedia-biography-dataset/train/train.generate.txt filter=lfs diff=lfs merge=lfs -text
+origin_data/GloVe/wiki-giga_6B/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
