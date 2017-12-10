@@ -1,0 +1,34 @@
+Evaluating P@N for iter 16000
+Evaluating P@N for one
+P@100:
+0.43
+P@200:
+0.51
+P@300:
+0.5566666666666666
+Evaluating P@N for two
+P@100:
+0.43
+P@200:
+0.51
+P@300:
+0.5566666666666666
+Evaluating P@N for all
+P@100:
+0.43
+P@200:
+0.51
+P@300:
+0.5566666666666666
+2017-12-09T20:43:44.043832
+Evaluating all test data and save data for PR curve
+saving all test result...
+PR curve area:0.75007810782
+2017-12-09T20:44:01.727900
+P@N for all test data:
+P@100:
+1.0
+P@200:
+1.0
+P@300:
+1.0
