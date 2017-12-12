@@ -1,4 +1,6 @@
 # Relation Extraction for Knowledge Graph - IR & Stat-NLP Final Project
+Ongoing Paper Writing: Overleaf link: https://www.overleaf.com/read/jtbgxkxckwbt
+
 
 ### - Distant Supervision
 **Paper Name:**    
