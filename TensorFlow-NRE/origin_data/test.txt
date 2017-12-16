@@ -29,7 +29,6 @@ SH	SH	ben_mcdonald	right	throws	larry benard mcdonald born november 24 , 1967 is
 SH	SH	ben_mcdonald	september	debutdate	larry benard mcdonald born november 24 , 1967 is a former major league baseball pitcher . ###END###
 SH	SH	ben_mcdonald	july	finaldate	larry benard mcdonald born november 24 , 1967 is a former major league baseball pitcher . ###END###
 SH	SH	lee_baldwin_ice_hockey	defence	position	lee baldwin born april 26 , 1988 is a canadian professional ice hockey player who is currently playing for german club , esv kaufbeuren in the del2 . ###END###
-SH	SH	lee_baldwin_ice_hockey	left	shoots	lee baldwin born april 26 , 1988 is a canadian professional ice hockey player who is currently playing for german club , esv kaufbeuren in the del2 . ###END###
 SH	SH	jakarat_tonhongsa	defender	position	jakarat tonhongsa born 29 september 1973 is a thailand football defender who played for thailand in the 1996 asian cup . ###END###
 SH	SH	luis_miguel_seguí	actor	occupation	luis miguel seguí born october 4 , 1972 is a spanish actor and producer , best known for his role as leo in `` la que se avecina '' . ###END###
 SH	SH	j._g._blackman	http_cricinfo	source	j. g. blackman was a west indian cricket umpire .he stood in one test match , west indies vs. england , in 1935 . ###END###
@@ -100,7 +99,6 @@ SH	SH	lü_zheng	m_on	height	lü zheng ; born 25 february 1985 is a chinese footb
 SH	SH	lü_zheng	august	pcupdate	lü zheng ; born 25 february 1985 is a chinese footballer who currently plays for shanghai shenhua in the chinese super league . ###END###
 SH	SH	lü_zheng	june	ntupdate	lü zheng ; born 25 february 1985 is a chinese footballer who currently plays for shanghai shenhua in the chinese super league . ###END###
 SH	SH	stephen_dixon_ice_hockey	centre	position	stephen dixon born september 7 , 1985 -rsb- is a canadian professional ice hockey centre currently playing for tappara in the finnish sm-liiga ###END###
-SH	SH	stephen_dixon_ice_hockey	left	shoots	stephen dixon born september 7 , 1985 -rsb- is a canadian professional ice hockey centre currently playing for tappara in the finnish sm-liiga ###END###
 SH	SH	nicole_lindroos	american	nationality	nicole lindroos is a game designer who has worked primarily on role-playing games . ###END###
 SH	SH	leo_mol	canadian	nationality	leonid molodoshanin , known as leo mol , january 15 , 1915 -- july 4 , 2009 was a ukrainian canadian stained glass artist and sculptor . ###END###
 SH	SH	george_knight_baseball	pitcher	position	george henry knight 1855 -- 1912 was a major league baseball player for the 1875 new haven elm citys . ###END###
@@ -167,7 +165,6 @@ SH	SH	peter_gwynne	australia	origin	peter gwynne 1929 -- 17 november 2011 was a 
 SH	SH	peter_gwynne	actor	occupation	peter gwynne 1929 -- 17 november 2011 was a new zealand-born australian television actor who was also known for voice-over work . ###END###
 SH	SH	mehrdad_oladi	m_ftin_on	height	mehrdad oladi , born may 25 , 1985 is an iranian footballer who plays for malavan in the iran pro league .he usually plays in the striker position . ###END###
 SH	SH	mehrdad_oladi	forward	position	mehrdad oladi , born may 25 , 1985 is an iranian footballer who plays for malavan in the iran pro league .he usually plays in the striker position . ###END###
-SH	SH	ben_storey	left	shoots	ben storey born june 22 , 1977 in ottawa , ontario is a canadian former professional ice hockey player . ###END###
 SH	SH	salvatore_mastronunzio	forward	position	salvatore mastronunzio born 5 september 1979 is an italian footballer . ###END###
 SH	SH	jackson_mwanza	forward	position	jackson mwanza born 6 february 1987 is an zambian professional footballer who currently plays as a forward . ###END###
 SH	SH	quinton_ross	american	nationality	quinton lenord ross born april 30 , 1981 is an american professional basketball player . ###END###
@@ -199,7 +196,6 @@ SH	SH	koichi_uehara	kg_lb_st_on	weight	koichi uehara born 25 november 1947 is a 
 SH	SH	lara_teixeira	kg_lb_on	weight	lara teixeira born 26 november 1987 is a brazilian synchronized swimmer .she competed in the women 's duet at the 2012 summer olympics . ###END###
 SH	SH	lara_teixeira	may	updated	lara teixeira born 26 november 1987 is a brazilian synchronized swimmer .she competed in the women 's duet at the 2012 summer olympics . ###END###
 SH	SH	adrian_neniță	attacking_midfielder	position	adrian neniţă is a romanian footballer currently playing for chindia târgovişte .he made his liga i debut against csms iasi on 30 may 2013 . ###END###
-SH	SH	bob_sweeney_ice_hockey	right	shoots	robert emmett sweeney born january 25 , 1964 is a retired american professional ice hockey center . ###END###
 SH	SH	bob_sweeney_ice_hockey	nhl	league	robert emmett sweeney born january 25 , 1964 is a retired american professional ice hockey center . ###END###
 SH	SH	william_ralls_morrison	democratic	party	william ralls morrison september 14 , 1824 - september 29 , 1909 was a u.s. representative from illinois . ###END###
 SH	SH	sergiu_zacon	midfielder	position	sergiu zacon born 13 november 1987 , leova , moldavian ssr is a moldavian football striker who plays for fc nistru otaci . ###END###
@@ -1080,7 +1076,6 @@ SH	SH	cristóbal_gil_martín	attacking_midfielder	position	cristóbal gil martí
 SH	SH	cristóbal_gil_martín	june	pcupdate	cristóbal gil martín born 5 february 1992 is a spanish footballer who plays for cultural y deportiva leonesa as an attacking midfielder . ###END###
 SH	SH	keith_albarn	british	nationality	keith albarn born 28 january 1939 in nottingham is an english artist and the father of the musician , damon albarn and the artist , jessica albarn . ###END###
 SH	SH	Ņikita_koļesņikovs	defence	position	Ņikita koļesņikovs born october 30 , 1992 is a latvian professional ice hockey player , currently playing for odense bulldogs of the al-bank ligaen . ###END###
-SH	SH	Ņikita_koļesņikovs	left	shoots	Ņikita koļesņikovs born october 30 , 1992 is a latvian professional ice hockey player , currently playing for odense bulldogs of the al-bank ligaen . ###END###
 SH	SH	tobias_weis	midfielder	position	tobias weis born 30 july 1985 is a german footballer who plays as a midfielder . ###END###
 SH	SH	tobias_weis	germany	nationalteam	tobias weis born 30 july 1985 is a german footballer who plays as a midfielder . ###END###
 SH	SH	tobias_weis	august	pcupdate	tobias weis born 30 july 1985 is a german footballer who plays as a midfielder . ###END###
@@ -1210,7 +1205,6 @@ SH	SH	gunther_goldman	yes	date	gunther goldman born 16 june 1924 is a former sou
 SH	SH	gunther_goldman	http_cricinfo	source	gunther goldman born 16 june 1924 is a former south african cricket umpire .he stood in two test matches between 1967 and 1970 . ###END###
 SH	SH	thorsten_schick	midfielder	position	thorsten schick born 19 may 1990 is an austrian footballer who plays for sk sturm graz . ###END###
 SH	SH	dean_hill	forward	position	dean hill born october 26 , 1986 is an iroquois lacrosse player for the georgia swarm in the national lacrosse league . ###END###
-SH	SH	dean_hill	left	shoots	dean hill born october 26 , 1986 is an iroquois lacrosse player for the georgia swarm in the national lacrosse league . ###END###
 SH	SH	lisa_lu	present	yearsactive	lisa lu ; born january 19 , 1927 is a chinese-born american actress and singer .she won the golden horse awards three times in the 1970s . ###END###
 SH	SH	leslie_jones_footballer	forward	position	leslie jenkin jones 1 july 1911 - january 1981 was a welsh professional footballer . ###END###
 SH	SH	massimo_rastelli	striker	position	massimo rastelli born 27 december 1968 is an italian football manager and former player .he is the coach of cagliari for 2015 -- 16 season . ###END###
@@ -1281,7 +1275,6 @@ SH	SH	harald_ruckendorfer	midfielder	position	harald ruckendorfer born 5 decembe
 SH	SH	harald_ruckendorfer	august	pcupdate	harald ruckendorfer born 5 december 1982 is an austrian footballer who currently plays for austrian team vorwärts steyr . ###END###
 SH	SH	orlando_bridgeman_raf_officer	united_kingdom	allegiance	second lieutenant orlando clive bridgeman 29 november 1898 -- 21 december 1931 was a world war i flying ace credited with five aerial victories . ###END###
 SH	SH	tommy_albelin	defence	position	tommy albelin born 21 may 1964 is a retired swedish ice hockey defenceman who is currently an assistant coach for the new jersey devils in the nhl . ###END###
-SH	SH	tommy_albelin	left	shoots	tommy albelin born 21 may 1964 is a retired swedish ice hockey defenceman who is currently an assistant coach for the new jersey devils in the nhl . ###END###
 SH	SH	gilbert_alsop	forward	position	gilbert alsop 10 september 1908 -- 16 april 1992 was an english professional footballer . ###END###
 SH	SH	boris_gáll	attacking_midfielder	position	boris gáll born 27 april 1994 is a slovak football midfielder who currently plays for the doxxbet liga club fc vss košice . ###END###
 SH	SH	diego_rico	left_back	position	diego rico salguero born 23 february 1993 is a spanish professional footballer who plays for real zaragoza as a left back . ###END###
@@ -1389,7 +1382,6 @@ SH	SH	snake_deal	july	debutdate	john wesley `` snake '' deal was a major league 
 SH	SH	snake_deal	october	finaldate	john wesley `` snake '' deal was a major league baseball first baseman .he played half of one season for the cincinnati reds in . ###END###
 SH	SH	eduard_doronin	midfielder	position	eduard igorevich doronin ; born 23 march 1975 is a former russian football player . ###END###
 SH	SH	jesse_schultz	right_wing	position	jesse schultz born september 28 , 1982 is a canadian professional ice hockey right winger who is currently playing with sc riessersee of the del2 . ###END###
-SH	SH	jesse_schultz	right	shoots	jesse schultz born september 28 , 1982 is a canadian professional ice hockey right winger who is currently playing with sc riessersee of the del2 . ###END###
 SH	SH	ibán_parra	m_ftin_on	height	ibán parra lópez born 26 august 1977 in lleida , catalonia is a spanish footballer who plays for balaguer as a striker . ###END###
 SH	SH	ibán_parra	striker	position	ibán parra lópez born 26 august 1977 in lleida , catalonia is a spanish footballer who plays for balaguer as a striker . ###END###
 SH	SH	ibán_parra	september	pcupdate	ibán parra lópez born 26 august 1977 in lleida , catalonia is a spanish footballer who plays for balaguer as a striker . ###END###
@@ -1539,7 +1531,6 @@ SH	SH	alicia_reece	democratic	party	alicia reece born april 25 , 1971 is a democ
 SH	SH	alicia_reece	http	website	alicia reece born april 25 , 1971 is a democratic member of the ohio house of representatives for the 33rd district . ###END###
 SH	SH	faisal_bin_khalid_bin_abdulaziz_al_saud	islam	religion	faisal bin khalid arabic : فيصل بن خالد بن عبد العزيز آل سعود born 1954 is the governor of asir province and a member of house of saud . ###END###
 SH	SH	baek_min-chul	center	position	baek min-chul ; born 2 april 1986 , in seoul is a korean professional ice hockey center .he is playing in his rookie year for anyang halla . ###END###
-SH	SH	baek_min-chul	right	shoots	baek min-chul ; born 2 april 1986 , in seoul is a korean professional ice hockey center .he is playing in his rookie year for anyang halla . ###END###
 SH	SH	john_uberti	united_states_of_america	allegiance	major general john uberti is the deputy commanding general for support for the u.s. army installation management command . ###END###
 SH	SH	john_uberti	united_states_army	branch	major general john uberti is the deputy commanding general for support for the u.s. army installation management command . ###END###
 SH	SH	john_uberti	present	serviceyears	major general john uberti is the deputy commanding general for support for the u.s. army installation management command . ###END###
@@ -1555,7 +1546,6 @@ SH	SH	charles_albright_congressman	united_states_army	branch	charles albright de
 SH	SH	giovanni_sacco	midfielder	position	giovanni sacco born september 25 , 1943 in san damiano d'asti is a retired italian professional football player . ###END###
 SH	SH	manas_das	defender	position	manas das is an indian footballer who is currently playing for southern samity in the i-league 2nd division as a defender . ###END###
 SH	SH	santeri_heiskanen	defence	position	santeri heiskanen born april 13 , 1977 is a finnish former professional ice hockey defenceman . ###END###
-SH	SH	santeri_heiskanen	right	shoots	santeri heiskanen born april 13 , 1977 is a finnish former professional ice hockey defenceman . ###END###
 SH	SH	cao_zhijie	midfielder	position	cao zhijie chinese : 曹志杰 born january 7 , 1983 is a chinese football player who currently plays for hoi fan . ###END###
 SH	SH	cao_zhijie	december	pcupdate	cao zhijie chinese : 曹志杰 born january 7 , 1983 is a chinese football player who currently plays for hoi fan . ###END###
 SH	SH	peter_reichert	striker	position	peter reichert born 4 august 1961 in bretten , baden-württemberg is a german former footballer . ###END###
@@ -1682,7 +1672,6 @@ SH	SH	philip_brigham	solo_singer	background	philip phil brigham is a canadian ro
 SH	SH	ian_hunter_footballer	striker	position	ian hunter born 10 august 1961 is an australian former association footballer . ###END###
 SH	SH	josef_Čipera	fencing	sport	josef Čipera born 12 january 1888 , date of death unknown was a bohemian fencer .he competed in the team sabre event at the 1912 summer olympics . ###END###
 SH	SH	ville_viitaluoma	centre	position	ville viitaluoma born february 16 , 1981 is a finnish professional ice hockey forward who currently plays for hpk of the sm-liiga . ###END###
-SH	SH	ville_viitaluoma	left	shoots	ville viitaluoma born february 16 , 1981 is a finnish professional ice hockey forward who currently plays for hpk of the sm-liiga . ###END###
 SH	SH	ivan_fatić	m_ftin_on	height	ivan fatić cyrillic : Ивaн Фaтић , born 21 august 1988 is a montenegrin football player . ###END###
 SH	SH	ivan_fatić	december	pcupdate	ivan fatić cyrillic : Ивaн Фaтић , born 21 august 1988 is a montenegrin football player . ###END###
 SH	SH	sergei_orlov_footballer_,_born_1974	defender	position	sergei pavlovich orlov ; born 17 march 1974 in volgograd is a russian football coach and a former player . ###END###
@@ -1767,7 +1756,6 @@ SH	SH	alexander_madlung	centre_back	position	alexander madlung born 11 july 1982
 SH	SH	alexander_madlung	july	pcupdate	alexander madlung born 11 july 1982 is a german footballer who plays as a centre back . ###END###
 SH	SH	liam_willis	defender	position	liam james willis born 21 may 1993 in liverpool , england is an english footballer playing as a defender for marine . ###END###
 SH	SH	t._j._caig	centre	position	t. j. caig born january 26 , 1981 is a canadian ice hockey centre currently playing for hys the hague of the dutch eredivisie . ###END###
-SH	SH	t._j._caig	right	shoots	t. j. caig born january 26 , 1981 is a canadian ice hockey centre currently playing for hys the hague of the dutch eredivisie . ###END###
 SH	SH	lucien_de_brauwere	october	updated	lucien de brauwere born 10 june 1951 is a former belgian cyclist .he competed in the individual road race at the 1972 summer olympics . ###END###
 SH	SH	moussa_koita	striker	position	moussa koïta born november 19 , 1982 in saint-denis is a former french-senegalese footballer . ###END###
 SH	SH	moussa_koita	april	pcupdate	moussa koïta born november 19 , 1982 in saint-denis is a former french-senegalese footballer . ###END###
@@ -1808,7 +1796,6 @@ SH	SH	jeppe_illum	june	pcupdate	jeppe illum born 25 march 1992 is a danish footb
 SH	SH	melissa_mathison	present	yearsactive	melissa marie mathison born june 3 , 1950 is an american film and television screenwriter . ###END###
 SH	SH	adrien_coulomb	attacking_midfielder	position	adrien coulomb born 4 october 1990 is a french professional footballer who plays as a midfielder for ac arles-avignon . ###END###
 SH	SH	scott_langdon	defence	position	scott langdon born may 12 , 1985 is a canadian professional ice hockey defenseman .he is currently playing with the missouri mavericks of the echl . ###END###
-SH	SH	scott_langdon	left	shoots	scott langdon born may 12 , 1985 is a canadian professional ice hockey defenseman .he is currently playing with the missouri mavericks of the echl . ###END###
 SH	SH	filip_racko	attacking_midfielder	position	filip racko born july 20 , 1985 is a czech footballer who is currently a free agent . ###END###
 SH	SH	filip_racko	free_agent	currentclub	filip racko born july 20 , 1985 is a czech footballer who is currently a free agent . ###END###
 SH	SH	damian_skołorzyński	defender	position	damian skołorzyński born 12 february 1991 in węgorzewo is a polish footballer who plays as a defender for lks nieciecza . ###END###
@@ -1950,14 +1937,12 @@ SH	SH	joe_matt	american	nationality	joe matt born september 3 , 1963 is an ameri
 SH	SH	peter_whitaker	actor	occupation	he is the grandfather of actor/director/writer david shopland , soon to be appearing in a national tour of `` lord of the flies '' . ###END###
 SH	SH	boris_belkin	non_vocal_instrumentalist	background	boris belkin born january 26 , 1948 is a soviet-born violin virtuoso . ###END###
 SH	SH	marek_malík	defence	position	marek malík born june 24 , 1975 is a czech former professional ice hockey defenceman who played in the national hockey league nhl from 1994 to 2009 . ###END###
-SH	SH	marek_malík	left	shoots	marek malík born june 24 , 1975 is a czech former professional ice hockey defenceman who played in the national hockey league nhl from 1994 to 2009 . ###END###
 SH	SH	pierluigi_billone	italian	nationality	pierluigi billone born 1960 in italy is an italian composer . ###END###
 SH	SH	marco_bonura	midfielder	position	marco bonura born 2 august 1979 is an italian footballer who is currently contracted to cesena in serie a. ###END###
 SH	SH	paolo_hewitt	british	nationality	paolo hewitt is a music journalist and writer from woking in surrey . ###END###
 SH	SH	abul_taher	british	nationality	abul taher ; born 1976 is an english journalist who reports for `` the mail on sunday '' . ###END###
 SH	SH	abul_taher	islam	religion	abul taher ; born 1976 is an english journalist who reports for `` the mail on sunday '' . ###END###
 SH	SH	ben_maxwell	centre	position	benjamin jeffrey maxwell born march 30 , 1988 is a canadian professional ice hockey centre currently with kärpät of the finnish hockey league . ###END###
-SH	SH	ben_maxwell	left	shoots	benjamin jeffrey maxwell born march 30 , 1988 is a canadian professional ice hockey centre currently with kärpät of the finnish hockey league . ###END###
 SH	SH	mervyn_gill	goalkeeper	position	mervyn john gill born 13 april 1931 is a retired english football goalkeeper who spent most of his playing career with torquay united . ###END###
 SH	SH	emmanuel_sonupe	midfielder	position	emmanuel olukolade sonupe born 21 march 1996 is an english professional footballer who plays for tottenham hotspur , as a midfielder . ###END###
 SH	SH	zlatko_mojsoski	kg_lb	weight	zlatko mojsoski born 15 november 1981 is a macedonian handball player for rabotnički and the macedonian national team . ###END###
@@ -1997,7 +1982,6 @@ SH	SH	michael_carroll_american_football	football	sport	rev. michael carroll was 
 SH	SH	dave_konopka	non_vocal_instrumentalist	background	dave konopka is an american musician who is best known as the bassist and guitarist in battles . ###END###
 SH	SH	dave_konopka	musician	occupation	dave konopka is an american musician who is best known as the bassist and guitarist in battles . ###END###
 SH	SH	patrik_carnbäck	right_wing	position	jan patrik carnbäck born february 1 , 1968 in gothenburg , sweden is a retired swedish professional ice hockey player . ###END###
-SH	SH	patrik_carnbäck	left	shoots	jan patrik carnbäck born february 1 , 1968 in gothenburg , sweden is a retired swedish professional ice hockey player . ###END###
 SH	SH	ege_maltepe	http_official_website	website	ege maltepe born in istanbul is a turkish actress , and playwright . ###END###
 SH	SH	krševan_santini	on	height	krševan santini born 11 april 1987 is a croatian football goalkeeper , currently playing for zorya luhansk in the ukrainian premier league . ###END###
 SH	SH	krševan_santini	goalkeeper	position	krševan santini born 11 april 1987 is a croatian football goalkeeper , currently playing for zorya luhansk in the ukrainian premier league . ###END###
@@ -2050,7 +2034,6 @@ SH	SH	muhammad_ridwan	winger	position	muhammad ridwan is an indonesian professio
 SH	SH	muhammad_ridwan	april	pcupdate	muhammad ridwan is an indonesian professional footballer who currently plays for persib bandung in the indonesia super league as a winger . ###END###
 SH	SH	muhammad_ridwan	november	ntupdate	muhammad ridwan is an indonesian professional footballer who currently plays for persib bandung in the indonesia super league as a winger . ###END###
 SH	SH	andrei_karev	defence	position	andrei germanovich karev born february 12 , 1985 is a belarusian professional ice hockey defenceman .he currently plays for yunost minsk of the vhl . ###END###
-SH	SH	andrei_karev	left	shoots	andrei germanovich karev born february 12 , 1985 is a belarusian professional ice hockey defenceman .he currently plays for yunost minsk of the vhl . ###END###
 SH	SH	mark_volders	goalkeeper	position	mark volders born 13 april 1977 in xanten is a belgian football goalkeeper . ###END###
 SH	SH	mark_volders	may	pcupdate	mark volders born 13 april 1977 in xanten is a belgian football goalkeeper . ###END###
 SH	SH	ishita_arun	present	yearsactive	ishita arun is an indian model , vj and actress . ###END###
@@ -2118,7 +2101,6 @@ SH	SH	leonard_peter_schultz	american	nationality	leonard peter schultz 1901 -- 1
 SH	SH	olivér_kovács	midfielder	position	olivér kovács born 22 december 1990 in marcali is a hungarian football player who currently plays for kaposvári rákóczi fc . ###END###
 SH	SH	slavko_stojanović	goalkeeper	position	slavko `` vavo '' stojanović 1 june 1930 in osijek -- 3 december 2012 in worms was a croatian football goalkeeper . ###END###
 SH	SH	ed_ward_ice_hockey	right_wing	position	edward j. ward born november 10 , 1969 is a canadian retired professional ice hockey player .ward played 278 games for five teams . ###END###
-SH	SH	ed_ward_ice_hockey	right	shoots	edward j. ward born november 10 , 1969 is a canadian retired professional ice hockey player .ward played 278 games for five teams . ###END###
 SH	SH	ruben_f._mettler	american	nationality	ruben f. mettler 1924-2006 was an american businessman .he served as chairman and chief executive officer of trw inc. from 1977 to 1988 . ###END###
 SH	SH	lukas_kruse	goalkeeper	position	lukas kruse born 9 july 1983 in paderborn is a german footballer and a current goalkeeper for sc paderborn 07 . ###END###
 SH	SH	lukas_kruse	august_utc	pcupdate	lukas kruse born 9 july 1983 in paderborn is a german footballer and a current goalkeeper for sc paderborn 07 . ###END###
@@ -2286,7 +2268,6 @@ SH	SH	kidz_in_the_hall	http	website	kidz in the hall is an american hip hop duo 
 SH	SH	monte_michael_moore	american	nationality	monte michael moore is an artist whose work has appeared in role-playing games . ###END###
 SH	SH	helen_zimmern	british	nationality	helen zimmern 25 march 1846 -- 11 january 1934 was a german-british writer and translator . ###END###
 SH	SH	steve_black	left_wing	position	stephen black march 31 , 1927 -- june 12 , 2008 was a professional ice hockey player from thunder bay , ontario in the nhl . ###END###
-SH	SH	steve_black	left	shoots	stephen black march 31 , 1927 -- june 12 , 2008 was a professional ice hockey player from thunder bay , ontario in the nhl . ###END###
 SH	SH	william_smith_shaw	american	nationality	william smith shaw 12 august 1778 -- 25 april 1826 was a founder of the boston athenæum as well as the athenæum 's first librarian . ###END###
 SH	SH	stefan_deák	m_ftin_on	height	stefan deák / Стефан Деак , born 23 march 1991 in ruma is a serbian footballer who plays as a central defender . ###END###
 SH	SH	stefan_deák	centre_back	position	stefan deák / Стефан Деак , born 23 march 1991 in ruma is a serbian footballer who plays as a central defender . ###END###
@@ -2376,7 +2357,6 @@ SH	SH	catherine_delbarre	fencing	sport	catherine delbarre born 8 june 1925 is a 
 SH	SH	damian_harris	present	yearsactive	damian david harris born 2 august 1958 is an english film director and screenwriter .he is the son of the actor richard harris . ###END###
 SH	SH	bruce_musakanya	midfielder	position	bruce musakanya born 23 february 1994 is an zambian professional footballer who currently plays as a midfielder . ###END###
 SH	SH	miro_rahkola	defence	position	miro rahkola is a finnish professional ice hockey defenceman who currently plays for the varberg vipers of the swedish tier 3 league , hockeyettan . ###END###
-SH	SH	miro_rahkola	left	shoots	miro rahkola is a finnish professional ice hockey defenceman who currently plays for the varberg vipers of the swedish tier 3 league , hockeyettan . ###END###
 SH	SH	sergei_terehhov	december	pcupdate	sergei terehhov born 18 april 1975 in pärnu is an estonian football coach and former player who is currently the manager of nõmme kalju . ###END###
 SH	SH	sergei_terehhov	december	ntupdate	sergei terehhov born 18 april 1975 in pärnu is an estonian football coach and former player who is currently the manager of nõmme kalju . ###END###
 SH	SH	kazuhito_kishida	striker	position	kishida is a prolific goalscorer .in the 2014 season , he scored 17 goals , becoming the japan football league top-scorer . ###END###
@@ -2395,7 +2375,6 @@ SH	SH	akram_umarov	july	ntupdate	akram umarov ru : Акрам Умаров , bor
 SH	SH	achraf_lazaar	june	ntupdate	achraf lazaar ; born 22 january 1992 is a moroccan football defender currently playing for palermo . ###END###
 SH	SH	adnan_amar	united_kingdom	nationality	adnan amar born 17 february 1983 is an english professional boxer . ###END###
 SH	SH	oscar_johansson	left_wing	position	oscar petter johansson born may 11 , 1988 is a swedish professional ice hockey winger , currently playing for borås hc in the hockeyallsvenskan . ###END###
-SH	SH	oscar_johansson	left	shoots	oscar petter johansson born may 11 , 1988 is a swedish professional ice hockey winger , currently playing for borås hc in the hockeyallsvenskan . ###END###
 SH	SH	alexander_fletcher_colonial_politician	politician	profession	alexander fletcher was the speaker of legislative assembly of prince edward island from 1785 to 1787 .he was re - elected speaker in the year 1790 . ###END###
 SH	SH	kristoffer_thydell	midfielder	position	kristoffer thydell born 17 april 1993 is a swedish footballer who plays for as a midfielder . ###END###
 SH	SH	Žarko_trifunović	goalkeeper	position	Žarko trifunović ; born 20 september 1989 is a serbian football goalkeeper who plays for radnički kragujevac . ###END###
@@ -2558,7 +2537,6 @@ SH	SH	william_h._f._payne	ndash_;	serviceyears	william henry fitzhugh payne janu
 SH	SH	jennifer_tipton	american	nationality	jennifer tipton born september 11 , 1937 columbus , ohio is a lighting designer .she has designed for dance , theater and opera . ###END###
 SH	SH	jerry_mccullough	american	nationality	jerry mccullough born november 26 , 1973 is an american former professional basketball player .he spent most of his career playing in europe . ###END###
 SH	SH	steve_eminger	defence	position	steve eminger born october 31 , 1983 is a canadian professional ice hockey defenceman for the providence bruins of the american hockey league . ###END###
-SH	SH	steve_eminger	right	shoots	steve eminger born october 31 , 1983 is a canadian professional ice hockey defenceman for the providence bruins of the american hockey league . ###END###
 SH	SH	david_kopp_actor	actor	occupation	david kopp born 14 june 1978 is a canadian actor who starred as ethan jarlewski on cbc 's jpod . ###END###
 SH	SH	raymond_salvatore_harmon	united_states	nationality	raymond salvatore harmon born april 7 , 1974 is an american artist who works primarily as a painter . ###END###
 SH	SH	todd_duncan	solo_singer	background	robert todd duncan february 12 , 1903 -- february 28 , 1998 was an american baritone opera singer and actor . ###END###
@@ -2681,7 +2659,6 @@ SH	SH	thomas_tuchel	defender	position	thomas tuchel ; born 29 august 1973 is a g
 SH	SH	ulaş_kıyak	kg_lb_on	weight	ulaş kıyak born august 11 , 1981 is a turkish volleyball player , a member of turkish club halkbank ankara . ###END###
 SH	SH	ulaş_kıyak	april	updated	ulaş kıyak born august 11 , 1981 is a turkish volleyball player , a member of turkish club halkbank ankara . ###END###
 SH	SH	fred_burchell_ice_hockey	centre	position	frederick leo gerald burchell january 9 , 1931 -- june 4 , 1998 was a canadian professional ice hockey player born in montreal , quebec . ###END###
-SH	SH	fred_burchell_ice_hockey	left	shoots	frederick leo gerald burchell january 9 , 1931 -- june 4 , 1998 was a canadian professional ice hockey player born in montreal , quebec . ###END###
 SH	SH	fabian_broghammer	midfielder	position	fabian broghammer born 14 january 1990 is a german footballer who currently plays for sv wiesbaden . ###END###
 SH	SH	albert_goldstein	writer	occupation	albert goldstein 31 january 1943 -- 18 may 2007 was significant croatian jewish intellectual , writer , publisher , poet and translator . ###END###
 SH	SH	luis_garcía_footballer_,_born_1972	m_ftin_on	height	luis garcía plaza born 1 december 1972 is a spanish retired footballer who played as a central defender , and the current manager of baniyas sc . ###END###
@@ -2695,7 +2672,6 @@ SH	SH	darko_domijan	singer	occupation	darko domijan born 5 february 1952 is a cr
 SH	SH	douglas_orr	american	nationality	douglas william orr march 25 , 1892 -- july 29 , 1966 was an american architect based in new haven , connecticut . ###END###
 SH	SH	tamer_yiğit	actor	occupation	tamer yiğit born tamer Özyiğitoğlu in 1942 in balıkesir is a turkish actor . ###END###
 SH	SH	mathieu_roy	defence	position	mathieu roy born august 10 , 1983 is a professional ice hockey defenceman with the hamburg freezers organization of the deutsche eishockey liga del . ###END###
-SH	SH	mathieu_roy	left	shoots	mathieu roy born august 10 , 1983 is a professional ice hockey defenceman with the hamburg freezers organization of the deutsche eishockey liga del . ###END###
 SH	SH	william_lambie_footballer	winger	position	william a. lambie was a scottish professional footballer who played as a winger . ###END###
 SH	SH	jacques_tioye	striker	position	jacques samy tioye born 9 january 1985 in abidjan is an ivorian footballer who plays for sombat fc . ###END###
 SH	SH	mehmet_sıddık_İstemi	midfielder	position	mehmet siddik istemi born 20 april 1991 is a turkish footballer .he currently plays as a midfielder for 1461 trabzon . ###END###
@@ -2983,7 +2959,6 @@ SH	SH	chris_childs_basketball	american	nationality	chris childs born november 20
 SH	SH	nick_falcon	solo_singer	background	nick falcon born july 20 , 1968 is an american musician best known as guitarist , composer , lyricist and singer of the band the young werewolves . ###END###
 SH	SH	nick_falcon	http	website	nick falcon born july 20 , 1968 is an american musician best known as guitarist , composer , lyricist and singer of the band the young werewolves . ###END###
 SH	SH	kelly_burnett	centre	position	james kelvin burnett born june 16 , 1926 is a former canadian ice hockey centre .he played in the nhl for the new york rangers . ###END###
-SH	SH	kelly_burnett	left	shoots	james kelvin burnett born june 16 , 1926 is a former canadian ice hockey centre .he played in the nhl for the new york rangers . ###END###
 SH	SH	krista_pärmäkoski	m_ftin_on	height	krista pärmäkoski née lähteenmäki , born 12 december 1990 is a finnish cross country skier who has competed since 2007 . ###END###
 SH	SH	jeff_wincott	actor	occupation	jeff wincott born may 8 , 1956 is a television and film actor .he is the older brother of actor michael wincott . ###END###
 SH	SH	igor_vrablic	striker	position	igor vrablic born 19 july 1965 is a canadian former soccer player who played at both professional and international levels , as a striker . ###END###
@@ -3160,7 +3135,6 @@ SH	SH	john_brett_royal_navy_officer	british	nationality	john brett died 1785 was
 SH	SH	aleksei_churavtsev	june_utc	pcupdate	aleksei vladimirovich churavtsev ; born 1 april 1984 is a russian professional football player .he plays for fc lada-togliatti . ###END###
 SH	SH	echoing_angels	group_or_band	background	echoing angels is a christian rock group from atlanta , georgia . ###END###
 SH	SH	stephen_henderson_footballer_,_born_1988	goalkeeper	position	stephen henderson born 2 may 1988 is an irish professional footballer who plays for charlton athletic as a goalkeeper . ###END###
-SH	SH	perry_florio	right	shoots	perry florio born , is a retired american professional ice hockey player who spent the majority of his career with the johnstown chiefs of the echl . ###END###
 SH	SH	theodore_harding_rand	canadian	nationality	theodore harding rand 8 february 1835 -- 29 may 1900 was a canadian educator and poet . ###END###
 SH	SH	hannu_haarala	right_back	position	hannu haarala born 15 august 1981 is a finnish footballer who plays for fc honka as a defender . ###END###
 SH	SH	hannu_haarala	august_utc	pcupdate	hannu haarala born 15 august 1981 is a finnish footballer who plays for fc honka as a defender . ###END###
@@ -3192,7 +3166,6 @@ SH	SH	nádson_da_silva_almeida	march	pcupdate	nádson da silva almeida or simply
 SH	SH	captain_kirk_douglas	non_vocal_instrumentalist	background	`` captain '' kirk douglas born september 30 , 1972 is an american guitarist who plays with the hip hop band the roots . ###END###
 SH	SH	joe_staton	american	nationality	joe staton born january 19 , 1948 is an american illustrator and writer of comic books . ###END###
 SH	SH	mansukh_bhuva	indian	nationality	mansukh bhuva is a member of legislative assembly from dhari constituency in gujarat for its 12th legislative assembly ###END###
-SH	SH	taras_foremsky	left	shoots	taras foremsky born february 15 , 1980 is a canadian ice hockey forward from calgary , alberta . ###END###
 SH	SH	leslie_mavor	united_kingdom	allegiance	air marshal sir leslie deane mavor 18 january 1916 -- 1991 was a senior royal air force officer . ###END###
 SH	SH	leslie_mavor	ndash_;	serviceyears	air marshal sir leslie deane mavor 18 january 1916 -- 1991 was a senior royal air force officer . ###END###
 SH	SH	leslie_mavor	united_kingdom	branch	air marshal sir leslie deane mavor 18 january 1916 -- 1991 was a senior royal air force officer . ###END###
@@ -3362,7 +3335,6 @@ SH	SH	harold_bartron	united_states_of_america	allegiance	harold arthur bartron s
 SH	SH	alberto_fonseca	defender	position	alberto gomes fonseca júnior born 22 august 1956 is a guinean-born portuguese retired footballer who played as defender . ###END###
 SH	SH	paul_loeb	usa	nationality	paul loeb born august 26 , 1935 is an american animal trainer and author of animal behavior and training books . ###END###
 SH	SH	olga_sosina	forward	position	olga petrovna sosina born 27 july 1992 is a russian ice hockey forward . ###END###
-SH	SH	olga_sosina	right	shoots	olga petrovna sosina born 27 july 1992 is a russian ice hockey forward . ###END###
 SH	SH	marco_andreini	italian	nationality	marco andreini born 8 october 1961 is a retired italian pole vaulter . ###END###
 SH	SH	marco_andreini	athletics	sport	marco andreini born 8 october 1961 is a retired italian pole vaulter . ###END###
 SH	SH	mauricio_lemos	m_on	height	mauricio lemos born 28 december 1995 in rivera is an uruguayan footballer who plays as a defender for fc rubin kazan on loan from defensor sporting . ###END###
@@ -3413,7 +3385,6 @@ SH	SH	marcell_balog	striker	position	szabolcs marcell balog born 23 february 198
 SH	SH	charles_e._brannon	united_states_of_america	allegiance	charles e. brannon was born 2 august 1919 in montgomery , alabama . ###END###
 SH	SH	jake_joy	midfielder	position	jacob `` jake '' joy is a retired american soccer midfielder who played professionally in the usisl . ###END###
 SH	SH	garth_boesch	defence	position	garth vernon boesch october 7 , 1920 in milestone , saskatchewan -- may 14 , 1998 was a professional ice hockey defenceman in the nhl . ###END###
-SH	SH	garth_boesch	right	shoots	garth vernon boesch october 7 , 1920 in milestone , saskatchewan -- may 14 , 1998 was a professional ice hockey defenceman in the nhl . ###END###
 SH	SH	shingo_nanami	http	website	according to her english-language publisher , nanami is ambidextrous , but draws her manga only with her left hand . ###END###
 SH	SH	roman_razdelkin	midfielder	position	roman valeryevich razdelkin ; born april 7 , 1989 is a russian football midfielder currently playing for fc saturn moscow oblast . ###END###
 SH	SH	roman_razdelkin	june_utc	pcupdate	roman valeryevich razdelkin ; born april 7 , 1989 is a russian football midfielder currently playing for fc saturn moscow oblast . ###END###
@@ -3591,7 +3562,6 @@ SH	SH	kim_nielsen-parsons	musician	occupation	kim nielsen-parsons born 1964 is a
 SH	SH	jerry_sconce	football	sport	jerry sconce is a former american football coach and convicted criminal . ###END###
 SH	SH	tatsuya_arai	defender	position	tatsuya arai 新井 辰也 , born 14 january 1988 is a japanese football player who plays as a defender for j. league division 2 side fc gifu . ###END###
 SH	SH	david_tanabe	nhl	league	david michael tanabe born july 19 , 1980 is a retired american professional ice hockey defenseman . ###END###
-SH	SH	david_tanabe	left	shoots	david michael tanabe born july 19 , 1980 is a retired american professional ice hockey defenseman . ###END###
 SH	SH	marino_da_silva	m_on	height	marino da silva is a brazilian footballer who plays as a defensive midfielder for são bernardo . ###END###
 SH	SH	marino_da_silva	october	ntupdate	marino da silva is a brazilian footballer who plays as a defensive midfielder for são bernardo . ###END###
 SH	SH	leandro_costa_miranda_moraes	forward	position	leandro costa miranda moraes , shortly leandrão born july 18 , 1983 is a brazilian footballer who plays as a forward for hapoel acre . ###END###
@@ -3862,7 +3832,6 @@ SH	SH	ian_bruce_politician	british	nationality	ian cameron bruce born 14 march 1
 SH	SH	ian_bruce_politician	conservative	party	ian cameron bruce born 14 march 1947 is a politician in the united kingdom . ###END###
 SH	SH	ed_orlett	republican	party	edward j. orlett is an american politician and former democrat member of the ohio house of representatives . ###END###
 SH	SH	norm_johnson_ice_hockey	centre	position	norman bruce johnson born november 27 , 1932 is a canadian former ice hockey centre .he played for the boston bruins and chicago black hawks . ###END###
-SH	SH	norm_johnson_ice_hockey	left	shoots	norman bruce johnson born november 27 , 1932 is a canadian former ice hockey centre .he played for the boston bruins and chicago black hawks . ###END###
 SH	SH	arthur_l._wagner	united_states_of_america	allegiance	arthur lockwood wagner march 16 , 1853 -- june 17 , 1905 was a united states brigadier general and military instructor . ###END###
 SH	SH	arthur_l._wagner	united_states_army	branch	arthur lockwood wagner march 16 , 1853 -- june 17 , 1905 was a united states brigadier general and military instructor . ###END###
 SH	SH	pancho_demmings	actor	occupation	pancho demmings sometimes credited as pancho demings or john demmings is an american film and television actor . ###END###
@@ -3990,7 +3959,6 @@ SH	SH	marko_albrecht	non_vocal_instrumentalist	background	marko albrecht born 23
 SH	SH	lee_seung-hwan	solo_singer	background	lee seung-hwan ; born december 13 , 1965 in busan , south korea is a south korean pop singer and rocker , songwriter and producer . ###END###
 SH	SH	lee_seung-hwan	http_official_website	website	lee seung-hwan ; born december 13 , 1965 in busan , south korea is a south korean pop singer and rocker , songwriter and producer . ###END###
 SH	SH	kamil_kreps	centre	position	kamil kreps born november 18 , 1984 is a czech professional ice hockey player who currently plays with hc oceláři třinec of the czech extraliga . ###END###
-SH	SH	kamil_kreps	right	shoots	kamil kreps born november 18 , 1984 is a czech professional ice hockey player who currently plays with hc oceláři třinec of the czech extraliga . ###END###
 SH	SH	scott_riggs	may	updated	russell scott riggs born january 1 , 1971 is an american professional stock car racing driver . ###END###
 SH	SH	ignacio_neira_pedraja	m_ftin_on	height	ignacio ` nacho ' neira pedraja born 16 november 1986 is a spanish footballer who plays for sestao river as a central defender . ###END###
 SH	SH	ignacio_neira_pedraja	centre_back	position	ignacio ` nacho ' neira pedraja born 16 november 1986 is a spanish footballer who plays for sestao river as a central defender . ###END###
@@ -4103,7 +4071,6 @@ SH	SH	orval_steffen	football	sport	orval steffen was an american football coach 
 SH	SH	laurens_ten_heuvel	striker	position	laurens ten heuvel born 6 june 1976 is a former dutch footballer . ###END###
 SH	SH	avaneeswaram_s_r_vinu	non_vocal_instrumentalist	background	avaneeswaram s r vinu malayalam : ആവണീശ വര എസ ആര വിനു born 10 june 1973 is an indian violin player carnatic style . ###END###
 SH	SH	sarah_edney	defence	position	sarah edney was selected first overall by the brampton thunder in the 2015 cwhl draft . ###END###
-SH	SH	sarah_edney	left	shoots	sarah edney was selected first overall by the brampton thunder in the 2015 cwhl draft . ###END###
 SH	SH	dejan_kekezović	midfielder	position	dejan kekezović serbian cyrillic : Дејан Кекезовић ; born 6 june 1982 is a serbian professional footballer who plays for bačka topola . ###END###
 SH	SH	dejan_kekezović	february	pcupdate	dejan kekezović serbian cyrillic : Дејан Кекезовић ; born 6 june 1982 is a serbian professional footballer who plays for bačka topola . ###END###
 SH	SH	kevin_shem	defender	position	kevin shem lata is a vanuatuan footballer who plays as a defender . ###END###
@@ -4146,7 +4113,6 @@ SH	SH	melville_pengelly	new_zealand	country	melville pengelly 17 march 1901 -- 2
 SH	SH	melville_pengelly	yes	date	melville pengelly 17 march 1901 -- 24 september 1973 was a new zealand cricket umpire .he stood in four test matches between 1946 and 1952 . ###END###
 SH	SH	melville_pengelly	http_cricinfo	source	melville pengelly 17 march 1901 -- 24 september 1973 was a new zealand cricket umpire .he stood in four test matches between 1946 and 1952 . ###END###
 SH	SH	anders_eriksson_ice_hockey_,_born_1975	defence	position	anders eriksson born january 9 , 1975 is a swedish former professional ice hockey player who played in the national hockey league nhl . ###END###
-SH	SH	anders_eriksson_ice_hockey_,_born_1975	left	shoots	anders eriksson born january 9 , 1975 is a swedish former professional ice hockey player who played in the national hockey league nhl . ###END###
 SH	SH	gurwinder_singh_chandi	cm_ftin_on	height	gurwinder singh chandi born 20 october 1989 in jalandhar , india in an indian professional field hockey player . ###END###
 SH	SH	gurwinder_singh_chandi	kg_lb	weight	gurwinder singh chandi born 20 october 1989 in jalandhar , india in an indian professional field hockey player . ###END###
 SH	SH	gurwinder_singh_chandi	forward	position	gurwinder singh chandi born 20 october 1989 in jalandhar , india in an indian professional field hockey player . ###END###
@@ -4229,7 +4195,6 @@ SH	SH	harvey_nitrauer	republican	party	harvey l. nitrauer march 6 , 1906 -- june
 SH	SH	kelly_overton_actress	actress	occupation	kelly overton born august 28 , 1978 is an american actress , screenwriter , director , and producer . ###END###
 SH	SH	charles_taylor_sherman	republican	party	charles taylor sherman february 3 , 1811 - january 1 , 1879 was a 19th-century ohio lawyer and judge . ###END###
 SH	SH	cleve_kinley	defence	position	cleve kinley born january 3 , 1984 is a canadian professional ice hockey defenceman in the norwegian get-ligaen . ###END###
-SH	SH	cleve_kinley	right	shoots	cleve kinley born january 3 , 1984 is a canadian professional ice hockey defenceman in the norwegian get-ligaen . ###END###
 SH	SH	mario_jurčević	midfielder	position	mario jurčević born 1 june 1995 is a football midfielder from slovenia .his current club is olimpija . ###END###
 SH	SH	mario_jurčević	august	pcupdate	mario jurčević born 1 june 1995 is a football midfielder from slovenia .his current club is olimpija . ###END###
 SH	SH	sebastian_rudol	m_on	height	sebastian rudol born 21 february 1995 is a polish footballer who plays as a midfielder for pogoń szczecin . ###END###
@@ -4246,7 +4211,6 @@ SH	SH	toyokazu_fujishima	kg_lb_st_on	weight	toyokazu fujishima born 8 july 1981 
 SH	SH	sharif_al-nawaisheh	striker	position	sharif al-nawaisheh born 27 december 1987 is a jordanian footballer , who is a striker for that ras club , and the jordan national football team . ###END###
 SH	SH	james_m._wells_,_iii	american	nationality	james m. wells , iii .is an american businessman .he is the former executive chairman of the board of suntrust banks inc. . ###END###
 SH	SH	ross_ring-jarvi	forward	position	ross ring-jarvi born may 27 , 1987 is an american professional ice hockey forward currently playing for olofströms ik in the swedish hockeyettan . ###END###
-SH	SH	ross_ring-jarvi	right	shoots	ross ring-jarvi born may 27 , 1987 is an american professional ice hockey forward currently playing for olofströms ik in the swedish hockeyettan . ###END###
 SH	SH	lucas_torró	midfielder	position	lucas torró marset born 19 july 1994 is a spanish footballer who plays for real madrid castilla as a midfielder . ###END###
 SH	SH	lucas_torró	december	ntupdate	lucas torró marset born 19 july 1994 is a spanish footballer who plays for real madrid castilla as a midfielder . ###END###
 SH	SH	sfdk_band	group_or_band	background	sfdk `` siempre fuertes de konciencia '' are a hip hop music crew from seville , spain . ###END###
@@ -4418,7 +4382,6 @@ SH	SH	junker_jørgensen	october	updated	junker jørgensen 17 may 1946 -- 8 janua
 SH	SH	fabiano_fontanelli	january	updated	fabiano fontanelli born 24 april 1965 in faenza is an italian former road bicycle racer . ###END###
 SH	SH	carla_calò	actress	occupation	carla calò born 21 september 1926 is an italian actress and voice actress . ###END###
 SH	SH	leonid_toropchenko	centre	position	leonid aleksandrovich toropchenko , born 28 august 1968 is a retired russian professional ice hockey player . ###END###
-SH	SH	leonid_toropchenko	right	shoots	leonid aleksandrovich toropchenko , born 28 august 1968 is a retired russian professional ice hockey player . ###END###
 SH	SH	ali_danish	forward	position	ali danish is an afghan football player .he has played for afghanistan national team . ###END###
 SH	SH	eric_boucher	m_ftin_on	height	Éric boucher born december 1 , 1958 in le bouscat , france is a former professional footballer . ###END###
 SH	SH	eric_boucher	defender	position	Éric boucher born december 1 , 1958 in le bouscat , france is a former professional footballer . ###END###
@@ -4454,7 +4417,6 @@ SH	SH	diego_matías_rodríguez	may	pcupdate	diego matías rodríguez born 25 jun
 SH	SH	sergey_tsyganov	striker	position	sergey nikolayevich tsyganov ; born 4 january 1992 , saint petersburg , russia is a russian football striker who plays for fc syzran-2003 syzran . ###END###
 SH	SH	sergey_tsyganov	june_utc	pcupdate	sergey nikolayevich tsyganov ; born 4 january 1992 , saint petersburg , russia is a russian football striker who plays for fc syzran-2003 syzran . ###END###
 SH	SH	ray_kaunisto	forward	position	ray kaunisto born february 7 , 1987 is an american professional ice hockey forward .he is currently playing with the evansville icemen of the echl . ###END###
-SH	SH	ray_kaunisto	left	shoots	ray kaunisto born february 7 , 1987 is an american professional ice hockey forward .he is currently playing with the evansville icemen of the echl . ###END###
 SH	SH	fred_weller	actor	occupation	frederick `` fred '' weller born april 18 , 1970 is an american stage , film , and television actor . ###END###
 SH	SH	mujtaba_faiz	defender	position	mujtaba faiz ; born 7 november 1982 in kabul is an afghan footballer who plays as a defender for shaheen asmayee in the afghan premier league . ###END###
 SH	SH	ahmad_qavam	islam	religion	ahmad qavām 2 january 1876 - 23 july 1955 , also known as qavām os-saltaneh , was a politician who served as prime minister of iran five times . ###END###
@@ -4616,7 +4578,6 @@ SH	SH	janin_lindenberg	germany	country	janin lindenberg born 20 january 1987 in 
 SH	SH	janin_lindenberg	athletics	sport	janin lindenberg born 20 january 1987 in berlin is a german athlete who specialises in the 400 metres . ###END###
 SH	SH	belinda_wright_dancer	english	nationality	belinda wright 18 january 1929 -- 1 april 2007 was an english ballerina noted for romantic and classical roles . ###END###
 SH	SH	Édgar_zaracho	august	pcupdate	edgar catalino zaracho zorrilla born 25 november 1989 is a paraguayan football defender who plays for general díaz . ###END###
-SH	SH	kevin_montgomery	left	shoots	kevin montgomery born april 4 , 1988 is an american professional ice hockey player who currently plays for hc valpellice of the italian serie a. ###END###
 SH	SH	janny_rivera	m_ftin_on	height	janny rivera born 16 august 1988 is a colombian professional footballer who plays for atlanta silverbacks as a midfielder . ###END###
 SH	SH	janny_rivera	midfielder	position	janny rivera born 16 august 1988 is a colombian professional footballer who plays for atlanta silverbacks as a midfielder . ###END###
 SH	SH	jason_isaacs_singer	solo_singer	background	jason isaacs 1967 is a uk singer and songwriter . ###END###
@@ -4820,7 +4781,6 @@ SH	SH	gustavo_pinto	midfielder	position	gustavo hernán pinto born on 29 may 197
 SH	SH	iva_ropati	december	updated	iva lewis ropati is a former rugby league international player and high school principal . ###END###
 SH	SH	roberto_cañedo	actor	occupation	roberto cañedo 1918 -- 1998 was a mexican film actor .he was a prolific actor , appearing in more than three hundred productions during his career . ###END###
 SH	SH	dj_jayceeoh	non_vocal_instrumentalist	background	jacob charles osher , born june 6 , 1982 , more popularly known as jayceeoh , is a american dj , record producer and remixer . ###END###
-SH	SH	jānis_andersons	left	shoots	jānis andersons born october 7 , 1986 is a latvian ice hockey defenceman , currently playing for hk dukla trenčín of slovak extraliga . ###END###
 SH	SH	mikhail_zhidkikh	september	pcupdate	mikhail vladimirovich zhidkikh ; born january 26 , 1988 is a russian professional football player .he last played for fc zvezda ryazan . ###END###
 SH	SH	archibald_fisken	australian	nationality	archibald clyde wanliss fisken 11 march 1897 -- 20 june 1970 was an australian politician .his grandson is liberal senator michael ronaldson . ###END###
 SH	SH	clement_bengough	yes	date	clement bengough 14 january 1861 -- 19 november 1934 was an english cricketer .he played two matches for gloucestershire in 1880 . ###END###
@@ -4919,7 +4879,6 @@ SH	SH	steve_burke_baseball	right	throws	steven michael burke born march 5 , 1955
 SH	SH	steve_burke_baseball	september	debutdate	steven michael burke born march 5 , 1955 is a former major league baseball pitcher who played for the seattle mariners from - . ###END###
 SH	SH	steve_burke_baseball	june	finaldate	steven michael burke born march 5 , 1955 is a former major league baseball pitcher who played for the seattle mariners from - . ###END###
 SH	SH	jakub_klepiš	centre	position	jakub klepiš born june 5 , 1984 is a czech professional ice hockey player currently playing for hc oceláři třinec of the czech extraliga ehl . ###END###
-SH	SH	jakub_klepiš	right	shoots	jakub klepiš born june 5 , 1984 is a czech professional ice hockey player currently playing for hc oceláři třinec of the czech extraliga ehl . ###END###
 SH	SH	rosson_crow	painting	field	rosson crow born 1982 is a painter working in los angeles , united states . ###END###
 SH	SH	nilesh_sable	indian	nationality	dr. nilesh sable डॉ .निलेश साबळे is a marathi tv show host and film actor from maharashtra , india . ###END###
 SH	SH	nilesh_sable	present	yearsactive	dr. nilesh sable डॉ .निलेश साबळे is a marathi tv show host and film actor from maharashtra , india . ###END###
@@ -5026,7 +4985,6 @@ SH	SH	dj_koutarou.a	http	website	koutarou adachi , better known under his stage 
 SH	SH	hassan_eslami	defender	position	hassan eslami born march 23 , 1984 is an iranian footballer .he currently plays for saipa in the ipl . ###END###
 SH	SH	hassan_eslami	july	pcupdate	hassan eslami born march 23 , 1984 is an iranian footballer .he currently plays for saipa in the ipl . ###END###
 SH	SH	todd_griffith	forward	position	todd griffith born january 27 , 1985 in welland , ontario , canada is a canadian former professional ice hockey forward . ###END###
-SH	SH	todd_griffith	left	shoots	todd griffith born january 27 , 1985 in welland , ontario , canada is a canadian former professional ice hockey forward . ###END###
 SH	SH	andrea_wilkens	m_ftin_on	height	andrea wilkens born october 16 , 1984 is a german football midfielder currently playing for vfl wolfsburg in the bundesliga . ###END###
 SH	SH	andrea_wilkens	midfielder	position	andrea wilkens born october 16 , 1984 is a german football midfielder currently playing for vfl wolfsburg in the bundesliga . ###END###
 SH	SH	ren_yongshun	m_on	height	ren yongshun ; born 31 may 1985 is a chinese football defender . ###END###
@@ -5155,7 +5113,6 @@ SH	SH	john_weathers	solo_singer	background	john patrick ` pugwash ' weathers bor
 SH	SH	john_weathers	musician	occupation	john patrick ` pugwash ' weathers born february 7 , 1947 is a drummer , best known for playing with the progressive rock band gentle giant . ###END###
 SH	SH	the_days_band	group_or_band	background	the days were a british pop band , formed in 2005 , originating from ivybridge , devon , uk . ###END###
 SH	SH	martin_Škoula	defence	position	martin Škoula born october 28 , 1979 is a czech professional ice hockey defenceman , currently with hc bílí tygři liberec of the czech extraliga . ###END###
-SH	SH	martin_Škoula	left	shoots	martin Škoula born october 28 , 1979 is a czech professional ice hockey defenceman , currently with hc bílí tygři liberec of the czech extraliga . ###END###
 SH	SH	albert_dehert	striker	position	albert dehert 18 november 1921 -- 8 july 2013 was a belgian footballer . ###END###
 SH	SH	albert_dehert	ndash_;	nationalyears	albert dehert 18 november 1921 -- 8 july 2013 was a belgian footballer . ###END###
 SH	SH	k._terry_dornbush	american	nationality	k. terry dornbush born 1933 is a former united states ambassador to the netherlands .he served from 1994 until 1998 . ###END###
@@ -5796,7 +5753,6 @@ SH	SH	wout_van_aert	february	updated	wout van aert born 15 september 1994 in her
 SH	SH	samadarshi_dutta	indian	nationality	samadarshi dutta is a bengali film actor . ###END###
 SH	SH	samadarshi_dutta	actor	occupation	samadarshi dutta is a bengali film actor . ###END###
 SH	SH	kristian_kuusela	right_wing	position	kristian kuusela born is a finnish professional ice hockey player right wing currently playing in tappara of the sm-liiga . ###END###
-SH	SH	kristian_kuusela	right	shoots	kristian kuusela born is a finnish professional ice hockey player right wing currently playing in tappara of the sm-liiga . ###END###
 SH	SH	cyril_lovesey	united_kingdom	nationality	alfred cyril lovesey cbe , afraes , was an english engineer who was a key figure in the development of the rolls-royce merlin aero engine . ###END###
 SH	SH	c._l._thomas	football	sport	c. l. thomas was an american football coach in the united states . ###END###
 SH	SH	francisco_copado	m_on	height	francisco copado Álvarez born 19 july 1974 is a german football manager and retired footballer who played mainly as a striker . ###END###
@@ -5839,7 +5795,6 @@ SH	SH	andrea_klikovac	right_back	position	andrea klikovac born 5 may 1991 is a m
 SH	SH	sir_james_gray_,_2nd_baronet	british	nationality	sir james gray , 2nd baronet pc , kb c. 1708 -- 14 february 1773 was a british diplomat and antiquary . ###END###
 SH	SH	erick_lizon	free_agent	team	erick lizon born november 29 , 1985 is a canadian professional ice hockey player who is currently an unrestricted free agent . ###END###
 SH	SH	erick_lizon	right_wing	position	erick lizon born november 29 , 1985 is a canadian professional ice hockey player who is currently an unrestricted free agent . ###END###
-SH	SH	erick_lizon	right	shoots	erick lizon born november 29 , 1985 is a canadian professional ice hockey player who is currently an unrestricted free agent . ###END###
 SH	SH	vandana_srinivasan	solo_singer	background	vandana srinivasan is an indian playback singer , working mainly as an independent singer and for the south indian film industry . ###END###
 SH	SH	vandana_srinivasan	vocals	instrument	vandana srinivasan is an indian playback singer , working mainly as an independent singer and for the south indian film industry . ###END###
 SH	SH	asi_rahamim	goalkeeper	position	asi rahamim born 3 july 1971 is a israeli former professional footballer that has played in hapoel be'er sheva . ###END###
@@ -5851,7 +5806,6 @@ SH	SH	rory_vaden	american	nationality	rory vaden , born july 26 , 1982 , united 
 SH	SH	tonino_delli_colli	italian	nationality	tonino delli colli 20 november 1923 -- 16 august 2005 was an italian cinematographer . ###END###
 SH	SH	goldierocks	british	nationality	goldierocks samantha louise hall born 30 october 1984 is a british dj , presenter , journalist and producer . ###END###
 SH	SH	jessica_hammerl	defence	position	jessica hammerl born july 10 , 1988 in landshut , west germany is a german ice hockey defender . ###END###
-SH	SH	jessica_hammerl	left	shoots	jessica hammerl born july 10 , 1988 in landshut , west germany is a german ice hockey defender . ###END###
 SH	SH	joel_untersee	defender	position	joel untersee born 11 february 1994 is a swiss-south african footballer who currently plays as a defender for serie a champions juventus . ###END###
 SH	SH	byron_harrison_footballer	striker	position	byron junior harrison born 15 june 1987 is an english professional footballer who plays as a striker for chesterfield . ###END###
 SH	SH	francisco_sandaza	striker	position	francisco josé sandaza asensio born 30 november 1984 is a spanish footballer who plays for japanese club fc tokyo as a striker . ###END###
@@ -5985,7 +5939,6 @@ SH	SH	martin_kováč	july	pcupdate	martin kováč born 3 may 1984 in košice is 
 SH	SH	edward_william_elton	british	nationality	edward william elton august 1794 -- 20 july 1843 , was an english actor . ###END###
 SH	SH	edward_william_elton	actor	occupation	edward william elton august 1794 -- 20 july 1843 , was an english actor . ###END###
 SH	SH	jesse_boulerice	right_wing	position	jesse boulerice born august 10 , 1978 is an american retired ice hockey player and currently a financial advisor with merrill lynch in raleigh , nc . ###END###
-SH	SH	jesse_boulerice	right	shoots	jesse boulerice born august 10 , 1978 is an american retired ice hockey player and currently a financial advisor with merrill lynch in raleigh , nc . ###END###
 SH	SH	charles_r._eckert	democratic	party	charles r. eckert january 20 , 1868 -- october 26 , 1959 was a democratic member of the u.s. house of representatives from pennsylvania . ###END###
 SH	SH	milić_jovanović	goalkeeper	position	milić jovanović serbian cyrillic : mилић joвaнoвић ; born 10 february 1966 is a serbian retired footballer who played as a goalkeeper . ###END###
 SH	SH	glyn_riley	striker	position	glyn riley born 24 july 1958 is an english former professional footballer who played as a striker . ###END###
@@ -6340,7 +6293,6 @@ SH	SH	jacob_heinl	kg_lb	weight	jacob heinl born 3 october 1986 is a german handb
 SH	SH	nikolai_korovkin	midfielder	position	nikolai lvovich korovkin ; born 29 december 1974 is a former russian football player .he works as an assistant coach for fc chertanovo moscow . ###END###
 SH	SH	disappear_fear	group_or_band	background	disappear fear stylized as disappear fear is an american indie pop/indie folk/americana/world beat band formed in baltimore , maryland , in 1987 . ###END###
 SH	SH	shin_seung-kyung	goalkeeper	position	shin seung-kyung born september 7 , 1981 is a south korean football player .he has played for gyeongnam fc and gimhae city fc . ###END###
-SH	SH	michal_Šafařík	right	shoots	michal Šafařík born 24 january 1977 is a slovak professional ice hockey player .he played with hc slovan bratislava in the slovak extraliga . ###END###
 SH	SH	rebecca_balding	actress	occupation	rebecca balding born september 21 , 1948 is an american actress who is probably best known for her appearances on `` soap '' and `` charmed '' . ###END###
 SH	SH	anna_eliza_bray	british	nationality	anna eliza bray 25 december 1790 -- 21 january 1883 was a british novelist . ###END###
 SH	SH	mark_heap	actor	occupation	mark heap born 13 may 1957 is an english actor , best known for his roles in `` spaced '' , `` brass eye '' , `` big train '' and `` jam '' . ###END###
@@ -6360,7 +6312,6 @@ SH	SH	andrea_petagna	striker	position	andrea petagna ; born 30 june 1995 is an i
 SH	SH	andrea_petagna	july	pcupdate	andrea petagna ; born 30 june 1995 is an italian professional footballer who plays as a striker for milan .he is a italy u19 international . ###END###
 SH	SH	andrea_petagna	october	ntupdate	andrea petagna ; born 30 june 1995 is an italian professional footballer who plays as a striker for milan .he is a italy u19 international . ###END###
 SH	SH	trevor_bruess	left_wing	position	trevor bruess born january 6 , 1986 is an american professional ice hockey player who currently plays for the toledo walleye in the echl . ###END###
-SH	SH	trevor_bruess	right	shoots	trevor bruess born january 6 , 1986 is an american professional ice hockey player who currently plays for the toledo walleye in the echl . ###END###
 SH	SH	daesung	solo_singer	background	kang dae-seong born april 26 , 1989 is a south korean singer , actor , and television host .he is a member of the south korean boy group big bang . ###END###
 SH	SH	daesung	http_official_website	website	kang dae-seong born april 26 , 1989 is a south korean singer , actor , and television host .he is a member of the south korean boy group big bang . ###END###
 SH	SH	tihomir_stanić	actor	occupation	tihomir stanić born 17 november 1960 is a serbian actor .he appeared in more than eighty films since 1981 . ###END###
@@ -6431,7 +6382,6 @@ SH	SH	mohammed_rafik_khatri	indian	nationality	mohammed rafik khatri is an india
 SH	SH	robert_paul_footballer	defender	position	robert paul born 17 october 1984 in sömmerda , thuringia is a german football defender who currently plays for fsv zwickau . ###END###
 SH	SH	robert_paul_footballer	march	pcupdate	robert paul born 17 october 1984 in sömmerda , thuringia is a german football defender who currently plays for fsv zwickau . ###END###
 SH	SH	semir_ben-amor	forward	position	semir ben-amor born may 5 , 1982 is a finnish professional ice hockey player who currently plays for jokerit of the sm-liiga . ###END###
-SH	SH	semir_ben-amor	left	shoots	semir ben-amor born may 5 , 1982 is a finnish professional ice hockey player who currently plays for jokerit of the sm-liiga . ###END###
 SH	SH	daniel_alcántar	right_back	position	daniel alcántar garcía born 2 may 1976 in león is a mexican professional football player , currently playing for club necaxa . ###END###
 SH	SH	daniel_alcántar	november	pcupdate	daniel alcántar garcía born 2 may 1976 in león is a mexican professional football player , currently playing for club necaxa . ###END###
 SH	SH	israel_nash	group_or_band	background	israel nash born 1981 is the recording and performing stage name moniker of american singer , songwriter , and guitarist israel nash gripka . ###END###
@@ -6566,7 +6516,6 @@ SH	SH	ville_iiskola	goalkeeper	position	ville iiskola born 26 july 1985 is a fin
 SH	SH	ville_iiskola	april	pcupdate	ville iiskola born 26 july 1985 is a finnish football player currently playing for rops . ###END###
 SH	SH	douglas_kary	republican	party	douglas kary is a republican member of the montana legislature .he was elected to house district 48 which represents a portion of the billings area . ###END###
 SH	SH	toni_hyvärinen	right_wing	position	toni hyvärinen born july 14 , 1988 is a finnish professional ice hockey player who currently plays for kalpa of the finnish liiga . ###END###
-SH	SH	toni_hyvärinen	right	shoots	toni hyvärinen born july 14 , 1988 is a finnish professional ice hockey player who currently plays for kalpa of the finnish liiga . ###END###
 SH	SH	kofi_mensah	defender	position	kofi mensah born march 8 , 1978 in koforidua , ghana is a dutch-ghanaian footballer .he currently plays as a defender for tema youth . ###END###
 SH	SH	kofi_mensah	may	ntupdate	kofi mensah born march 8 , 1978 in koforidua , ghana is a dutch-ghanaian footballer .he currently plays as a defender for tema youth . ###END###
 SH	SH	andrea_arrigoni	midfielder	position	andrea arrigoni marocco born 10 august 1988 is an italian footballer who plays for italian third division club cosenza . ###END###
@@ -6591,7 +6540,6 @@ SH	SH	craig_mottram	australian	nationality	craig mottram born 18 june 1980 is an
 SH	SH	craig_mottram	m_ftin_on	height	craig mottram born 18 june 1980 is an australian long distance and middle distance runner who specialises in the 5000 m event . ###END###
 SH	SH	craig_mottram	kg_lb_st_on	weight	craig mottram born 18 june 1980 is an australian long distance and middle distance runner who specialises in the 5000 m event . ###END###
 SH	SH	rustams_begovs	center	position	rustams begovs born june 26 , 1993 is a latvian ice hockey player currently playing for the hk rīga of the mhl . ###END###
-SH	SH	rustams_begovs	left	shoots	rustams begovs born june 26 , 1993 is a latvian ice hockey player currently playing for the hk rīga of the mhl . ###END###
 SH	SH	laura_love	solo_singer	background	laura love born 1960 is an american singer and bass guitar player . ###END###
 SH	SH	laura_love	singer-songwriter	occupation	laura love born 1960 is an american singer and bass guitar player . ###END###
 SH	SH	vladislav_vasilev	forward	position	vladislav vasilev ; born 30 november 1982 is a bulgarian footballer who currently plays for botev lukovit as a striker . ###END###
@@ -6720,7 +6668,6 @@ SH	SH	natalie_sciver	england	country	natalie sciver ; born 20 august 1992 is an 
 SH	SH	natalie_sciver	yes	date	natalie sciver ; born 20 august 1992 is an english cricketer . ###END###
 SH	SH	natalie_sciver	http_cricinfo	source	natalie sciver ; born 20 august 1992 is an english cricketer . ###END###
 SH	SH	ed_courtenay	right_wing	position	edward emmett courtenay born february 2 , 1968 in verdun , quebec is a canadian former professional ice hockey right winger and head coach . ###END###
-SH	SH	ed_courtenay	right	shoots	edward emmett courtenay born february 2 , 1968 in verdun , quebec is a canadian former professional ice hockey right winger and head coach . ###END###
 SH	SH	jung_ho-jin	centre_back	position	jung ho-jin born may 30 , 1984 is a south korean football player who played for samut songkhram . ###END###
 SH	SH	wellington_paulista	m_ftin_on	height	wellington pereira do nascimento known as wellington paulista born 22 april 1984 is a brazilian footballer who plays as a forward for fluminense . ###END###
 SH	SH	antto_hilska	striker	position	antto hilska born 22 september 1993 is a finnish football player currently playing for finnish ykkönen side jjk . ###END###
@@ -6832,7 +6779,6 @@ SH	SH	cascade_brown	actress	occupation	cascade brown born 23 november 1987 is an
 SH	SH	jamie_wootton	forward	position	jamie wootton born 2 october 1994 is an english footballer . ###END###
 SH	SH	tania_khalill	actress	occupation	tania khalill stage name tânia calil padis campos , july 8 , 1977 in são paulo is a brazilian actress . ###END###
 SH	SH	wayne_bianchin	left_wing	position	wayne richard bianchin born september 6 , 1953 is a retired canadian-italian professional ice hockey left winger . ###END###
-SH	SH	wayne_bianchin	left	shoots	wayne richard bianchin born september 6 , 1953 is a retired canadian-italian professional ice hockey left winger . ###END###
 SH	SH	parker_case	solo_singer	background	parker case is an american musician , mostly known from his involvement in the bands jamisonparker and say anything . ###END###
 SH	SH	markus_flanagan	actor	occupation	markus flanagan is an american actor . ###END###
 SH	SH	john_burnett-stuart	united_kingdom	allegiance	general sir john theodosius burnett-stuart 1875 -- 1958 was a british army general in the 1920s and 1930s . ###END###
@@ -6840,7 +6786,6 @@ SH	SH	john_burnett-stuart	united_kingdom	branch	general sir john theodosius burn
 SH	SH	john_burnett-stuart	general	rank	general sir john theodosius burnett-stuart 1875 -- 1958 was a british army general in the 1920s and 1930s . ###END###
 SH	SH	julio_alberto_rico_pardillo	m_ftin_on	height	julio alberto rico pardillo born 11 june 1989 is a spanish footballer who plays for ud logroñés as a right back or right midfielder . ###END###
 SH	SH	julio_alberto_rico_pardillo	may	pcupdate	julio alberto rico pardillo born 11 june 1989 is a spanish footballer who plays for ud logroñés as a right back or right midfielder . ###END###
-SH	SH	kévin_hecquefeuille	right	shoots	kévin hecquefeuille november 20 , 1984 is a french professional ice hockey defenseman , currently playing for scl tigers in the national league a. ###END###
 SH	SH	mita_vashisht	present	yearsactive	mita vashisht is an indian television , film and theatre actress . ###END###
 SH	SH	robert_bowne_minturn_,_jr._.	american	nationality	robert bowne minturn , jr. february 21 , 1836 -- december 15 , 1889 was an american shipping magnate of the mid to late 19th century . ###END###
 SH	SH	betina_krahn	american	nationality	betina krahn born huntington , west virginia is a rita award winning and new york times best-selling author of historical romance novels . ###END###
@@ -6922,7 +6867,6 @@ SH	SH	ondrej_Šmelko	defender	position	ondrej Šmelko born 1 september 1967 is a
 SH	SH	kim_tae-bong	defender	position	kim tae-bong ; born 28 february 1988 is a south korean footballer who plays as defender for daejeon citizen in k league classic . ###END###
 SH	SH	kim_tae-bong	july	pcupdate	kim tae-bong ; born 28 february 1988 is a south korean footballer who plays as defender for daejeon citizen in k league classic . ###END###
 SH	SH	philip_kemi	defence	position	philip kemi born march 2 , 1991 is a swedish professional ice hockey defenceman who currently plays for luleå hf of the elitserien . ###END###
-SH	SH	philip_kemi	left	shoots	philip kemi born march 2 , 1991 is a swedish professional ice hockey defenceman who currently plays for luleå hf of the elitserien . ###END###
 SH	SH	tom_vaughn_musician	non_vocal_instrumentalist	background	father tom vaughn was an american jazz pianist and episcopalian priest . ###END###
 SH	SH	norm_rice_cartoonist	australian	nationality	norman rice 1913 -- 1965 , was an australian cartoonist , comic book artist and illustrator . ###END###
 SH	SH	lew_cody	american	nationality	lew cody february 22 , 1884 -- may 31 , 1934 was an american stage and film actor whose career spanned the silent film and early sound film age . ###END###
@@ -7010,9 +6954,7 @@ SH	SH	thomas_rowe	british	nationality	thomas rowe 20 july 1829 -- 14 january 189
 SH	SH	arnolds_tauriņš	forward	position	arnolds tauriņš 10 august 1905 - 20 august 1984 in milwaukee was a latvian footballer and a seven-time champion of latvia in the 1920s-1930s . ###END###
 SH	SH	patrick_dytko	left_back	position	patrick dytko born march 28 , 1994 in völklingen is a polish footballer who plays for piast gliwice . ###END###
 SH	SH	jiří_cetkovský	forward	position	jiří cetkovský born november 4 , 1983 in prostějov is a czech professional ice hockey player .cetkovsky currently plays for bk mladá boleslav . ###END###
-SH	SH	jiří_cetkovský	left	shoots	jiří cetkovský born november 4 , 1983 in prostějov is a czech professional ice hockey player .cetkovsky currently plays for bk mladá boleslav . ###END###
 SH	SH	jack_leswick	centre	position	jack leswick january 1 , 1910 -- august 4 , 1934 was a canadian ice hockey centre for the chicago black hawks .his only nhl season came in 1934 . ###END###
-SH	SH	jack_leswick	right	shoots	jack leswick january 1 , 1910 -- august 4 , 1934 was a canadian ice hockey centre for the chicago black hawks .his only nhl season came in 1934 . ###END###
 SH	SH	radek_mezlík	defender	position	radek mezlík born 20 may 1982 is a czech football player who currently plays for slovácko .he has represented the czech republic at under-17 level . ###END###
 SH	SH	marc_garcía	left_back	position	marc garcía renom born 21 march 1988 , aka chiqui , is an andorran footballer who plays for rubí in spain , as a defender . ###END###
 SH	SH	marc_garcía	october	ntupdate	marc garcía renom born 21 march 1988 , aka chiqui , is an andorran footballer who plays for rubí in spain , as a defender . ###END###
@@ -7084,7 +7026,6 @@ SH	SH	bogdan_zając	defender	position	zając made one appearance for the poland 
 SH	SH	bogdan_zając	august	pcupdate	zając made one appearance for the poland national football team against slovakia in 1998 . ###END###
 SH	SH	shaun_barker	defender	position	shaun barker born 19 september 1982 is an english footballer who plays as a defender . ###END###
 SH	SH	matt_schepke	left_wing	position	matt schepke born january 3 , 1985 is an american former professional ice hockey player .he last played for the evansville icemen in the echl . ###END###
-SH	SH	matt_schepke	left	shoots	matt schepke born january 3 , 1985 is an american former professional ice hockey player .he last played for the evansville icemen in the echl . ###END###
 SH	SH	paul_stuart_davies	british	nationality	paul stuart davies is a uk soul singer , songwriter and vocal coach . ###END###
 SH	SH	ingar_zach	non_vocal_instrumentalist	background	ingar zach born 29 june 1971 in oslo , norway is a norwegian percussionist and businessman , known from several recordings . ###END###
 SH	SH	aly_yirango	goalkeeper	position	aly yirango born 4 january 1994 is a malian international footballer who plays for french club guingamp b , as a goalkeeper . ###END###
@@ -7280,7 +7221,6 @@ SH	SH	thomas_hoßmang	defender	position	thomas hoßmang born 27 november 1966 is
 SH	SH	kareem_harris	defender	position	kareem harris born 6 january 1988 in saint kitts and nevis is an kittian international footballer playing as a defender for washington archibald hs . ###END###
 SH	SH	piero_trapanelli	winger	position	piero trapanelli born 13 july 1924 is a former italian football player and coach . ###END###
 SH	SH	jens_hellgren	defence	position	jens hellgren born march 6 , 1989 is a swedish professional ice hockey defenceman , currently playing for rögle bk in the swedish hockey league shl . ###END###
-SH	SH	jens_hellgren	left	shoots	jens hellgren born march 6 , 1989 is a swedish professional ice hockey defenceman , currently playing for rögle bk in the swedish hockey league shl . ###END###
 SH	SH	chandler_sterling	usa	nationality	chandler winfield sterling was a bishop of montana in the episcopal church . ###END###
 SH	SH	giovanni_vastola	midfielder	position	giovanni vastola born april 20 , 1938 in san valentino torio is a retired italian professional football player . ###END###
 SH	SH	mercedes_monterrey	actress	occupation	mercedes monterrey was a spanish film actress .she appeared in twenty eight films between 1946 and 1982 . ###END###
@@ -7320,7 +7260,6 @@ SH	SH	hanna_solovey	august	updated	hanna solovey ; born 31 january 1992 , also w
 SH	SH	yetkin_dikinciler	actor	occupation	yetkin dikinciler born 15 august 1969 in İstanbul is a turkish actor . ###END###
 SH	SH	pankaj_singh	yes	date	pankaj singh is an indian test cricketer .he was born in sultanpur , uttar pradesh .pankaj is a fast bowler . ###END###
 SH	SH	tommi_paakkolanvaara	forward	position	tommi paakkolanvaara is a finnish professional ice hockey forward who currently plays for pelicans of the sm-liiga . ###END###
-SH	SH	tommi_paakkolanvaara	left	shoots	tommi paakkolanvaara is a finnish professional ice hockey forward who currently plays for pelicans of the sm-liiga . ###END###
 SH	SH	hilly_michaels	solo_singer	background	hilly michaels , also known as hilly boy michaels is an american drummer and musician , best known for playing drums with sparks in the 1970s . ###END###
 SH	SH	melanie_scrofano	canadian	nationality	melanie scrofano is a canadian actress and model .she plays the role of rebecca on `` being erica '' and played october on `` pure pwnage '' . ###END###
 SH	SH	melanie_scrofano	present	yearsactive	melanie scrofano is a canadian actress and model .she plays the role of rebecca on `` being erica '' and played october on `` pure pwnage '' . ###END###
@@ -7377,7 +7316,6 @@ SH	SH	george_hausmann	right	throws	george john hausmann february 11 , 1916 -- ju
 SH	SH	george_hausmann	april	debutdate	george john hausmann february 11 , 1916 -- june 16 , 2004 was a second baseman in major league baseball .he played for the new york giants . ###END###
 SH	SH	george_hausmann	august	finaldate	george john hausmann february 11 , 1916 -- june 16 , 2004 was a second baseman in major league baseball .he played for the new york giants . ###END###
 SH	SH	kim_sunna	left_wing	position	kim sunna born june 14 , 1987 is a swedish professional ice hockey player .he currently plays for luleå hf of the swedish elitserien . ###END###
-SH	SH	kim_sunna	right	shoots	kim sunna born june 14 , 1987 is a swedish professional ice hockey player .he currently plays for luleå hf of the swedish elitserien . ###END###
 SH	SH	vanče_Šikov	centre_back	position	vanče Šikov ; born 19 july 1985 in kavadarci , sfr yugoslavia is a macedonian footballer who plays for fk austria wien in austria . ###END###
 SH	SH	vanče_Šikov	august	pcupdate	vanče Šikov ; born 19 july 1985 in kavadarci , sfr yugoslavia is a macedonian footballer who plays for fk austria wien in austria . ###END###
 SH	SH	samuel_henrique_silva_guimaraes	midfielder	position	samuel henrique silva guimaraes born july 23 , 1989 is a brazilian football player . ###END###
@@ -7511,7 +7449,6 @@ SH	SH	edward_e._lyon	united_states_of_america	allegiance	private lyon is buried 
 SH	SH	edward_e._lyon	united_states_army	branch	private lyon is buried in hollywood cemetery , hollywood , california . ###END###
 SH	SH	oliver_schnyder	non_vocal_instrumentalist	background	oliver schnyder b. october 3 , 1973 in möriken , switzerland is a swiss classical pianist . ###END###
 SH	SH	olli_palola	forward	position	olli palola born april 8 , 1988 is a finnish ice hockey player who currently plays professionally in finland for tappara of the sm-liiga . ###END###
-SH	SH	olli_palola	right	shoots	olli palola born april 8 , 1988 is a finnish ice hockey player who currently plays professionally in finland for tappara of the sm-liiga . ###END###
 SH	SH	charlie_flannigan	right	bats	charles joseph flannigan also flanagan 1891-1930 was a professional baseball player .he played for the st. louis browns in 1913 . ###END###
 SH	SH	charlie_flannigan	right	throws	charles joseph flannigan also flanagan 1891-1930 was a professional baseball player .he played for the st. louis browns in 1913 . ###END###
 SH	SH	charlie_flannigan	july	debutdate	charles joseph flannigan also flanagan 1891-1930 was a professional baseball player .he played for the st. louis browns in 1913 . ###END###
@@ -7824,7 +7761,6 @@ SH	SH	sergei_magerovski	m_ftin_on	height	sergei magerovski born september 17 , 1
 SH	SH	plamen_dimitrov	midfielder	position	plamen dimitrov born 23 november 1984 is a bulgarian footballer currently playing for pfc burgas . ###END###
 SH	SH	plamen_dimitrov	january	pcupdate	plamen dimitrov born 23 november 1984 is a bulgarian footballer currently playing for pfc burgas . ###END###
 SH	SH	brad_brown	defence	position	bradley lorne brown born december 27 , 1975 is a retired canadian professional ice hockey defenceman . ###END###
-SH	SH	brad_brown	right	shoots	bradley lorne brown born december 27 , 1975 is a retired canadian professional ice hockey defenceman . ###END###
 SH	SH	william_preston_lane_,_jr._.	democrat	party	william preston lane , jr. may 12 , 1892february 7 , 1967 was the 52nd governor of maryland in the united states from 1947 to 1951 . ###END###
 SH	SH	william_preston_lane_,_jr._.	united_states_army	branch	william preston lane , jr. may 12 , 1892february 7 , 1967 was the 52nd governor of maryland in the united states from 1947 to 1951 . ###END###
 SH	SH	charles_fraser_footballer	defender	position	charles roderick fraser born 1907 , date of death unknown was an english professional footballer , who spent his entire career with luton town . ###END###
@@ -7862,7 +7798,6 @@ SH	SH	basílio_de_moraes	m_on	height	basílio emídio de moraes júnior born 11 
 SH	SH	basílio_de_moraes	athletics	sport	basílio emídio de moraes júnior born 11 may 1982 , in joão pessoa , paraíba is a brazilian sprinter who competed in the 2004 summer olympics . ###END###
 SH	SH	basílio_de_moraes	may	updated	basílio emídio de moraes júnior born 11 may 1982 , in joão pessoa , paraíba is a brazilian sprinter who competed in the 2004 summer olympics . ###END###
 SH	SH	calle_rosén	defence	position	calle rosén born february 2 , 1994 is a swedish professional ice hockey defenceman , currently playing for frölunda hc in the elitserien sel . ###END###
-SH	SH	calle_rosén	left	shoots	calle rosén born february 2 , 1994 is a swedish professional ice hockey defenceman , currently playing for frölunda hc in the elitserien sel . ###END###
 SH	SH	millicent_silver	non_vocal_instrumentalist	background	millicent irene silver 17 november 19051 may 1986 was an english harpsichordist , who began her career as a pianist and violinist . ###END###
 SH	SH	moreno_de_pauw	october	updated	moreno de pauw born 12 august 1991 in sint-niklaas is a belgian cyclist riding for topsport vlaanderen-baloise . ###END###
 SH	SH	dez_fafara	solo_singer	background	bradley james ` dez ' fafara born may 12 , 1966 is an american metal vocalist who performs in the bands devildriver and coal chamber . ###END###
@@ -7885,7 +7820,6 @@ SH	SH	honey_ltd._.	group_or_band	background	honey ltd. were a 1960s girl group m
 SH	SH	aleksandr_kryukov	midfielder	position	aleksandr fyodorovich kryukov ; born february 11 , 1956 is a russian professional football coach and a former player . ###END###
 SH	SH	helen_lowell	actress	occupation	helen lowell 1866 -- 1937 was an american stage and film actress . ###END###
 SH	SH	edward_james	british	nationality	edward william frank james 1907 -- 1984 was a british poet known for his patronage of the surrealist art movement . ###END###
-SH	SH	david_f._huntzicker	left	shoots	david francis huntzicker born september 15 , 1976 is a former college and professional ice hockey player . ###END###
 SH	SH	james_f._hinkle	democratic	party	james fielding hinkle october 20 , 1864 -- march 26 , 1951 was an american politician and the sixth governor of new mexico . ###END###
 SH	SH	king_stitt	solo_singer	background	winston sparkes 17 september 1940 -- 31 january 2012 , better known as king stitt , was a jamaican pioneer dj . ###END###
 SH	SH	king_stitt	vocals	instrument	winston sparkes 17 september 1940 -- 31 january 2012 , better known as king stitt , was a jamaican pioneer dj . ###END###
@@ -7898,7 +7832,6 @@ SH	SH	richard_estigarribia	forward	position	richard estigarribia born 15 august 
 SH	SH	luciano_nieto	m_ftin_on	height	luciano federico `` chichón '' nieto born 19 january 1991 is an argentinian footballer who plays as an attacking midfielder for huracán . ###END###
 SH	SH	luciano_nieto	attacking_midfielder	position	luciano federico `` chichón '' nieto born 19 january 1991 is an argentinian footballer who plays as an attacking midfielder for huracán . ###END###
 SH	SH	brett_parnham	centre	position	brett parnham born january 30 , 1989 is a canadian ice hockey centre currently playing with china dragon of the asian ice hockey league . ###END###
-SH	SH	brett_parnham	left	shoots	brett parnham born january 30 , 1989 is a canadian ice hockey centre currently playing with china dragon of the asian ice hockey league . ###END###
 SH	SH	unai_albizua	centre_back	position	unai albizua urquijo born 18 january 1989 is a spanish footballer who plays for cd leganés as a central defender . ###END###
 SH	SH	unai_albizua	june	pcupdate	unai albizua urquijo born 18 january 1989 is a spanish footballer who plays for cd leganés as a central defender . ###END###
 SH	SH	evan_fournier	french	nationality	evan mehdi fournier ###END###
@@ -7938,7 +7871,6 @@ SH	SH	héctor_mendoza	right	throws	héctor manuel ripoll mendoza is a cuban prof
 SH	SH	g._j._r._krishnan	non_vocal_instrumentalist	background	` lalgudi ' g.j.r.krishnan born 15 april 1960 is a well-known carnatic violinist , vocalist and composer . ###END###
 SH	SH	g._j._r._krishnan	http	website	` lalgudi ' g.j.r.krishnan born 15 april 1960 is a well-known carnatic violinist , vocalist and composer . ###END###
 SH	SH	regan_kelly	defence	position	regan kelly born 9 march 1981 in watrous , saskatchewan , but growing up in imperial is a retired canadian professional ice hockey defenceman . ###END###
-SH	SH	regan_kelly	left	shoots	regan kelly born 9 march 1981 in watrous , saskatchewan , but growing up in imperial is a retired canadian professional ice hockey defenceman . ###END###
 SH	SH	harald_reinkind	right_back	position	harald reinkind born 17 august 1992 is a norwegian handball player for fyllingenbergen and the norwegian national team . ###END###
 SH	SH	pavol_orolín	march	pcupdate	pavol orolín born 30 june 1987 in liptovský mikuláš is a slovak football midfielder who currently plays for doxxbet liga club fk pohronie . ###END###
 SH	SH	zeb_wells	american	nationality	zeb wells is an american comic book writer known for his work at marvel comics , as well as his work on `` robot chicken '' . ###END###
@@ -7996,7 +7928,6 @@ SH	SH	sumalatha	actress	occupation	sumalatha born 27 august 1963 is an indian fi
 SH	SH	guilaine_londez	actress	occupation	guilaine londez born 1 january 1965 is a french film actress .she appeared in more than sixty films since 1991 . ###END###
 SH	SH	andrzej_juskowiak	striker	position	andrzej mieczysław juskowiak born 3 november 1970 in gostyń is a former polish football striker who played for polish national team . ###END###
 SH	SH	hong_hyun-mok	defence	position	hong hyun-mok born april 27 , 1986 in seoul is a korean professional ice hockey defenceman .he is playing in his second year for anyang halla . ###END###
-SH	SH	hong_hyun-mok	right	shoots	hong hyun-mok born april 27 , 1986 in seoul is a korean professional ice hockey defenceman .he is playing in his second year for anyang halla . ###END###
 SH	SH	pedro_ascoy	m_ftin_on	height	pedro luis ascoy cortez born august 10 , 1980 in guadalupe , peru is a peruvian footballer who plays as a winger for león de huánuco . ###END###
 SH	SH	pedro_ascoy	winger	position	pedro luis ascoy cortez born august 10 , 1980 in guadalupe , peru is a peruvian footballer who plays as a winger for león de huánuco . ###END###
 SH	SH	pedro_ascoy	april	pcupdate	pedro luis ascoy cortez born august 10 , 1980 in guadalupe , peru is a peruvian footballer who plays as a winger for león de huánuco . ###END###
@@ -8030,7 +7961,6 @@ SH	SH	juanto_ortuño	forward	position	juan tomás ortuño martínez born 11 febr
 SH	SH	vitali_charapenka	kg_lb	weight	vitali charapenka born 27 january 1984 is a belarusian handball player for hc meshkov brest and the belarusian national team . ###END###
 SH	SH	vitali_charapenka	goalkeeper	position	vitali charapenka born 27 january 1984 is a belarusian handball player for hc meshkov brest and the belarusian national team . ###END###
 SH	SH	ricky_plant	right_wing	position	rick plant born 23 november 1977 is a british ice hockey player from telford , uk .he plays right wing . ###END###
-SH	SH	ricky_plant	right	shoots	rick plant born 23 november 1977 is a british ice hockey player from telford , uk .he plays right wing . ###END###
 SH	SH	jürgen_rittenauer	goalkeeper	position	jürgen rittenauer born may 18 , 1986 is a german footballer who plays as a goalkeeper for 1 .fc rielasingen-arlen . ###END###
 SH	SH	milan_jurík	forward	position	milan jurík is a slovak professional ice hockey player who is currently playing for hkm zvolen in the slovak extraliga . ###END###
 SH	SH	the_zorros	group_or_band	background	the zorros were an australian rock band , formed in 1979 . ###END###
@@ -8296,7 +8226,6 @@ SH	SH	howard_fondyke	midfielder	position	howard fondyke born 5 january 1990 is a
 SH	SH	john_dickson_footballer	forward	position	john dickson 15 may 1949 -- 1998 was a scottish professional footballer who played as a forward . ###END###
 SH	SH	stanisława_angel-engelówna	actress	occupation	stanisława angel-engelówna 23 april 1908 -- 7 august 1958 was a polish stage and film actress . ###END###
 SH	SH	mike_bukta	defence	position	mike bukta born june 1 , 1967 is a former canadian ice hockey player who played two seasons in the echl for the nashville knights . ###END###
-SH	SH	mike_bukta	left	shoots	mike bukta born june 1 , 1967 is a former canadian ice hockey player who played two seasons in the echl for the nashville knights . ###END###
 SH	SH	cedric_bozeman	american	nationality	cedric r. bozeman born march 7 , 1983 is an american professional basketball player . ###END###
 SH	SH	augustin_călin	attacking_midfielder	position	augustin călin born 5 august 1973 is a retired romanian football player . ###END###
 SH	SH	augustin_călin	march	pcupdate	augustin călin born 5 august 1973 is a retired romanian football player . ###END###
@@ -8410,7 +8339,6 @@ SH	SH	charlie_pickett	june	debutdate	charles albert pickett march 1 , 1883 -- ma
 SH	SH	charlie_pickett	june	finaldate	charles albert pickett march 1 , 1883 -- may 20 , 1969 was a pitcher in major league baseball .he played for the st. louis cardinals in 1910 . ###END###
 SH	SH	carl_kennedy	actor	occupation	carl kennedy is an american canadian actor . ###END###
 SH	SH	marcel_haščák	right_wing	position	marcel haščák born february 3 , 1987 is a slovak ice hockey player who is currently playing for amur khabarovsk of the kontinental hockey league . ###END###
-SH	SH	marcel_haščák	right	shoots	marcel haščák born february 3 , 1987 is a slovak ice hockey player who is currently playing for amur khabarovsk of the kontinental hockey league . ###END###
 SH	SH	campbell_hardy	general	rank	general sir campbell richard hardy 1906 -- 1984 was a royal marines officer who became commandant general royal marines . ###END###
 SH	SH	priscilla_chan	singer	occupation	priscilla chan wai-han born july 28 , 1965 is a cantopop singer in hong kong . ###END###
 SH	SH	priscilla_chan	present	yearsactive	priscilla chan wai-han born july 28 , 1965 is a cantopop singer in hong kong . ###END###
@@ -8444,7 +8372,6 @@ SH	SH	lucky_msiska	midfielder	position	lucky msiska born 17 march 1960 is a zamb
 SH	SH	andre_blake	goalkeeper	position	andre blake born 21 november 1990 is a jamaican international footballer who plays professionally for the philadelphia union , as a goalkeeper . ###END###
 SH	SH	andre_blake	december	ntupdate	andre blake born 21 november 1990 is a jamaican international footballer who plays professionally for the philadelphia union , as a goalkeeper . ###END###
 SH	SH	miikka_männikkö	right_wing	position	miikka männikkö born march 27 , 1979 is a finnish professional ice hockey forward who currently plays for tappara of the sm-liiga . ###END###
-SH	SH	miikka_männikkö	right	shoots	miikka männikkö born march 27 , 1979 is a finnish professional ice hockey forward who currently plays for tappara of the sm-liiga . ###END###
 SH	SH	wolfgang_steinmayr	october	updated	wolfgang steinmayr born 6 september 1944 is an austrian former cyclist .he competed at the 1972 summer olympics and the 1976 summer olympics . ###END###
 SH	SH	rudolf_bommer	m_ftin_on	height	rudolf `` rudi '' bommer born 19 august 1957 is a former german footballer and football manager . ###END###
 SH	SH	rudolf_bommer	midfielder	position	rudolf `` rudi '' bommer born 19 august 1957 is a former german footballer and football manager . ###END###
@@ -8611,7 +8538,6 @@ SH	SH	vikramajit_sen	indian	nationality	vikramajit sen born 31 december 1950 is 
 SH	SH	mitch_brundle	defender	position	mitch ronnie brundle born 4 december 1994 is an english semi-professional footballer who plays as a defender for braintree town . ###END###
 SH	SH	franck_bernhard	defender	position	franck bernhard born march 7 , 1976 in strasbourg is a retired french professional football player . ###END###
 SH	SH	ron_carter_ice_hockey	right_wing	position	ronald carter born march 14 , 1958 is a retired canadian professional ice hockey right winger . ###END###
-SH	SH	ron_carter_ice_hockey	left	shoots	ronald carter born march 14 , 1958 is a retired canadian professional ice hockey right winger . ###END###
 SH	SH	dmitri_samoylov_footballer_,_born_1990	striker	position	dmitri sergeyevich samoylov ; born april 20 , 1990 is a russian professional football player .he last played for fc smena komsomolsk-na-amure . ###END###
 SH	SH	dmitri_samoylov_footballer_,_born_1990	september	pcupdate	dmitri sergeyevich samoylov ; born april 20 , 1990 is a russian professional football player .he last played for fc smena komsomolsk-na-amure . ###END###
 SH	SH	said_the_whale	group_or_band	background	said the whale is a vancouver-based indie rock band started by ben worcester and tyler bancroft in 2007 . ###END###
@@ -8620,7 +8546,6 @@ SH	SH	umesh_harijan	forward	position	umesh harijan born 8 july 1992 is an indian
 SH	SH	luther_creek	actor	occupation	luther creek born january 28 , 1972 is an american actor best known for his roles in broadway and west end musicals . ###END###
 SH	SH	mouftaou_adou	defender	position	mouftaou adoun born 10 april 1991 in cotonou is a beninese football player who currently plays in benin for port autonome . ###END###
 SH	SH	patrik_wallón	defence	position	patrik wallón born may 2 , 1988 , in skellefteå is a swedish ice hockey player .he is currently playing with skellefteå aik in the elitserien . ###END###
-SH	SH	patrik_wallón	left	shoots	patrik wallón born may 2 , 1988 , in skellefteå is a swedish ice hockey player .he is currently playing with skellefteå aik in the elitserien . ###END###
 SH	SH	yavar_jamalov	islam	religion	yavar jamalov talyb oglu ; born october 17 , 1949 is an azerbaijani politician serving as the first minister of defense industry of azerbaijan . ###END###
 SH	SH	maksym_averin	august	updated	maksym averin born november 28 , 1985 is an azerbaijani cyclist riding for synergy baku cycling project . ###END###
 SH	SH	damian_bailey	midfielder	position	damian bailey born 5 may 1991 is an anguillan international footballer who plays as a midfielder . ###END###
@@ -8822,7 +8747,6 @@ SH	SH	instance_vx	solo_singer	background	instance aka vx is a uk rapper , songwr
 SH	SH	liu_chih	general	rank	liu chih chinese : 劉峙 ; pinyin : liu zhi ; 1892 -- 1971 was a prominent kuomintang military and political leader in the republic of china . ###END###
 SH	SH	gregor_mühlberger	august	updated	gregor mühlberger born april 4 , 1994 is an austrian cyclist riding for felbermayr-simplon wels . ###END###
 SH	SH	cameron_todd	forward	position	cameron todd born 21 july 1994 is an australian ice hockey player currently playing for the sydney bears in the australian ice hockey league . ###END###
-SH	SH	cameron_todd	right	shoots	cameron todd born 21 july 1994 is an australian ice hockey player currently playing for the sydney bears in the australian ice hockey league . ###END###
 SH	SH	noel_alonso	left_back	position	noel alonso pérez born 19 march 1987 in gijón , asturias is a spanish professional footballer who plays for caudal deportivo as a left back . ###END###
 SH	SH	noel_alonso	may	pcupdate	noel alonso pérez born 19 march 1987 in gijón , asturias is a spanish professional footballer who plays for caudal deportivo as a left back . ###END###
 SH	SH	mandi_perkins	solo_singer	background	mandi perkins is a songwriter and lead singer of the band of verona . ###END###
@@ -8832,7 +8756,6 @@ SH	SH	vergílio_ferreira	writer	occupation	virgílio ferreira , jose melo , gouv
 SH	SH	maqsud_shah	islam	religion	maqsud shah 1864 - 1930 shah mexsut , , was the uyghur jasagh prince qinwang of the kumul from 1908 to 1930 . ###END###
 SH	SH	lucy_may_barker	present	yearsactive	lucy may barker born 4 april 1992 is a british stage and screen actress . ###END###
 SH	SH	rickard_wallin	centre	position	carl rickard wallin born april 9 , 1980 is a swedish professional ice hockey centre currently playing for färjestad of the elitserien sel . ###END###
-SH	SH	rickard_wallin	left	shoots	carl rickard wallin born april 9 , 1980 is a swedish professional ice hockey centre currently playing for färjestad of the elitserien sel . ###END###
 SH	SH	madison_park_musical_duo	group_or_band	background	madison park is an american electronica duo composed of deanna and james cool . ###END###
 SH	SH	madison_park_musical_duo	united_states	origin	madison park is an american electronica duo composed of deanna and james cool . ###END###
 SH	SH	elliot_ngok	actor	occupation	elliot ngok wah , better known as yueh hua , is a former shaw brothers actor and veteran tvb actor . ###END###
@@ -9103,7 +9026,6 @@ SH	SH	romero_mendonça_sobrinho	striker	position	romero mendonça sobrinho or si
 SH	SH	nora_tschirner	actress	occupation	nora marie tschirner born 12 june 1981 is a german film actress and former television and radio presenter . ###END###
 SH	SH	Álvaro_meseguer	centre_back	position	Álvaro meseguer fallado born 24 july 1992 is a spanish footballer who plays for real zaragoza b as a central defender . ###END###
 SH	SH	claudette_lali	actress	occupation	claudette lalí is a dominican-american actress . ###END###
-SH	SH	alexander_titov_ice_hockey	left	shoots	alexander nikolaevich titov ; born 14 april 1975 is a retired russian professional ice hockey defenceman . ###END###
 SH	SH	c_k_anil	indian	nationality	chandrakant kumar anil known as c k anil is a senior civil servant in the indian state of bihar 1990-batch bihar cadre . ###END###
 SH	SH	harouna_diarra	midfielder	position	harouna diarra born 26 october 1978 is a retired malian footballer . ###END###
 SH	SH	pavel_Čermák	m_ftin_on	height	pavel Čermák born 14 may 1989 is a professional czech football player . ###END###
@@ -9211,7 +9133,6 @@ SH	SH	marek_božoň	june	pcupdate	marek božoň 17 april 1990 in poprad is a slo
 SH	SH	jonas_sela	goalkeeper	position	jonas sela born january 23 , 1984 in bensberg is a german football player , he is a goalkeeper for sc fortuna köln . ###END###
 SH	SH	johnny_wilson_ice_hockey	left_wing	position	john edward wilson june 14 , 1929 -- december 27 , 2011 was a canadian professional ice hockey player and head coach . ###END###
 SH	SH	johnny_wilson_ice_hockey	nhl	league	john edward wilson june 14 , 1929 -- december 27 , 2011 was a canadian professional ice hockey player and head coach . ###END###
-SH	SH	johnny_wilson_ice_hockey	left	shoots	john edward wilson june 14 , 1929 -- december 27 , 2011 was a canadian professional ice hockey player and head coach . ###END###
 SH	SH	wasim_feroze	defender	position	wasim feroze born 1 september 1986 in srinagar is an indian footballer who plays as a defender for jk bank in jammu and kashmir . ###END###
 SH	SH	travis_hankins	republican	party	travis hankins was a candidate for the 2010 and 2012 republican nomination for u.s. representative for .he is a member of the republican party . ###END###
 SH	SH	jesús_maría_herrero	m_ftin_on	height	jesús maría ` chus ' herrero gómez born 10 february 1984 is a spanish professional footballer who plays for ue llagostera as a central defender . ###END###
@@ -9248,7 +9169,6 @@ SH	SH	anastasios_bakasetas	forward	position	anastasios bakasetas ; born 28 june 
 SH	SH	william_grocyn	english	nationality	william grocyn 1446 -- 1519 was an english scholar , a friend of erasmus . ###END###
 SH	SH	david_vostell	non_performing_personnel	background	david vostell born 10 october 1960 in cologne is a german-spanish composer and film director . ###END###
 SH	SH	pauli_levokari	defence	position	pauli levokari born 7 april 1978 in luvia is a finnish professional ice hockey defenceman currently playing for kookoo in the finnish mestis . ###END###
-SH	SH	pauli_levokari	left	shoots	pauli levokari born 7 april 1978 in luvia is a finnish professional ice hockey defenceman currently playing for kookoo in the finnish mestis . ###END###
 SH	SH	igor_grkajac	striker	position	igor grkajac ; born 26 april 1987 is a serbian professional footballer who plays for sloga kraljevo as a striker . ###END###
 SH	SH	igor_grkajac	august	pcupdate	igor grkajac ; born 26 april 1987 is a serbian professional footballer who plays for sloga kraljevo as a striker . ###END###
 SH	SH	kyomi_hirata	kg_lb_st_on	weight	kyomi hirata born 22 july 1982 is a japanese foil fencer .she competed in the women 's team foil competition at the 2012 summer olympics . ###END###
@@ -9316,7 +9236,6 @@ SH	SH	liron_diamant	november	pcupdate	liron diamant ; born 4 april 1990 is an is
 SH	SH	liron_diamant	june	ntupdate	liron diamant ; born 4 april 1990 is an israeli footballer who plays for maccabi herzliya . ###END###
 SH	SH	daniele_pietropolli	january	updated	daniele pietropolli born 11 july 1980 in bussolengo , veneto is an italian professional road bicycle racer , who last rode for . ###END###
 SH	SH	katrin_nabholz	forward	position	katrin elisabeth nabholz born 3 april 1986 in basel , switzerland is a swiss ice hockey forward . ###END###
-SH	SH	katrin_nabholz	left	shoots	katrin elisabeth nabholz born 3 april 1986 in basel , switzerland is a swiss ice hockey forward . ###END###
 SH	SH	henrik_hansen_footballer	february	pcupdate	henrik hallenberg hansen born 28 july 1979 is a danish professional football midfielder . ###END###
 SH	SH	fred_wilkes	left_back	position	frederick ` fred ' wilkes 26 august 1883 -1942 was an english professional footballer who played for reading and tottenham hotspur , as a defender ###END###
 SH	SH	tim_lees	midfielder	position	timothy martin lees born billinge , 24 january 1986 is an english football player , football coach and football skills performer . ###END###
@@ -9335,7 +9254,6 @@ SH	SH	enos_bromage_early_footballer	goalkeeper	position	enos bromage was an engl
 SH	SH	ross_beever	new_zealand	residence	ross ewen beever 3 january 1946 -- 3 june 2010 was a new zealand geneticist and mycologist . ###END###
 SH	SH	alexander_filipenko	politician	profession	alexander vasilevich filipenko born 31 may 1950 is a russian politician , the former governor of khanty-mansi autonomous okrug . ###END###
 SH	SH	daniel_ohrn	centre	position	daniel ohrn born january 27 , 1993 is a swedish ice hockey player .he is currently playing with timrå ik in the elitserien . ###END###
-SH	SH	daniel_ohrn	right	shoots	daniel ohrn born january 27 , 1993 is a swedish ice hockey player .he is currently playing with timrå ik in the elitserien . ###END###
 SH	SH	will_hughes	midfielder	position	william james `` will '' hughes born 17 april 1995 is an english professional footballer who plays as a midfielder for derby county . ###END###
 SH	SH	will_hughes	august_utc	pcupdate	william james `` will '' hughes born 17 april 1995 is an english professional footballer who plays as a midfielder for derby county . ###END###
 SH	SH	will_hughes	june_utc	ntupdate	william james `` will '' hughes born 17 april 1995 is an english professional footballer who plays as a midfielder for derby county . ###END###
@@ -9368,7 +9286,6 @@ SH	SH	fraser_lyle	kg_stlb_on	weight	fraser lyle born 16 june 1988 is a scottish 
 SH	SH	jan_hofer	german	nationality	jan hofer born 31 january 1952 in büderich is a german journalist , broadcast news analyst and television presenter . ###END###
 SH	SH	wolfran_cornewall	british	nationality	captain wolfran cornewall 1658 -- 21 january 1720 was an officer in the british royal navy . ###END###
 SH	SH	bobby_robins	right_wing	position	robert raymond robins born october 17 , 1981 is a former american professional ice hockey forward .he played for the boston bruins in the nhl . ###END###
-SH	SH	bobby_robins	right	shoots	robert raymond robins born october 17 , 1981 is a former american professional ice hockey forward .he played for the boston bruins in the nhl . ###END###
 SH	SH	roman_vonášek	midfielder	position	roman vonášek born 8 july 1968 is a czech former football player . ###END###
 SH	SH	chris_schuler	defender	position	chris schuler born september 6 , 1987 is an american soccer player who currently plays for real salt lake in major league soccer . ###END###
 SH	SH	vital_lyadzyanyow	striker	position	vitali ledenev ; ; born 26 march 1979 is a retired belarusian professional footballer who recently started a football agent career . ###END###
@@ -9453,7 +9370,6 @@ SH	SH	alan_keely	defender	position	alan vincent keely born 10 may 1982 is a reti
 SH	SH	machol	united_states_of_america	allegiance	machol was a private serving as an indian scout in the united states army during the indian wars who received the medal of honor for bravery . ###END###
 SH	SH	machol	united_states_army	branch	machol was a private serving as an indian scout in the united states army during the indian wars who received the medal of honor for bravery . ###END###
 SH	SH	paul_ballantyne_ice_hockey	defence	position	paul ballantyne born july 16 , 1982 is a canadian professional ice hockey defenceman who currently plays for the victoria salmon kings of the echl . ###END###
-SH	SH	paul_ballantyne_ice_hockey	right	shoots	paul ballantyne born july 16 , 1982 is a canadian professional ice hockey defenceman who currently plays for the victoria salmon kings of the echl . ###END###
 SH	SH	carla_morrow	american	nationality	carla morrow is an american artist specializing in watercolor fantasy dragons .she is also known as the dragon lady . ###END###
 SH	SH	kennedy_igboananike	striker	position	kennedy igboananike born 26 february 1989 is a nigerian footballer who plays for major league soccer club chicago fire as a striker . ###END###
 SH	SH	magdalena_paraschiv	kg_lb	weight	magdalena paraschiv born 11 august 1982 is a romanian handball player .she plays for the romanian club cs universitatea jolidon cluj-napoca . ###END###
@@ -9522,7 +9438,6 @@ SH	SH	mike_könnecke	striker	position	mike könnecke born 23 august 1988 is a ge
 SH	SH	eileen_agar	british	nationality	eileen forrester agar 1 december 1899 -- 17 november 1991 was a british painter and photographer associated with the surrealist movement . ###END###
 SH	SH	eileen_agar	painting	field	eileen forrester agar 1 december 1899 -- 17 november 1991 was a british painter and photographer associated with the surrealist movement . ###END###
 SH	SH	peter_ihnačák	centre	position	peter ihnačák born may 3 , 1957 in poprad , czechoslovakia , now slovakia is a former slovak ice hockey centre . ###END###
-SH	SH	peter_ihnačák	right	shoots	peter ihnačák born may 3 , 1957 in poprad , czechoslovakia , now slovakia is a former slovak ice hockey centre . ###END###
 SH	SH	kagney_linn_karter	lb_kg_on	weight	kagney linn karter born march 28 , 1987 is an american pornographic actress , model and stripper . ###END###
 SH	SH	bob_luman	solo_singer	background	robert glynn `` bob '' luman 15 april 1937 -- 27 december 1978 was an american country and rockabilly singer-songwriter ###END###
 SH	SH	bob_luman	singer-songwriter	occupation	robert glynn `` bob '' luman 15 april 1937 -- 27 december 1978 was an american country and rockabilly singer-songwriter ###END###
@@ -9567,7 +9482,6 @@ SH	SH	dustley_mulder	right_back	position	dustley mulder born 27 january 1985 is 
 SH	SH	hannelore_schroth	actress	occupation	hannelore schroth 10 january 1922 -- 7 july 1987 , was a german film , stage and television actress whose career spanned over five decades . ###END###
 SH	SH	dirceu_ferreira	forward	position	dirceu ferreira born 15 april 1942 is a brazilian former footballer . ###END###
 SH	SH	neil_googe	british	nationality	neil googe is a british comics artist . ###END###
-SH	SH	adam_taylor	right	shoots	adam taylor born june 24 , 1984 is a canadian ice hockey right winger who is currently playing for the victoria salmon kings of the echl . ###END###
 SH	SH	aurora_serenaj	midfielder	position	aurora serenaj born 14 may 1982 is an albanian football midfielder . ###END###
 SH	SH	ager_aketxe	m_on	height	ager aketxe barrutia born 30 december 1993 is a spanish professional footballer who plays for athletic bilbao as an attacking midfielder . ###END###
 SH	SH	ager_aketxe	attacking_midfielder	position	ager aketxe barrutia born 30 december 1993 is a spanish professional footballer who plays for athletic bilbao as an attacking midfielder . ###END###
@@ -9596,7 +9510,6 @@ SH	SH	enaam_elgretly	actress	occupation	enaam elgretly انعام الجريتل
 SH	SH	hocico	group_or_band	background	hocico pronounced `` osziko '' is a mexican electro-industrial duo . ###END###
 SH	SH	hocico	http	website	hocico pronounced `` osziko '' is a mexican electro-industrial duo . ###END###
 SH	SH	joonas_jääskeläinen	right_wing	position	joonas jääskeläinen born july 14 , 1973 is a finnish former professional ice hockey winger . ###END###
-SH	SH	joonas_jääskeläinen	left	shoots	joonas jääskeläinen born july 14 , 1973 is a finnish former professional ice hockey winger . ###END###
 SH	SH	hasan_al_moustafa	defender	position	hasan hamid al moustafa * 12 september 1984 is a syrian footballer who plays for etehad al zarqah in the jordan league division 1 as a defender . ###END###
 SH	SH	ahmet_aras	m_on	height	ahmet aras born 13 december 1987 is a turkish professional footballer who currently plays as an attacking midfielder for antalyaspor . ###END###
 SH	SH	ahmet_aras	midfielder	position	ahmet aras born 13 december 1987 is a turkish professional footballer who currently plays as an attacking midfielder for antalyaspor . ###END###
@@ -9664,7 +9577,6 @@ SH	SH	the_angels_american_group	group_or_band	background	the angels are an ameri
 SH	SH	vladimir_novosyolov	midfielder	position	vladimir aleksandrovich novosyolov ; born january 1 , 1991 is a russian professional football player currently playing for fc kuzbass kemerovo . ###END###
 SH	SH	vladimir_novosyolov	june_utc	pcupdate	vladimir aleksandrovich novosyolov ; born january 1 , 1991 is a russian professional football player currently playing for fc kuzbass kemerovo . ###END###
 SH	SH	steffen_thoresen	right_wing	position	steffen thoresen born june 3 , 1985 is a norwegian ice hockey player .he is currently playing with the lørenskog ik of the norwegian get-ligaen . ###END###
-SH	SH	steffen_thoresen	left	shoots	steffen thoresen born june 3 , 1985 is a norwegian ice hockey player .he is currently playing with the lørenskog ik of the norwegian get-ligaen . ###END###
 SH	SH	wuttichai_tathong	striker	position	wuttichai tathong thai วุฒิชัย ทาทอง is a thai footballer .he plays for thai premier league clubside port . ###END###
 SH	SH	wuttichai_tathong	november	pcupdate	wuttichai tathong thai วุฒิชัย ทาทอง is a thai footballer .he plays for thai premier league clubside port . ###END###
 SH	SH	tomasz_sokołowski_born_1970	midfielder	position	tomasz sokołowski born 21 september 1970 in gdynia is a former polish footballer . ###END###
@@ -9888,7 +9800,6 @@ SH	SH	hallice_cooke	american	nationality	hallice cooke born january 5 , 1995 is 
 SH	SH	franco_brambilla_archbishop	roman_catholic	religion	franco brambilla 27 november , 1923 -- 28 july , 2003 was an italy roman catholic archbishop and vatican diplomat . ###END###
 SH	SH	ron_masak	actor	occupation	ron masak born july 1 , 1936 is an american actor .he began as a stage performer , and much of his work is in theater . ###END###
 SH	SH	richard_washington	american	nationality	richard lee washington born july 15 , 1955 is a retired american professional basketball player . ###END###
-SH	SH	jason_elliott	left	shoots	jason elliott born 10 november 1975 in inuvik , northwest territories , is a retired canadian ice hockey player . ###END###
 SH	SH	deniz_hümmet	m_ftin_on	height	deniz hümmet born 13 september 1996 is a turkish footballer who plays for troyes ac .he made his ligue 2 debut on 13 february 2015 . ###END###
 SH	SH	deniz_hümmet	forward	position	deniz hümmet born 13 september 1996 is a turkish footballer who plays for troyes ac .he made his ligue 2 debut on 13 february 2015 . ###END###
 SH	SH	begoña_narváez	mexican	nationality	begoña narváez born july 11 , 1987 in guadalajara , jalisco , is an actress and model . ###END###
@@ -10478,7 +10389,6 @@ SH	SH	róbert_tomko	august	pcupdate	róbert tomko born 16 december 1979 in preš
 SH	SH	kittisak_hochin	forward	position	kittisak hochin is a thai footballer who plays for pattaya united . ###END###
 SH	SH	tadas_labukas	striker	position	tadas labukas born 10 january 1984 in alytus is a lithuanian footballer , currently playing for the polish i liga club miedź legnica . ###END###
 SH	SH	joonas_hurri	defence	position	joonas hurri born march 31 , 1991 is a finnish professional ice hockey defenceman who currently plays for pelicans of the sm-liiga . ###END###
-SH	SH	joonas_hurri	left	shoots	joonas hurri born march 31 , 1991 is a finnish professional ice hockey defenceman who currently plays for pelicans of the sm-liiga . ###END###
 SH	SH	katarina_stepanović	left_back	position	katarina stepanović born 15 january 1985 is a serbian handball player for rk radnički kragujevac and the serbian national team . ###END###
 SH	SH	peter_francis_tague	democratic	party	peter francis tague june 4 , 1871 -- september 17 , 1941 was a member of the united states house of representatives from boston , massachusetts . ###END###
 SH	SH	peter_francis_tague	roman_catholic	religion	peter francis tague june 4 , 1871 -- september 17 , 1941 was a member of the united states house of representatives from boston , massachusetts . ###END###
@@ -10571,7 +10481,6 @@ SH	SH	prostitute_disfigurement	http_official_website	website	prostitute disfigur
 SH	SH	adrian_honkisz	april	updated	adrian honkisz born 27 february 1988 is a polish professional racing cyclist . ###END###
 SH	SH	geoffrey_layton	ndash_;	serviceyears	admiral sir geoffrey layton gbe , kcb , kcmg , dso 20 april 1884 -- 4 september 1964 , was a british royal navy officer . ###END###
 SH	SH	gary_mcadam	left_wing	position	gary f. mcadam born december 31 , 1955 in smiths falls , ontario is a retired canadian ice hockey player . ###END###
-SH	SH	gary_mcadam	left	shoots	gary f. mcadam born december 31 , 1955 in smiths falls , ontario is a retired canadian ice hockey player . ###END###
 SH	SH	juan_cavallaro	winger	position	juan ignacio cavallaro born 28 june 1994 is an argentine footballer who plays as a winger for ldu quito . ###END###
 SH	SH	juan_cavallaro	august	pcupdate	juan ignacio cavallaro born 28 june 1994 is an argentine footballer who plays as a winger for ldu quito . ###END###
 SH	SH	juan_cavallaro	july	ntupdate	juan ignacio cavallaro born 28 june 1994 is an argentine footballer who plays as a winger for ldu quito . ###END###
@@ -10718,7 +10627,6 @@ SH	SH	maico_gerritsen	november	pcupdate	maico gerritsen born 21 march 1986 in ve
 SH	SH	amy_samion	m_on	height	amy samion born 13 may 1992 is an singaporean footballer who plays as a forward for geylang international in the s.league . ###END###
 SH	SH	amy_samion	forward	position	amy samion born 13 may 1992 is an singaporean footballer who plays as a forward for geylang international in the s.league . ###END###
 SH	SH	inés_sastre	lb_kg_on	weight	inés sastre moratón born 21 november 1973 is a spanish model and actress . ###END###
-SH	SH	colleen_coyne	left	shoots	colleen coyne born september 19 , 1971 is an american ice hockey player .she won a gold medal at the 1998 winter olympics . ###END###
 SH	SH	teemu_nurmi	forward	position	teemu nurmi born february 24 , 1985 is a finnish ice hockey player who currently plays professionally in finland for lukko of the sm-liiga . ###END###
 SH	SH	david_flynn_soccer	goalkeeper	position	david flynn born march 21 , 1989 in warsaw , indiana is an american soccer player who currently plays for harrisburg city islanders in the usl pro . ###END###
 SH	SH	david_flynn_soccer	september	pcupdate	david flynn born march 21 , 1989 in warsaw , indiana is an american soccer player who currently plays for harrisburg city islanders in the usl pro . ###END###
@@ -10801,7 +10709,6 @@ SH	SH	casper_henningsen	winger	position	casper henningsen born july 6 , 1985 is 
 SH	SH	casper_henningsen	february	pcupdate	casper henningsen born july 6 , 1985 is a danish professional football player , who plays at brønshøj boldklub in the danish 1 .division . ###END###
 SH	SH	tom_wham	american	nationality	tom wham born 1944 in chester , illinois is a designer of board games who has also produced artwork , including that for his own games . ###END###
 SH	SH	d._j._king	left_wing	position	dwayne `` d. j. '' king born june 27 , 1984 is a canadian professional ice hockey left winger currently playing with the ontario reign of the echl . ###END###
-SH	SH	d._j._king	left	shoots	dwayne `` d. j. '' king born june 27 , 1984 is a canadian professional ice hockey left winger currently playing with the ontario reign of the echl . ###END###
 SH	SH	william_elles	united_kingdom	allegiance	lieutenant-general sir william kidston elles 5 may 1837 - 5 august 1896 was a british army officer . ###END###
 SH	SH	william_elles	united_kingdom	branch	lieutenant-general sir william kidston elles 5 may 1837 - 5 august 1896 was a british army officer . ###END###
 SH	SH	seng_athit_somvang	goalkeeper	position	seng athit somvang born 2 june 1991 is a laotian footballer .he made his first appearance for the laos national football team in 2010 . ###END###
@@ -10820,7 +10727,6 @@ SH	SH	martin_veillette	canadian	nationality	martin veillette born 16 november 19
 SH	SH	martin_veillette	roman_catholic	religion	martin veillette born 16 november 1936 is a canadian bishop , theologian , philosopher , sociologist and teacher .he was bishop of trois-rivières . ###END###
 SH	SH	anton_badelko	forward	position	anton badelko ; ; born 10 november 1994 is a belarusian footballer who is currently a free agent .his latest club was dnepr mogilev . ###END###
 SH	SH	anton_badelko	december	pcupdate	anton badelko ; ; born 10 november 1994 is a belarusian footballer who is currently a free agent .his latest club was dnepr mogilev . ###END###
-SH	SH	scott_drevitch	right	shoots	scott drevitch born in brookline , massachusetts on 9 september 1965 is a retired american professional ice hockey and roller hockey defenseman . ###END###
 SH	SH	john_rutherford_gordon	australia	allegiance	john rutherford gordon mc 18 june 1895 -- 11 december 1978 was an australian fighter pilot and ace of world war i. ###END###
 SH	SH	peter_busch_orthwein	american	nationality	peter busch orthwein is an american heir , businessman and polo player .he is the co-founder and chairman of thor industries . ###END###
 SH	SH	jane_mander	new_zealand	nationality	mary jane mander 9 april 1877 -- 20 december 1949 was a new zealand novelist and journalist . ###END###
@@ -10852,7 +10758,6 @@ SH	SH	hilary_salvatore	actress	occupation	hilary jean salvatore also known as hi
 SH	SH	giorgi_sichinava	midfielder	position	georgi vladimirovich sichinava , born 15 september 1944 in gagra is a retired soviet football player . ###END###
 SH	SH	martin_segitz	german	nationality	martin segitz 26 july 1853 , fürth , middle franconia -- 31 july 1927 , fürth was an acting bavarian minister-president and member of the spd . ###END###
 SH	SH	pete_kapusta	left_wing	position	peter l. kapusta born february 3 , 1924 was a canadian ice hockey forward who played nine ahl seasons with providence reds . ###END###
-SH	SH	pete_kapusta	left	shoots	peter l. kapusta born february 3 , 1924 was a canadian ice hockey forward who played nine ahl seasons with providence reds . ###END###
 SH	SH	bala_murali	yes	date	krishna swamy bala murali born 31 may 1969 is a former indian cricket umpire .he stood in three odi games between 1994 and 1997 . ###END###
 SH	SH	bala_murali	http_cricinfo	source	krishna swamy bala murali born 31 may 1969 is a former indian cricket umpire .he stood in three odi games between 1994 and 1997 . ###END###
 SH	SH	lee_dunham	left	bats	leland huffield dunham june 9 , 1902 -- may 11 , 1961 was a first baseman in major league baseball .he played for the philadelphia phillies in 1926 . ###END###
@@ -10952,7 +10857,6 @@ SH	SH	denis_fetahović	march	pcupdate	denis fetahović cyrillic : Дeниc Фeт
 SH	SH	howard_dietz	non_performing_personnel	background	howard dietz september 8 , 1896 -- july 30 , 1983 was an american publicist , lyricist , and librettist . ###END###
 SH	SH	mark_gilhaney	winger	position	mark gilhaney born 4 november 1984 is a scottish footballer who currently plays for scottish league one side stenhousemuir . ###END###
 SH	SH	leslie_erganian	american	nationality	leslie jeanne erganian is an american artist and writer .her body of work includes photography , collage , assemblage , and animation . ###END###
-SH	SH	alain_côté_ice_hockey_,_born_1967	right	shoots	alain r. gabriel côté born april 14 , 1967 is a canadian former professional ice hockey player and roller hockey player . ###END###
 SH	SH	vassilis_triantafyllakos	attacking_midfielder	position	vassilis triantafyllakos ; born 16 july 1991 is a greek football striker currently playing for panthrakikos . ###END###
 SH	SH	gastón_sangoy	m_ftin_on	height	gastón sangoy born 5 october 1984 in paraná , entre ríos is an argentine footballer who plays as a striker ###END###
 SH	SH	gastón_sangoy	striker	position	gastón sangoy born 5 october 1984 in paraná , entre ríos is an argentine footballer who plays as a striker ###END###
@@ -11040,13 +10944,11 @@ SH	SH	george_c._kellar	republican	party	george currant kellar july 31 , 1879 -- 
 SH	SH	postmortem_band	group_or_band	background	`` not to be confused with the american thrash metal band post mortem . ''postmortem is a german death metal band from berlin . ###END###
 SH	SH	a_classic_education	group_or_band	background	a classic education is a pop band from italy . ###END###
 SH	SH	tomáš_netík	winger	position	tomáš netík is a czech professional ice hockey player who currently plays for the hc slovan bratislava in the kontinental hockey league . ###END###
-SH	SH	tomáš_netík	left	shoots	tomáš netík is a czech professional ice hockey player who currently plays for the hc slovan bratislava in the kontinental hockey league . ###END###
 SH	SH	bryan_mitchell	pitcher	position	bryan bedford mitchell born april 19 , 1991 is an american professional baseball pitcher for the new york yankees of major league baseball mlb . ###END###
 SH	SH	bryan_mitchell	left	bats	bryan bedford mitchell born april 19 , 1991 is an american professional baseball pitcher for the new york yankees of major league baseball mlb . ###END###
 SH	SH	bryan_mitchell	right	throws	bryan bedford mitchell born april 19 , 1991 is an american professional baseball pitcher for the new york yankees of major league baseball mlb . ###END###
 SH	SH	bryan_mitchell	august	debutdate	bryan bedford mitchell born april 19 , 1991 is an american professional baseball pitcher for the new york yankees of major league baseball mlb . ###END###
 SH	SH	jamie_lundmark	centre	position	jamie lundmark born january 16 , 1981 is a canadian professional ice hockey forward who is currently playing with ec kac of the ebel . ###END###
-SH	SH	jamie_lundmark	right	shoots	jamie lundmark born january 16 , 1981 is a canadian professional ice hockey forward who is currently playing with ec kac of the ebel . ###END###
 SH	SH	mathieu_scarpelli	m_ftin_on	height	mathieu scarpelli born 23 july 1981 is a french football striker who has played in ligue 1 and ligue 2 . ###END###
 SH	SH	mathieu_scarpelli	striker	position	mathieu scarpelli born 23 july 1981 is a french football striker who has played in ligue 1 and ligue 2 . ###END###
 SH	SH	mathieu_scarpelli	june	pcupdate	mathieu scarpelli born 23 july 1981 is a french football striker who has played in ligue 1 and ligue 2 . ###END###
@@ -11372,7 +11274,6 @@ SH	SH	adriano_russo	defender	position	adriano russo born 6 june 1987 is an itali
 SH	SH	jacquelyn_frank	american	nationality	jacquelyn frank is an author of paranormal romance novels .her novel `` rapture '' reached number 8 in the new york times paperback fiction chart . ###END###
 SH	SH	yang_shisen	fencing	sport	yang shisen born 20 march 1958 is a chinese fencer .he competed in the team sabre event at the 1984 summer olympics . ###END###
 SH	SH	kalle_koskinen	defence	position	kalle koskinen born january 3 , 1972 in jyväskylä , finland is a defenceman playing for the jyp hockey team in the finnish sm-liiga . ###END###
-SH	SH	kalle_koskinen	left	shoots	kalle koskinen born january 3 , 1972 in jyväskylä , finland is a defenceman playing for the jyp hockey team in the finnish sm-liiga . ###END###
 SH	SH	anders_karlsen	midfielder	position	anders karlsen born 15 february 1990 in bodø is a norwegian football midfielder who currently plays for bodø / glimt . ###END###
 SH	SH	anders_karlsen	august	pcupdate	anders karlsen born 15 february 1990 in bodø is a norwegian football midfielder who currently plays for bodø / glimt . ###END###
 SH	SH	john_elkington_british_army_officer	united_kingdom	allegiance	lieutenant general john henry ford elkington cb 1830 -- 21 february 1889 was a british army officer who became lieutenant governor of guernsey . ###END###
@@ -11389,7 +11290,6 @@ SH	SH	robert_f._burkardt	republican	party	robert f. burkardt october 14 , 1923 -
 SH	SH	robert_f._burkardt	attorney	occupation	robert f. burkardt october 14 , 1923 -- december 1 , 2006 was a republican member of the pennsylvania house of representatives . ###END###
 SH	SH	robert_f._burkardt	roman_catholic	religion	robert f. burkardt october 14 , 1923 -- december 1 , 2006 was a republican member of the pennsylvania house of representatives . ###END###
 SH	SH	brad_williamson_ice_hockey	defence	position	brad williamson born july 4 , 1977 is a canadian retired professional ice hockey defenceman . ###END###
-SH	SH	brad_williamson_ice_hockey	right	shoots	brad williamson born july 4 , 1977 is a canadian retired professional ice hockey defenceman . ###END###
 SH	SH	hervé_makuka	m_ftin_on	height	hervé mccarthy makuka born 19 january 1986 in giswil is a swiss footballer who plays for fc wettswil-bonstetten . ###END###
 SH	SH	hervé_makuka	midfielder	position	hervé mccarthy makuka born 19 january 1986 in giswil is a swiss footballer who plays for fc wettswil-bonstetten . ###END###
 SH	SH	hervé_makuka	july	pcupdate	hervé mccarthy makuka born 19 january 1986 in giswil is a swiss footballer who plays for fc wettswil-bonstetten . ###END###
@@ -11433,7 +11333,6 @@ SH	SH	freddie_forsland	goalkeeper	position	freddie forsland is a swedish former 
 SH	SH	sumardi	goalkeeper	position	sumardi born on june 26 , 1972 is an indonesian footballer who currently plays for mitra kukar f.c. in the indonesia super league . ###END###
 SH	SH	sumardi	september	pcupdate	sumardi born on june 26 , 1972 is an indonesian footballer who currently plays for mitra kukar f.c. in the indonesia super league . ###END###
 SH	SH	steve_quailer	right_wing	position	steve quailer born august 5 , 1989 is an american professional ice hockey player who is currently playing for the idaho steelheads of the echl . ###END###
-SH	SH	steve_quailer	left	shoots	steve quailer born august 5 , 1989 is an american professional ice hockey player who is currently playing for the idaho steelheads of the echl . ###END###
 SH	SH	vladislav_rusanov	writer	occupation	vladislav adolfovitch rusanov is a ukrainian fantasy writer , kandidat of geologic sciences .writes in russian language . ###END###
 SH	SH	alex_karmo	defender	position	alexander began karmo born october 12 , 1989 is an liberian footballer , who is currently playing currently for vinakansai vissai . ###END###
 SH	SH	alex_karmo	june	ntupdate	alexander began karmo born october 12 , 1989 is an liberian footballer , who is currently playing currently for vinakansai vissai . ###END###
@@ -11479,7 +11378,6 @@ SH	SH	pauno_kymäläinen	defender	position	pauno kymäläinen born 14 november 1
 SH	SH	sandra_trattnigg	solo_singer	background	sandra trattnigg born 14 november 1976 , klagenfurt is an austrian opera and concert soprano . ###END###
 SH	SH	sandra_trattnigg	vocals	instrument	sandra trattnigg born 14 november 1976 , klagenfurt is an austrian opera and concert soprano . ###END###
 SH	SH	václav_meidl	centre	position	václav meidl born may 27 , 1986 in havířov , czechoslovakia is an ice hockey forward .chl import draft - plymouth whalers 1st round 3rd 2003 ###END###
-SH	SH	václav_meidl	right	shoots	václav meidl born may 27 , 1986 in havířov , czechoslovakia is an ice hockey forward .chl import draft - plymouth whalers 1st round 3rd 2003 ###END###
 SH	SH	ivan_sertić	forward	position	ivan sertić born 27 february 1985 is a croatian football forward , currently playing for nk nehaj . ###END###
 SH	SH	jack_binstead	http_official_website	website	jack binstead is an english actor best known for playing leslie `` rem dogg '' remmington in the bbc three television series `` bad education '' . ###END###
 SH	SH	cristóbal_vergara	defender	position	cristóbal alberto vergara maldonado , born 20 june 1994 is a chilean footballer that plays for deportes temuco as a defender . ###END###
@@ -11610,7 +11508,6 @@ SH	SH	yuri_ivanov_footballer_,_born_1982	december	pcupdate	yuri ivanov bulgarian
 SH	SH	paul_lloyd_footballer	midfielder	position	paul laurence lloyd born 26 march 1987 is an english football midfielder who plays for bamber bridge . ###END###
 SH	SH	ioseb_chakhvashvili	midfielder	position	ioseb chakhvashvili is an georgian football midfielder who currently plays for saba qom in iran pro league . ###END###
 SH	SH	mika_niemi	forward	position	mika niemi born march 10 , 1988 is a finnish professional ice hockey forward who currently plays for Ässät of the sm-liiga . ###END###
-SH	SH	mika_niemi	left	shoots	mika niemi born march 10 , 1988 is a finnish professional ice hockey forward who currently plays for Ässät of the sm-liiga . ###END###
 SH	SH	maria_baptist	non_vocal_instrumentalist	background	maria baptist born 30 august 1971 is a german musician pianist , composer and professor . ###END###
 SH	SH	william_medill	democratic	party	william medill february 1802 -- september 2 , 1865 was a democratic politician from ohio .he served as the 22nd governor of ohio from 1853 to 1856 . ###END###
 SH	SH	yamith_cuesta	defender	position	yamith cuesta born april 17 , 1989 in turbo is a colombian footballer . ###END###
@@ -12014,7 +11911,6 @@ SH	SH	mattia_biso	june	ntupdate	mattia biso born 6 may 1977 is an italian midfie
 SH	SH	craig_woodman	defender	position	craig alan woodman born 22 december 1982 in is an english professional footballer who plays as a defender for exeter city . ###END###
 SH	SH	lenílson_batista_de_souza	august	pcupdate	lenílson batista de jesus or simply lenílson born may 1 , 1981 in salvador is a brazilian left midfielder . ###END###
 SH	SH	mikko_turunen	defence	position	mikko turunen born february 4 , 1982 is a professional ice hockey forward who has played with hifk in the sm-liiga . ###END###
-SH	SH	mikko_turunen	left	shoots	mikko turunen born february 4 , 1982 is a professional ice hockey forward who has played with hifk in the sm-liiga . ###END###
 SH	SH	roberts_pakalns	forward	position	roberts pakalns 7 november 1911 - 17 may 1986 was a latvian footballer and football manager , a three-time champion of latvia . ###END###
 SH	SH	edward_guglielmino	solo_singer	background	edward guglielmino is an australian musician based in brisbane , queensland . ###END###
 SH	SH	conrad_holt	united_states	country	conrad william holt born july 9 , 1993 is an american chess grandmaster . ###END###
@@ -12033,18 +11929,15 @@ SH	SH	deyair_reyes	m_ftin_on	height	deyair reyes contreras born 4 march 1992 is 
 SH	SH	deyair_reyes	november	pcupdate	deyair reyes contreras born 4 march 1992 is a peruvian footballer who plays as a left back or winger for juan aurich in the torneo descentralizado . ###END###
 SH	SH	fahad_al-musaibeah	midfielder	position	fahad al-musaibeah is an arabian football midfielder who played for saudi arabia in the 1984 olympic games . ###END###
 SH	SH	brad_cole	defence	position	brad cole born october 21 , 1987 is a canadian professional ice hockey defenseman .he is currently playing for ritten/renon of the italian serie a. ###END###
-SH	SH	brad_cole	left	shoots	brad cole born october 21 , 1987 is a canadian professional ice hockey defenseman .he is currently playing for ritten/renon of the italian serie a. ###END###
 SH	SH	shakila_karim	solo_singer	background	shakila karim ; born 13 november 1997 is an english singer-songwriter and musician . ###END###
 SH	SH	andy_lorei	may	pcupdate	andy lorei born march 25 , 1989 in erie , pennsylvania is an american soccer player who currently plays for tulsa roughnecks . ###END###
 SH	SH	jakub_orsava	forward	position	jakub orsava born february 27 , 1991 is a czech hockey player , who currently plays for hc oceláři třinec . ###END###
-SH	SH	jakub_orsava	right	shoots	jakub orsava born february 27 , 1991 is a czech hockey player , who currently plays for hc oceláři třinec . ###END###
 SH	SH	neil_allen	right	bats	neil patrick allen born january 24 , 1958 is a former major league baseball pitcher currently serving as pitching coach for the minnesota twins . ###END###
 SH	SH	neil_allen	right	throws	neil patrick allen born january 24 , 1958 is a former major league baseball pitcher currently serving as pitching coach for the minnesota twins . ###END###
 SH	SH	neil_allen	april	debutdate	neil patrick allen born january 24 , 1958 is a former major league baseball pitcher currently serving as pitching coach for the minnesota twins . ###END###
 SH	SH	neil_allen	september	finaldate	neil patrick allen born january 24 , 1958 is a former major league baseball pitcher currently serving as pitching coach for the minnesota twins . ###END###
 SH	SH	oleg_ivanov	midfielder	position	oleg aleksandrovich ivanov is a russian footballer who currently plays as a midfielder for fc terek grozny in russia . ###END###
 SH	SH	matt_beleskey	left_wing	position	matthew beleskey born june 7 , 1988 is a canadian professional ice hockey left winger with the boston bruins of the national hockey league nhl . ###END###
-SH	SH	matt_beleskey	left	shoots	matthew beleskey born june 7 , 1988 is a canadian professional ice hockey left winger with the boston bruins of the national hockey league nhl . ###END###
 SH	SH	matt_beleskey	nhl	league	matthew beleskey born june 7 , 1988 is a canadian professional ice hockey left winger with the boston bruins of the national hockey league nhl . ###END###
 SH	SH	doubledrive	group_or_band	background	the band , doubledrive abbreviated as dd , was a rock band from atlanta , georgia . ###END###
 SH	SH	ole_olsen_filmmaker	ndash_;	yearsactive	ole olsen may 5 , 1863 -- october 5 , 1943 was a danish film producer and the 1906 founder of nordisk film .olsen was born in tangemose , denmark . ###END###
@@ -12132,7 +12025,6 @@ SH	SH	francis_mallory	united_states_of_america	allegiance	francis mallory decemb
 SH	SH	francis_mallory	united_states_navy	branch	francis mallory december 12 , 1807 -- march 26 , 1860 was an american naval officer , physician , politician , and railroad executive . ###END###
 SH	SH	matthew_woolgar	forward	position	matthew woolgar born 5 january 1976 is a retired english footballer who played for luton town , baldock town and merthyr tydfil . ###END###
 SH	SH	blair_chapman	right_wing	position	blair douglas chapman born june 13 , 1956 in lloydminster , saskatchewan is a retired former professional ice hockey player . ###END###
-SH	SH	blair_chapman	right	shoots	blair douglas chapman born june 13 , 1956 in lloydminster , saskatchewan is a retired former professional ice hockey player . ###END###
 SH	SH	philip_leder	american	nationality	philip leder born november 19 , 1934 is an american geneticist . ###END###
 SH	SH	brice_brown	american	nationality	brice brown born october 10 , 1972 is an american artist who lives and works in new york city . ###END###
 SH	SH	mikuláš_komanický	july	pcupdate	mikuláš komanický born 31 july 1951 is a former football player from slovakia and recently manager of tatran prešov u-19 . ###END###
@@ -12166,7 +12058,6 @@ SH	SH	gianni_guigou	june	pcupdate	gianni bismark guigou martínez born february 
 SH	SH	c._dale_young	american	nationality	c. dale young born april 18 , 1969 is an american poet and writer , physician , editor and educator of asian and latino descent . ###END###
 SH	SH	essam_mubaideen	midfielder	position	essam abdallah ibrahim mubaideen born 1986 is a jordanian footballer who is a midfielder for shabab al-ordon and the jordan national football team . ###END###
 SH	SH	jean_bourcier	left_wing	position	jean louis bourcier january 3 , 1911 -- june 20 , 1989 was a canadian professional ice hockey left winger . ###END###
-SH	SH	jean_bourcier	left	shoots	jean louis bourcier january 3 , 1911 -- june 20 , 1989 was a canadian professional ice hockey left winger . ###END###
 SH	SH	james_donaldson_rugby_league	kg_stlb_on	weight	james donaldson is an english rugby league player who currently plays for hull kingston rovers . ###END###
 SH	SH	james_donaldson_rugby_league	august	updated	james donaldson is an english rugby league player who currently plays for hull kingston rovers . ###END###
 SH	SH	silvi_vrait	solo_singer	background	silvi vrait 28 april 1951 -- 28 june 2013 was an estonian singer and music teacher . ###END###
@@ -12323,7 +12214,6 @@ SH	SH	harry_agombar	midfielder	position	harry agombar born 12 july 1992 is an en
 SH	SH	louise_bond-williams	m_ftin_on	height	louise bond-williams born 14 may 1982 is a british sabre fencer .she represented great britain at the 2004 and 2012 summer olympics . ###END###
 SH	SH	louise_bond-williams	kg_lb_on	weight	louise bond-williams born 14 may 1982 is a british sabre fencer .she represented great britain at the 2004 and 2012 summer olympics . ###END###
 SH	SH	olga_permyakova	defence	position	olga viktorovna permyakova born 12 april 1982 in chelyabinsk , russian ssr , soviet union is a russian ice hockey defender . ###END###
-SH	SH	olga_permyakova	left	shoots	olga viktorovna permyakova born 12 april 1982 in chelyabinsk , russian ssr , soviet union is a russian ice hockey defender . ###END###
 SH	SH	harvey_goldman	american	nationality	harvey goldman born september 28 , 1951 , in chicago , illinois is an american artist and educator . ###END###
 SH	SH	marcin_makuch	defender	position	marcin makuch born april 3 , 1980 in kraków is a polish footballer who currently plays for sandecja nowy sącz in the polish first league . ###END###
 SH	SH	osvaldo_civile	non_vocal_instrumentalist	background	osvaldo daniel civile october 21 , 1958 -- april 28 , 1999 was an argentine heavy metal guitarist .he was the guitarist for the bands v8 and horcas . ###END###
@@ -12347,7 +12237,6 @@ SH	SH	loïc_dufau	august	pcupdate	loïc dufau born 15 march 1989 is a french pro
 SH	SH	denis_kartsev	left_wing	position	denis kartsev is a russian professional ice hockey winger who currently plays for hc sibir novosibirsk of the kontinental hockey league khl . ###END###
 SH	SH	john_kolosci	american	nationality	john kolosci born november 26 , 1974 is an american mixed martial artist .he was a fighter on season 6 of '' '' , fighting on team serra . ###END###
 SH	SH	chris_rumble	defence	position	chris rumble born april 16 , 1990 is an american professional ice hockey defenceman .he is currently playing for the evansville icemen of the echl . ###END###
-SH	SH	chris_rumble	left	shoots	chris rumble born april 16 , 1990 is an american professional ice hockey defenceman .he is currently playing for the evansville icemen of the echl . ###END###
 SH	SH	zhang_huiwen	present	yearsactive	zhang huiwen is a chinese actress and model .she was born in 13 september 1993 in yingtan , jiangxi , and now she lives in beijing . ###END###
 SH	SH	nicolas_vaporidis	present	yearsactive	nicolas vaporidis born 22 december 1981 is an italian actor , film producer , and novelist . ###END###
 SH	SH	yenal_tuncer	october	pcupdate	yenal tuncer born 28 april 1985 is a turkish footballer who currently plays for denizlispor .he 's regarded as a promising left defender and winger . ###END###
@@ -12562,7 +12451,6 @@ SH	SH	Ávine	defender	position	Ávine júnior cardoso or simply Ávine born febr
 SH	SH	michel_roux-spitz	french	nationality	michel roux-spitz 13 june 1888 - 15 july 1957 was a french architect . ###END###
 SH	SH	lone_ranger_musician	solo_singer	background	lone ranger born anthony alphanso waldron 2 november 1958 is a jamaican reggae deejay who recorded nine albums between the late 1970s and mid-1980s . ###END###
 SH	SH	wade_macleod	left_wing	position	wade macleod born january 20 , 1987 is a canadian professional ice hockey player .he is currently playing for the starbulls rosenheim in the del2 . ###END###
-SH	SH	wade_macleod	left	shoots	wade macleod born january 20 , 1987 is a canadian professional ice hockey player .he is currently playing for the starbulls rosenheim in the del2 . ###END###
 SH	SH	nastja_Čeh	midfielder	position	nastja Čeh born 26 january 1978 in ptuj is a slovenian footballer who plays for drava ptuj . ###END###
 SH	SH	nastja_Čeh	august	pcupdate	nastja Čeh born 26 january 1978 in ptuj is a slovenian footballer who plays for drava ptuj . ###END###
 SH	SH	nastja_Čeh	august_utc	ntupdate	nastja Čeh born 26 january 1978 in ptuj is a slovenian footballer who plays for drava ptuj . ###END###
@@ -12672,7 +12560,6 @@ SH	SH	kim_tae-jun	midfielder	position	kim tae-jun ; born 25 april 1989 is a sout
 SH	SH	kim_tae-jun	december	pcupdate	kim tae-jun ; born 25 april 1989 is a south korean footballer who plays as midfielder for goyang hi fc in k league challenge . ###END###
 SH	SH	eric_bowden	australian	nationality	eric kendall bowden 30 september 1871 -- 13 february 1931 was an australian solicitor and politician . ###END###
 SH	SH	andrei_ivanov_ice_hockey	forward	position	andrei ivanov ; born march 10 , 1981 is a russian professional ice hockey winger who plays for avangard omsk of the kontinental hockey league khl . ###END###
-SH	SH	andrei_ivanov_ice_hockey	left	shoots	andrei ivanov ; born march 10 , 1981 is a russian professional ice hockey winger who plays for avangard omsk of the kontinental hockey league khl . ###END###
 SH	SH	fredrik_ohlsson	actor	occupation	fredrik ohlsson born 12 june 1931 is a swedish actor .in 1956 he won a scholarship to rada , where he trained for two years . ###END###
 SH	SH	andré_chardar	defender	position	andré chardar 1906 -- 1993 was a french international footballer . ###END###
 SH	SH	arna_toktagan	cm_ftin_on	height	arna toktagan born 5 february 1986 is a kazakhstani synchronized swimmer .she competed in the women 's duet at the 2004 and 2008 summer olympics . ###END###
@@ -12799,7 +12686,6 @@ SH	SH	art_taylor	non_vocal_instrumentalist	background	arthur s. taylor , jr. apr
 SH	SH	nikolay_khrenkov	kg_lb_st_on	weight	nikolay khrenkov 15 july 1984 -- 2 june 2014 was a russian bobsledder . ###END###
 SH	SH	aleksandre_geladze	midfielder	position	aleksandre geladze born 19 november 1972 is a retired georgian professional football player . ###END###
 SH	SH	kevin_grimes_ice_hockey	defence	position	kevin grimes born august 19 , 1979 in ottawa , ontario is a retired canadian professional ice hockey player . ###END###
-SH	SH	kevin_grimes_ice_hockey	left	shoots	kevin grimes born august 19 , 1979 in ottawa , ontario is a retired canadian professional ice hockey player . ###END###
 SH	SH	winthrop_smillie_boggs	usa	nationality	winthrop smillie boggs 1902 -- 1974 was a philatelist renowned for his expertise and philatelic writing . ###END###
 SH	SH	alexis_salazar	m_ftin_on	height	alexis alejandro salazar villarroel born 3 june 1983 is a chilean footballer that currently plays for cobresal in the primera división de chile . ###END###
 SH	SH	alexis_salazar	defender	position	alexis alejandro salazar villarroel born 3 june 1983 is a chilean footballer that currently plays for cobresal in the primera división de chile . ###END###
@@ -12988,7 +12874,6 @@ SH	SH	josé_manuel_alcañiz	may	pcupdate	josé manuel alcañiz andreu born 12 ju
 SH	SH	hans-werner_moser	germany	nationalteam	hans-werner moser born 24 september 1965 in kusel is a german football coach and a former player who was last managing sv wehen wiesbaden . ###END###
 SH	SH	billy_slaughter	american	nationality	billy slaughter is an american film and television actor , best known for his roles in the `` the campaign '' and `` focus '' . ###END###
 SH	SH	sebastian_dyk	right_wing	position	sebastian dyk born september 24 , 1992 is a swedish ice hockey player .he is currently playing with asplöven hc in the hockeyallsvenskan . ###END###
-SH	SH	sebastian_dyk	right	shoots	sebastian dyk born september 24 , 1992 is a swedish ice hockey player .he is currently playing with asplöven hc in the hockeyallsvenskan . ###END###
 SH	SH	will_pfeifer	american	nationality	will pfeifer born july 28 , 1967 is an american comic book writer who currently writes dc comics ' teen titans book . ###END###
 SH	SH	matthias_lepiller	forward	position	matthias lepiller born 12 june 1988 is a french footballer who plays in italy for novara calcio as a forward . ###END###
 SH	SH	matthias_lepiller	october	pcupdate	matthias lepiller born 12 june 1988 is a french footballer who plays in italy for novara calcio as a forward . ###END###
@@ -13041,7 +12926,6 @@ SH	SH	harminto	july	pcupdate	harminto born april 13 , 1980 is an indonesian foot
 SH	SH	kim_kwang-min	defender	position	kim kwang-min ; born 25 december 1985 is a south korean football defender , who plays for duhok sc in iraqi premier league . ###END###
 SH	SH	kim_kwang-min	october	pcupdate	kim kwang-min ; born 25 december 1985 is a south korean football defender , who plays for duhok sc in iraqi premier league . ###END###
 SH	SH	bobby_rousseau	right_wing	position	joseph jean-paul robert rousseau born july 26 , 1940 is a retired canadian professional ice hockey right winger . ###END###
-SH	SH	bobby_rousseau	right	shoots	joseph jean-paul robert rousseau born july 26 , 1940 is a retired canadian professional ice hockey right winger . ###END###
 SH	SH	svetislav_perduv	defender	position	svetislav perduv born 8 march 1959 is a retired yugoslav football defender and manager . ###END###
 SH	SH	robert_mistele	football	sport	robert stanley mistele june 8 , 1920 -- september 22 , 2011 was an american football coach in the united states . ###END###
 SH	SH	oliver_sorg	right_back	position	oliver sorg born 29 may 1990 is a german footballer who plays as a right back for bundesliga club hannover 96 . ###END###
@@ -13183,7 +13067,6 @@ SH	SH	frédéric_delpla	fencing	sport	frédéric delpla born 9 november 1964 is 
 SH	SH	francisco_valero	fencing	sport	francisco valero 29 may 1906 -- 15 september 1982 was a mexican fencer .he competed at the 1932 and 1948 summer olympics . ###END###
 SH	SH	wang_cui	march	updated	wang cui , born 15 october 1989 is a chinese professional racing cyclist .she rides for china chongming-liv-champion system pro cycling . ###END###
 SH	SH	juuso_honka	forward	position	juuso honka born march 11 , 1990 is a finnish professional ice hockey player who played with hpk in the sm-liiga during the 2010-11 season . ###END###
-SH	SH	juuso_honka	left	shoots	juuso honka born march 11 , 1990 is a finnish professional ice hockey player who played with hpk in the sm-liiga during the 2010-11 season . ###END###
 SH	SH	saúl_salcedo	centre_back	position	saúl salcedo zárate born 29 august 1997 is a paraguayan footballer who plays for olimpia and the paraguay national under-20 football team . ###END###
 SH	SH	julius_dreschfeld	british	nationality	julius dreschfeld frcp 13 october 1845 -- 13 june 1907 was a leading british physician and pathologist . ###END###
 SH	SH	giorgio_nadali	italian	nationality	giorgio nadali , born in milan italy march 15 , 1962 is an italian writer and journalist . ###END###
@@ -13315,7 +13198,6 @@ SH	SH	boubacar_coulibaly	m_ftin_on	height	boubacar coulibaly born march 6 , 1985
 SH	SH	boubacar_coulibaly	july	pcupdate	boubacar coulibaly born march 6 , 1985 in bamako is a malian footballer currently playing for sv blau-weiss concordia viersen . ###END###
 SH	SH	eddie_murray_footballer	winger	position	eddie murray is a footballer who played as a winger in the football league for tranmere rovers . ###END###
 SH	SH	jeff_mead	center	position	jeff mead born february 10 , 1971 is a retired american professional ice hockey player . ###END###
-SH	SH	jeff_mead	right	shoots	jeff mead born february 10 , 1971 is a retired american professional ice hockey player . ###END###
 SH	SH	amanda_reason	m_ftin_on	height	amanda reason born august 22 , 1993 is a canadian breaststroke swimmer and a former world-record holder in the 50-metre breaststroke long course . ###END###
 SH	SH	amanda_reason	kg_lb_on	weight	amanda reason born august 22 , 1993 is a canadian breaststroke swimmer and a former world-record holder in the 50-metre breaststroke long course . ###END###
 SH	SH	tokhirjon_muminov	midfielder	position	tokhirjon muminov , born on 20 august 1970 is a retired tajikistani footballer . ###END###
