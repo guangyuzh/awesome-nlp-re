@@ -8,7 +8,7 @@ class Settings(object):
         self.vocab_size = 114042
         self.num_steps = 70
         self.num_epochs = 10
-        self.num_classes = 53
+        self.num_classes = 91
         self.gru_size = 230
         self.keep_prob = 0.5
         self.num_layers = 1
@@ -114,15 +114,17 @@ class GRU:
             # [False, True, False])
 
         # word-level attention layer
-        output_h = tf.add(output_forward,output_backward)
+        # output_h = tf.add(output_forward, output_backward)
+        # TODO: concatenation
+        output_h = tf.concat([output_forward, output_backward], 0)
         attention_r = tf.reshape(tf.matmul(
             tf.reshape(tf.nn.softmax(
                 tf.reshape(tf.matmul(
-                    tf.reshape(tf.tanh(output_h),[total_num*num_steps,gru_size]),attention_w),
-                    [total_num,num_steps])),
-                [total_num,1,num_steps]),
+                    tf.reshape(tf.tanh(output_h), [2 * total_num * num_steps, gru_size]), attention_w),
+                    [2 * total_num, num_steps])),
+                [2 * total_num, 1, num_steps]),
             output_h),
-            [total_num,gru_size])
+            [2 * total_num, gru_size])
 
         # sentence-level attention layer
         for i in range(big_num):
