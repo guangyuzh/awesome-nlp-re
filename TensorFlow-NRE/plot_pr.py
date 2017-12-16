@@ -14,10 +14,10 @@ for i in range(len(filename)):
 
 
 #ATTENTION: put the model iters you want to plot into the list
-model_iter = [10900]
+model_iter = [20000]
 for one_iter in model_iter:
     y_true = np.load('./data/allans.npy')
-    y_scores = np.load('./out/sample_allprob_iter_'+str(one_iter)+'.npy')
+    y_scores = np.load('./out/allprob_iter_'+str(one_iter)+'.npy')
 
     precision,recall,threshold = precision_recall_curve(y_true,y_scores)
     average_precision = average_precision_score(y_true, y_scores)
